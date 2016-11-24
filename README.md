@@ -14,16 +14,16 @@ I have provided the assignments and their completed code in their respective dir
 They all require their our programming language which students indicate with a hashbang or indicate it in their .bash_profile/ .bashrc.
 
 Example: 
-,,,
+```
 In the mzscheme program
 #!/afs/cats.ucsc.edu/courses/cmps112-wm/usr/racket/bin/mzscheme -qr
-,,,
-,,,
+```
+```
 In our .bash_profile/ .bashrc
 export PATH=$PATH:/afs/cats.ucsc.edu/courses/cmps112-wm/usr/ocaml/bin
 export PATH=$PATH:/afs/cats.ucsc.edu/courses/cmps112-wm/usr/racket/bin
 export PATH=$PATH:/afs/cats.ucsc.edu/courses/cmps112-wm/usr/gprolog/bin
-,,,
+```
 ## Tests
 
 Our professor provided usually provides us a mk.tests file or a testrun file which we run to test. You can find this in /.score OR /code 
