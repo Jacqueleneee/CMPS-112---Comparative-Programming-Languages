@@ -11,7 +11,7 @@ http://www2.ucsc.edu/courses/cmps112-wm/:/
 This website may require a login which is known mainly only to students and instructors.
 
 I have provided the assignments and their completed code in their respective directory /asg#/code.
-They all require their our programming language which students indicate with a hashbang or indicate it in their .bash_profile/ .bashrc.
+They all require their programming language which students indicate with a hashbang or indicate it in their .bash_profile/ .bashrc.
 
 Example: 
 ```
