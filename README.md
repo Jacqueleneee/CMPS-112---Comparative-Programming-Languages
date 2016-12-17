@@ -2,7 +2,7 @@
 
 ## Synopsis
 
-This class taught students comparative languages that aren't commonly used anymore. In this directory, I have  completed the class programming assignments respectively in /asg#/code.
+This class taught students comparative languages (Scheme, Ocaml, Smalltalk, and Prolog) that aren't commonly used anymore. In this directory, I have  completed the class programming assignments respectively in /asg#/code.
 
 ## Installation
 
