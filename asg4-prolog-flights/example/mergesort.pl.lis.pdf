@@ -1,0 +1,296 @@
+%PDF-1.2
+5 0 obj
+<</Length 6 0 R>>
+stream
+q 0.1 0 0 0.1 0 0 cm
+1 i
+0 G
+380 240 5360 7080 re
+S
+0.949219 g
+380 7320 5360 180 re
+f
+0.699219 g
+380 7320 720 360 re
+f
+0 g
+q
+10 0 0 10 0 0 cm BT
+/R9 12 Tf
+1 0 0 1 52.6641 752 Tm
+(03/06/12)Tj
+-0.659766 -12.8004 Td
+(21:05:39)Tj
+ET
+Q
+0.699219 g
+5020 7320 720 360 re
+f
+1 G
+1 g
+q
+10 0 0 10 0 0 cm BT
+/R7 28.8 Tf
+1 0 0 1 529.993 739.2 Tm
+(1)Tj
+ET
+Q
+0 G
+0 g
+q
+10 0 0 10 0 0 cm BT
+/R8 14 Tf
+1 0 0 1 262.293 736.5 Tm
+(mergesort.pl.lis)Tj
+-81.9688 18 Td
+($cmps112-wm/Languages/prolog/Examples/)Tj
+/R10 10 Tf
+-112.325 -35.5 Td
+[(1:)-600(Script started on Tue Mar  6 21:04:05 2012)]TJ
+11 TL
+T*[(2:)-600(bash-3.2$ cat -n me\\007rgesort.pl)]TJ
+T*[(3:)-600(     1  % $Id: mergesort.pl,v 1.3 2011-05-19 19:53:59-07 - - $ */)]TJ
+T*[(4:)-600(     2  )]TJ
+T*[(5:)-600(     3  %)]TJ
+T*[(6:)-600(     4  % Some sorting examples.)]TJ
+T*[(7:)-600(     5  %)]TJ
+T*[(8:)-600(     6  )]TJ
+T*[(9:)-600(     7  %)]TJ
+-6 -11 Td
+[(10:)-600(     8  % Insertion sort's top level function accepts the Unsorted list)]TJ
+T*[(11:)-600(     9  % and returns the Sorted list.  Insert inserts one element into)]TJ
+T*[(12:)-600(    10  % list such that the output list is sorted.)]TJ
+T*[(13:)-600(    11  %)]TJ
+T*[(14:)-600(    12  )]TJ
+T*[(15:)-600(    13  insertion_sort\( Unsorted, Sorted \) :-)]TJ
+T*[(16:)-600(    14     insertion_sort_gather\( Unsorted, [], Sorted \).)]TJ
+T*[(17:)-600(    15  )]TJ
+T*[(18:)-600(    16  insertion_sort_gather\( [], Gathered, Gathered \).)]TJ
+T*[(19:)-600(    17  insertion_sort_gather\( [Head|Tail], Gathered, Sorted \) :-)]TJ
+T*[(20:)-600(    18     insert\( Head, Gathered, NewGathered \),)]TJ
+T*[(21:)-600(    19     insertion_sort_gather\( Tail, NewGathered, Sorted \).)]TJ
+T*[(22:)-600(    20  )]TJ
+T*[(23:)-600(    21  insert\( Item, [], [Item] \).)]TJ
+T*[(24:)-600(    22  insert\( Item, [Head|Tail], [Item,Head|Tail] \) :-)]TJ
+T*[(25:)-600(    23     Item =< Head.)]TJ
+T*[(26:)-600(    24  insert\( Item, [Head|Tail], [Head|NewTail] \) :-)]TJ
+T*[(27:)-600(    25     Item > Head,)]TJ
+T*[(28:)-600(    26     insert\( Item, Tail, NewTail \).)]TJ
+T*[(29:)-600(    27  )]TJ
+T*[(30:)-600(    28  %)]TJ
+T*[(31:)-600(    29  % Merge sort divides the unsorted list into subparts and then)]TJ
+T*[(32:)-600(    30  % merges the sublists back again in pairs.)]TJ
+T*[(33:)-600(    31  %)]TJ
+T*[(34:)-600(    32  )]TJ
+T*[(35:)-600(    33  mergesort\( [], [] \).)]TJ
+T*[(36:)-600(    34  mergesort\( [Only], [Only] \).)]TJ
+T*[(37:)-600(    35  mergesort\( Unsorted, Sorted \) :-)]TJ
+T*[(38:)-600(    36     split\( Unsorted, UnsortedHalf1, UnsortedHalf2 \),)]TJ
+T*[(39:)-600(    37     mergesort\( UnsortedHalf1, SortedHalf1 \),)]TJ
+T*[(40:)-600(    38     mergesort\( UnsortedHalf2, SortedHalf2 \),)]TJ
+T*[(41:)-600(    39     merge\( SortedHalf1, SortedHalf2, Sorted \).)]TJ
+T*[(42:)-600(    40  )]TJ
+T*[(43:)-600(    41  split\( [], [], [] \).)]TJ
+T*[(44:)-600(    42  split\( [Only], [Only], [] \).)]TJ
+T*[(45:)-600(    43  split\( [First,Second|Tail], [First|Tail1], [Second|Tail2] \) :-)]TJ
+T*[(46:)-600(    44     split\( Tail, Tail1, Tail2 \).)]TJ
+T*[(47:)-600(    45  )]TJ
+T*[(48:)-600(    46  merge\( [], List, List \).)]TJ
+T*[(49:)-600(    47  merge\( List, [], List \).)]TJ
+T*[(50:)-600(    48  merge\( [Head1|Tail1], [Head2|Tail2], [Head1|NewTail] \) :-)]TJ
+T*[(51:)-600(    49     Head1 =< Head2,)]TJ
+T*[(52:)-600(    50     merge\( Tail1, [Head2|Tail2], NewTail \).)]TJ
+T*[(53:)-600(    51  merge\( [Head1|Tail1], [Head2|Tail2], [Head2|NewTail] \) :-)]TJ
+T*[(54:)-600(    52     Head1 > Head2,)]TJ
+T*[(55:)-600(    53     merge\( [Head1|Tail1], Tail2, NewTail \).)]TJ
+T*[(56:)-600(    54  )]TJ
+T*[(57:)-600(bash-3.2$ gprolog)]TJ
+T*[(58:)-600(GNU Prolog 1.3.1)]TJ
+T*[(59:)-600(By Daniel Diaz)]TJ
+T*[(60:)-600(Copyright \(C\) 1999-2009 Daniel Diaz)]TJ
+T*[(61:)-600(| ?- [mergesort])]TJ
+54 0 Td
+([mergesort].)Tj
+-54 -11 Td
+[(62:)-600(compiling /afs/cats.ucsc.edu/courses/cmps112-wm/Languages/prolog/Examples/merges)]TJ
+-19 -11 Td
+(ort.pl for byte code...)Tj
+19 -11 Td
+[(63:)-600(/afs/cats.ucsc.edu/courses/cmps112-wm/Languages/prolog/Examples/mergesort.pl com)]TJ
+ET
+Q
+Q
+endstream
+endobj
+6 0 obj
+4077
+endobj
+14 0 obj
+<</Length 15 0 R>>
+stream
+q 0.1 0 0 0.1 0 0 cm
+0 G
+380 240 5360 7080 re
+S
+0.949219 g
+380 7320 5360 180 re
+f
+0.699219 g
+380 7320 720 360 re
+f
+0 g
+q
+10 0 0 10 0 0 cm BT
+/R9 12 Tf
+1 0 0 1 52.6641 752 Tm
+(03/06/12)Tj
+-0.659766 -12.8004 Td
+(21:05:39)Tj
+ET
+Q
+0.699219 g
+5020 7320 720 360 re
+f
+1 G
+1 g
+q
+10 0 0 10 0 0 cm BT
+/R7 28.8 Tf
+1 0 0 1 529.993 739.2 Tm
+(2)Tj
+ET
+Q
+0 G
+0 g
+q
+10 0 0 10 0 0 cm BT
+/R8 14 Tf
+1 0 0 1 262.293 736.5 Tm
+(mergesort.pl.lis)Tj
+-81.9688 18 Td
+($cmps112-wm/Languages/prolog/Examples/)Tj
+/R10 10 Tf
+-137.325 -35.5 Td
+(piled, 54 lines read - 4467 bytes written, 11 ms)Tj
+19 -11 Td
+(64:)Tj
+11 TL
+T*[(65:)-600(\(1 ms\) yes)]TJ
+T*[(66:)-600(| ?- mergesort\([8, 4, 3, 6, -9, 66, 10, 3])]TJ
+114 0 Td
+([8, 4, 3, 6, -9, 66, 10, 3], X\))Tj
+-6 0 Td
+(\([8, 4, 3, 6, -9, 66, 10, 3], X\).)Tj
+-108 -11 Td
+(67:)Tj
+T*[(68:)-600(X = [-9,3,3,4,6,8,10,66] ? )]TJ
+(69:)'
+T*[(70:)-600(\(1 ms\) yes)]TJ
+T*[(71:)-600(| ?- )]TJ
+(72:)'
+(73:)'
+T*[(74:)-600(bash-3.2$ exit)]TJ
+(75:)'
+T*[(76:)-600(Script done on Tue Mar  6 21:05:39 2012)]TJ
+ET
+Q
+Q
+endstream
+endobj
+15 0 obj
+1016
+endobj
+4 0 obj
+<</Type/Page/MediaBox [0 0 612 792]
+/Parent 3 0 R
+/Resources<</ProcSet[/PDF /Text]
+/Font 12 0 R
+>>
+/Contents 5 0 R
+>>
+endobj
+13 0 obj
+<</Type/Page/MediaBox [0 0 612 792]
+/Parent 3 0 R
+/Resources<</ProcSet[/PDF /Text]
+/Font 16 0 R
+>>
+/Contents 14 0 R
+>>
+endobj
+3 0 obj
+<< /Type /Pages /Kids [
+4 0 R
+13 0 R
+] /Count 2
+>>
+endobj
+1 0 obj
+<</Type /Catalog /Pages 3 0 R
+>>
+endobj
+12 0 obj
+<</R8
+8 0 R/R10
+10 0 R/R7
+7 0 R/R9
+9 0 R/R11
+11 0 R>>
+endobj
+16 0 obj
+<</R8
+8 0 R/R10
+10 0 R/R7
+7 0 R/R9
+9 0 R>>
+endobj
+8 0 obj
+<</BaseFont/Times-Roman/Type/Font
+/Subtype/Type1>>
+endobj
+10 0 obj
+<</BaseFont/Courier/Type/Font
+/Subtype/Type1>>
+endobj
+7 0 obj
+<</BaseFont/Helvetica-Bold/Type/Font
+/Subtype/Type1>>
+endobj
+9 0 obj
+<</BaseFont/Times-Bold/Type/Font
+/Subtype/Type1>>
+endobj
+11 0 obj
+<</BaseFont/Courier-Bold/Type/Font
+/Subtype/Type1>>
+endobj
+2 0 obj
+<</Producer(ESP Ghostscript 815.02)
+/CreationDate(D:20120306211106)
+/ModDate(D:20120306211106)>>endobj
+xref
+0 17
+0000000000 65535 f 
+0000005579 00000 n 
+0000006087 00000 n 
+0000005513 00000 n 
+0000005245 00000 n 
+0000000009 00000 n 
+0000004136 00000 n 
+0000005885 00000 n 
+0000005756 00000 n 
+0000005954 00000 n 
+0000005822 00000 n 
+0000006019 00000 n 
+0000005627 00000 n 
+0000005378 00000 n 
+0000004156 00000 n 
+0000005224 00000 n 
+0000005697 00000 n 
+trailer
+<< /Size 17 /Root 1 0 R /Info 2 0 R
+/ID [<EFAB847DAED9F02A556B479451C2047E><EFAB847DAED9F02A556B479451C2047E>]
+>>
+startxref
+6198
+%%EOF

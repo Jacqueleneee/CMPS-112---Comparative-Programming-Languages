@@ -1,0 +1,299 @@
+%PDF-1.2
+5 0 obj
+<</Length 6 0 R>>
+stream
+q 0.1 0 0 0.1 0 0 cm
+1 i
+0 G
+380 240 5360 7080 re
+S
+0.949219 g
+380 7320 5360 180 re
+f
+0.699219 g
+380 7320 720 360 re
+f
+0 g
+q
+10 0 0 10 0 0 cm BT
+/R9 12 Tf
+1 0 0 1 52.6641 752 Tm
+(03/06/12)Tj
+-0.659766 -12.8004 Td
+(21:00:48)Tj
+ET
+Q
+0.699219 g
+5020 7320 720 360 re
+f
+1 G
+1 g
+q
+10 0 0 10 0 0 cm BT
+/R7 28.8 Tf
+1 0 0 1 529.993 739.2 Tm
+(1)Tj
+ET
+Q
+0 G
+0 g
+q
+10 0 0 10 0 0 cm BT
+/R8 14 Tf
+1 0 0 1 267.039 736.5 Tm
+(factorial.pl.lis)Tj
+-86.7148 18 Td
+($cmps112-wm/Languages/prolog/Examples/)Tj
+/R10 10 Tf
+-112.325 -35.5 Td
+[(1:)-600(Script started on Tue Mar  6 20:58:16 2012)]TJ
+11 TL
+T*[(2:)-600(bash-3.2$ cat -n fac\\007torial.pl)]TJ
+T*[(3:)-600(     1  % $Id: factorial.pl,v 1.2 2011-05-19 19:53:59-07 - - $ */)]TJ
+T*[(4:)-600(     2  )]TJ
+T*[(5:)-600(     3  %)]TJ
+T*[(6:)-600(     4  % Factorial, the old intro to recursion standby.)]TJ
+T*[(7:)-600(     5  %)]TJ
+T*[(8:)-600(     6  )]TJ
+T*[(9:)-600(     7  factorial\( 0, 1 \) :-)]TJ
+-6 -11 Td
+[(10:)-600(     8          !.)]TJ
+T*[(11:)-600(     9  )]TJ
+T*[(12:)-600(    10  factorial\( N, Nfac \) :-)]TJ
+T*[(13:)-600(    11          M is N - 1,)]TJ
+T*[(14:)-600(    12          factorial\( M, Mfac \),)]TJ
+T*[(15:)-600(    13          Nfac is N * Mfac.)]TJ
+T*[(16:)-600(    14  )]TJ
+T*[(17:)-600(    15  % TEST: factorial\(5,N\).)]TJ
+T*[(18:)-600(    16  % TEST: factorial\(20,N\).)]TJ
+T*[(19:)-600(bash-3.2$ gprolog)]TJ
+T*[(20:)-600(GNU Prolog 1.3.1)]TJ
+T*[(21:)-600(By Daniel Diaz)]TJ
+T*[(22:)-600(Copyright \(C\) 1999-2009 Daniel Diaz)]TJ
+T*[(23:)-600(| ?- [factorial])]TJ
+54 0 Td
+([factorial].)Tj
+-54 -11 Td
+[(24:)-600(compiling /afs/cats.ucsc.edu/courses/cmps112-wm/Languages/prolog/Examples/factor)]TJ
+-19 -11 Td
+(ial.pl for byte code...)Tj
+19 -11 Td
+[(25:)-600(/afs/cats.ucsc.edu/courses/cmps112-wm/Languages/prolog/Examples/factorial.pl com)]TJ
+-19 -11 Td
+(piled, 16 lines read - 916 bytes written, 10 ms)Tj
+19 -11 Td
+(26:)Tj
+T*[(27:)-600(yes)]TJ
+T*[(28:)-600(| ?- trace.)]TJ
+T*[(29:)-600(The debugger will first creep -- showing everything \(trace\))]TJ
+(30:)'
+T*[(31:)-600(yes)]TJ
+T*[(32:)-600({trace})]TJ
+T*[(33:)-600(| ?- factorial\(5,N\))]TJ
+108 0 Td
+(\(5,N\).)Tj
+-108 -11 Td
+[(34:)-600(      1    1  Call: factorial\(5,_16\) ? )]TJ
+T*[(35:)-600(      2    2  Call: _88 is 5-1 ? )]TJ
+T*[(36:)-600(      2    2  Exit: 4 is 5-1 ? )]TJ
+T*[(37:)-600(      3    2  Call: factorial\(4,_113\) ? )]TJ
+T*[(38:)-600(      4    3  Call: _140 is 4-1 ? )]TJ
+T*[(39:)-600(      4    3  Exit: 3 is 4-1 ? )]TJ
+T*[(40:)-600(      5    3  Call: factorial\(3,_165\) ? )]TJ
+T*[(41:)-600(      6    4  Call: _192 is 3-1 ? )]TJ
+T*[(42:)-600(      6    4  Exit: 2 is 3-1 ? )]TJ
+T*[(43:)-600(      7    4  Call: factorial\(2,_217\) ? )]TJ
+T*[(44:)-600(      8    5  Call: _244 is 2-1 ? )]TJ
+T*[(45:)-600(      8    5  Exit: 1 is 2-1 ? )]TJ
+T*[(46:)-600(      9    5  Call: factorial\(1,_269\) ? )]TJ
+T*[(47:)-600(     10    6  Call: _296 is 1-1 ? )]TJ
+T*[(48:)-600(     10    6  Exit: 0 is 1-1 ? )]TJ
+T*[(49:)-600(     11    6  Call: factorial\(0,_321\) ? )]TJ
+T*[(50:)-600(     11    6  Exit: factorial\(0,1\) ? )]TJ
+T*[(51:)-600(     12    6  Call: _349 is 1*1 ? )]TJ
+T*[(52:)-600(     12    6  Exit: 1 is 1*1 ? )]TJ
+T*[(53:)-600(      9    5  Exit: factorial\(1,1\) ? )]TJ
+T*[(54:)-600(     13    5  Call: _378 is 2*1 ? )]TJ
+T*[(55:)-600(     13    5  Exit: 2 is 2*1 ? )]TJ
+T*[(56:)-600(      7    4  Exit: factorial\(2,2\) ? )]TJ
+T*[(57:)-600(     14    4  Call: _407 is 3*2 ? )]TJ
+T*[(58:)-600(     14    4  Exit: 6 is 3*2 ? )]TJ
+T*[(59:)-600(      5    3  Exit: factorial\(3,6\) ? )]TJ
+T*[(60:)-600(     15    3  Call: _436 is 4*6 ? )]TJ
+T*[(61:)-600(     15    3  Exit: 24 is 4*6 ? )]TJ
+T*[(62:)-600(      3    2  Exit: factorial\(4,24\) ? )]TJ
+ET
+Q
+Q
+endstream
+endobj
+6 0 obj
+3699
+endobj
+14 0 obj
+<</Length 15 0 R>>
+stream
+q 0.1 0 0 0.1 0 0 cm
+0 G
+380 240 5360 7080 re
+S
+0.949219 g
+380 7320 5360 180 re
+f
+0.699219 g
+380 7320 720 360 re
+f
+0 g
+q
+10 0 0 10 0 0 cm BT
+/R9 12 Tf
+1 0 0 1 52.6641 752 Tm
+(03/06/12)Tj
+-0.659766 -12.8004 Td
+(21:00:48)Tj
+ET
+Q
+0.699219 g
+5020 7320 720 360 re
+f
+1 G
+1 g
+q
+10 0 0 10 0 0 cm BT
+/R7 28.8 Tf
+1 0 0 1 529.993 739.2 Tm
+(2)Tj
+ET
+Q
+0 G
+0 g
+q
+10 0 0 10 0 0 cm BT
+/R8 14 Tf
+1 0 0 1 267.039 736.5 Tm
+(factorial.pl.lis)Tj
+-86.7148 18 Td
+($cmps112-wm/Languages/prolog/Examples/)Tj
+/R10 10 Tf
+-118.325 -35.5 Td
+[(63:)-600(     16    2  Call: _16 is 5*24 ? )]TJ
+11 TL
+T*[(64:)-600(     16    2  Exit: 120 is 5*24 ? )]TJ
+T*[(65:)-600(      1    1  Exit: factorial\(5,120\) ? )]TJ
+(66:)'
+T*[(67:)-600(N = 120)]TJ
+(68:)'
+T*[(69:)-600(\(1 ms\) yes)]TJ
+T*[(70:)-600({trace})]TJ
+T*[(71:)-600(| ?- )]TJ
+(72:)'
+(73:)'
+(74:)'
+(75:)'
+(76:)'
+(77:)'
+T*[(78:)-600(bash-3.2$ exit)]TJ
+(79:)'
+T*[(80:)-600(Script done on Tue Mar  6 21:00:48 2012)]TJ
+ET
+Q
+Q
+endstream
+endobj
+15 0 obj
+941
+endobj
+4 0 obj
+<</Type/Page/MediaBox [0 0 612 792]
+/Parent 3 0 R
+/Resources<</ProcSet[/PDF /Text]
+/Font 12 0 R
+>>
+/Contents 5 0 R
+>>
+endobj
+13 0 obj
+<</Type/Page/MediaBox [0 0 612 792]
+/Parent 3 0 R
+/Resources<</ProcSet[/PDF /Text]
+/Font 16 0 R
+>>
+/Contents 14 0 R
+>>
+endobj
+3 0 obj
+<< /Type /Pages /Kids [
+4 0 R
+13 0 R
+] /Count 2
+>>
+endobj
+1 0 obj
+<</Type /Catalog /Pages 3 0 R
+>>
+endobj
+12 0 obj
+<</R8
+8 0 R/R10
+10 0 R/R7
+7 0 R/R9
+9 0 R/R11
+11 0 R>>
+endobj
+16 0 obj
+<</R8
+8 0 R/R10
+10 0 R/R7
+7 0 R/R9
+9 0 R>>
+endobj
+8 0 obj
+<</BaseFont/Times-Roman/Type/Font
+/Subtype/Type1>>
+endobj
+10 0 obj
+<</BaseFont/Courier/Type/Font
+/Subtype/Type1>>
+endobj
+7 0 obj
+<</BaseFont/Helvetica-Bold/Type/Font
+/Subtype/Type1>>
+endobj
+9 0 obj
+<</BaseFont/Times-Bold/Type/Font
+/Subtype/Type1>>
+endobj
+11 0 obj
+<</BaseFont/Courier-Bold/Type/Font
+/Subtype/Type1>>
+endobj
+2 0 obj
+<</Producer(ESP Ghostscript 815.02)
+/CreationDate(D:20120306211105)
+/ModDate(D:20120306211105)>>endobj
+xref
+0 17
+0000000000 65535 f 
+0000005125 00000 n 
+0000005633 00000 n 
+0000005059 00000 n 
+0000004791 00000 n 
+0000000009 00000 n 
+0000003758 00000 n 
+0000005431 00000 n 
+0000005302 00000 n 
+0000005500 00000 n 
+0000005368 00000 n 
+0000005565 00000 n 
+0000005173 00000 n 
+0000004924 00000 n 
+0000003778 00000 n 
+0000004771 00000 n 
+0000005243 00000 n 
+trailer
+<< /Size 17 /Root 1 0 R /Info 2 0 R
+/ID [<9396C9E2F99CDFF18B4395C42919A05F><9396C9E2F99CDFF18B4395C42919A05F>]
+>>
+startxref
+5744
+%%EOF

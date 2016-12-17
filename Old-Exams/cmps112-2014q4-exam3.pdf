@@ -1,0 +1,4817 @@
+%PDF-1.4
+5 0 obj
+<</Length 6 0 R>>
+stream
+q 0.1 0 0 0.1 0 0 cm
+/R7 gs
+4 w
+1 J
+1 j
+0 G
+720.25 7400.25 m
+5400.25 7400.25 l
+S
+720.25 7380.25 m
+5400.25 7380.25 l
+S
+0 g
+q
+10 0 0 10 0 0 cm BT
+/R8 10 Tf
+1 0 0 1 72 744 Tm
+(CMPS-112 \203 Comparati)Tj
+-0.1 Tc
+101.71 0 Td
+0.2 Tw
+(ve P)Tj
+-0.18 Tc
+17.95 0 Td
+(ro)Tj
+0 Tc
+9.26016 0 Td
+0 Tw
+[(gramming Languages \203 F)25.0146(all 2014 \203 Final Exam)]TJ
+2.5 Tc
+/R10 10 Tf
+315.71 0 Td
+[(1o)250(f5)]TJ
+0 Tc
+/R12 9 Tf
+0.75 0 0 1 72 729 Tm
+($Id: cmps112-2014q4-exam3.mm,v 1.115 2014-12-11 13:23:31-08 - - $)Tj
+ET
+Q
+1152 6854 m
+1152 6734.71 1055.29 6638 936 6638 c
+816.707 6638 720 6734.71 720 6854 c
+720 6973.29 816.707 7070 936 7070 c
+1055.29 7070 1152 6973.29 1152 6854 c
+h
+S
+q
+10 0 0 10 0 0 cm BT
+/R10 10 Tf
+1 0 0 1 80.4102 710.8 Tm
+(page 1)Tj
+ET
+Q
+1584 6854 m
+1584 6734.71 1487.29 6638 1368 6638 c
+1248.71 6638 1152 6734.71 1152 6854 c
+1152 6973.29 1248.71 7070 1368 7070 c
+1487.29 7070 1584 6973.29 1584 6854 c
+h
+S
+q
+10 0 0 10 0 0 cm BT
+/R10 10 Tf
+1 0 0 1 123.61 710.8 Tm
+(page 2)Tj
+ET
+Q
+2016 6854 m
+2016 6734.71 1919.29 6638 1800 6638 c
+1680.71 6638 1584 6734.71 1584 6854 c
+1584 6973.29 1680.71 7070 1800 7070 c
+1919.29 7070 2016 6973.29 2016 6854 c
+h
+S
+q
+10 0 0 10 0 0 cm BT
+/R10 10 Tf
+1 0 0 1 166.81 710.8 Tm
+(page 3)Tj
+ET
+Q
+2448 6854 m
+2448 6734.71 2351.29 6638 2232 6638 c
+2112.71 6638 2016 6734.71 2016 6854 c
+2016 6973.29 2112.71 7070 2232 7070 c
+2351.29 7070 2448 6973.29 2448 6854 c
+h
+S
+q
+10 0 0 10 0 0 cm BT
+/R10 10 Tf
+1 0 0 1 210.01 710.8 Tm
+(page 4)Tj
+ET
+Q
+2880 6854 m
+2880 6734.71 2783.29 6638 2664 6638 c
+2544.71 6638 2448 6734.71 2448 6854 c
+2448 6973.29 2544.71 7070 2664 7070 c
+2783.29 7070 2880 6973.29 2880 6854 c
+h
+S
+q
+10 0 0 10 0 0 cm BT
+/R10 10 Tf
+1 0 0 1 253.21 710.8 Tm
+(page 5)Tj
+ET
+Q
+3600 6854 1800 216 re
+S
+q
+10 0 0 10 0 0 cm BT
+/R14 10 Tf
+1 0 0 1 365 710.8 Tm
+[(Please print clearly)-166.592(:)]TJ
+/R8 10 Tf
+21.6 TL
+-0.834 Tw
+(Name :)'
+ET
+Q
+3600 6638 1800 216 re
+S
+q
+10 0 0 10 0 0 cm BT
+/R8 10 Tf
+1 0 0 1 365 667.6 Tm
+-0.834 Tw
+(Login :)Tj
+/R12 10 Tf
+0.75 0 0 1 495 667.6 Tm
+(@ucsc.edu)Tj
+ET
+Q
+20 w
+3571.2 6854 m
+3571.2 6734.71 3422.91 6638 3240 6638 c
+3057.09 6638 2908.8 6734.71 2908.8 6854 c
+2908.8 6973.29 3057.09 7070 3240 7070 c
+3422.91 7070 3571.2 6973.29 3571.2 6854 c
+h
+S
+q
+10 0 0 10 0 0 cm BT
+-0.8 Tc
+/R10 10 Tf
+1 0 0 1 305.789 710.8 Tm
+(To)Tj
+0 Tc
+10.3102 0 Td
+-0.834 Tw
+(tal / 54)Tj
+/R14 10 Tf
+-244.099 -77 Td
+0.067 Tw
+(No books)Tj
+5.067 Tc
+40.343 0 Td
+(;N)Tj
+2.567 Tc
+15.6172 0 Td
+(oc)Tj
+0 Tc
+12.007 0 Td
+-0.834 Tw
+(alculator ;)Tj
+47.293 0 Td
+0.067 Tw
+(No computer)Tj
+5.067 Tc
+55.343 0 Td
+(;N)Tj
+2.567 Tc
+15.6172 0 Td
+(oe)Tj
+0 Tc
+12.007 0 Td
+-0.834 Tw
+(mail ;)Tj
+28.4031 0 Td
+0.067 Tw
+(No internet)Tj
+5.067 Tc
+48.6828 0 Td
+(;N)Tj
+2.567 Tc
+15.6172 0 Td
+(on)Tj
+0 Tc
+13.127 0 Td
+-0.834 Tw
+(otes ;)Tj
+26.173 0 Td
+0.066 Tw
+[(No phone.)-506.611(Neatness counts)]TJ
+5.066 Tc
+116.594 0 Td
+(!D)Tj
+0 Tc
+16.3961 0 Td
+(o)Tj
+-463.221 -12 Td
+0 Tw
+(your scratc)Tj
+2.5 Tc
+45.7301 0 Td
+(hw)Tj
+0 Tc
+14.5801 0 Td
+[(ork elsewhere and enter only your \214nal answ)10(er into the spaces pro)14.9927(vided.)]TJ
+/R10 10 Tf
+-57.8102 -18 Td
+(1.)Tj
+/R14 10 Tf
+12.5 0 Td
+(Ocaml.)Tj
+/R10 10 Tf
+35.4988 0 Td
+0.779 Tw
+(De\214ne the function)Tj
+/R16 10 Tf
+0.75 0 0 1 204.506 603.8 Tm
+(reverse)Tj
+/R10 10 Tf
+1 0 0 1 238.13 603.8 Tm
+(which re)Tj
+-0.15 Tc
+35.3488 0 Td
+(ve)Tj
+0 Tc
+9.28984 0 Td
+(rses a list.)Tj
+47.1672 0 Td
+0.78 Tw
+(Use an inner function that is tail recursi)Tj
+-0.15 Tc
+163.57 0 Td
+(ve)Tj
+5.78 Tc
+9.28984 0 Td
+(.D)Tj
+3.28 Tc
+15.4602 0 Td
+(on)Tj
+0 Tc
+13.2801 0 Td
+(ot)Tj
+-444.536 -12 Td
+0 Tw
+[(use a higher)19.9927(-order function.)]TJ
+/R18 10 Tf
+116.21 0 Td
+([2)Tj
+/R20 10 Tf
+8.88984 0 Td
+(4)Tj
+/R18 10 Tf
+8.46016 0 Td
+(])Tj
+/R12 10 Tf
+0.75 0 0 1 87 579.8 Tm
+(val reverse : 'a list -> 'a list)Tj
+/R10 10 Tf
+1 0 0 1 74.5 474.2 Tm
+(2.)Tj
+/R14 10 Tf
+12.5 0 Td
+(Ocaml.)Tj
+/R10 10 Tf
+34.7199 0 Td
+(De\214ne the functions)Tj
+/R16 10 Tf
+0.75 0 0 1 205.28 474.2 Tm
+(reverse)Tj
+/R10 10 Tf
+1 0 0 1 238.125 474.2 Tm
+(and)Tj
+/R16 10 Tf
+0.75 0 0 1 255.065 474.2 Tm
+(sum)Tj
+/R10 10 Tf
+1 0 0 1 270.57 474.2 Tm
+(using)Tj
+/R16 10 Tf
+0.75 0 0 1 294.74 474.2 Tm
+(fold_left)Tj
+5 Tc
+/R10 10 Tf
+1 0 0 1 333.055 474.2 Tm
+(.\()Tj
+0 Tc
+10.8301 0 Td
+(Fill in the blanks.\))Tj
+/R18 10 Tf
+78.3398 0 Td
+([3)Tj
+/R20 10 Tf
+8.88984 0 Td
+(4)Tj
+/R18 10 Tf
+8.46016 0 Td
+(])Tj
+/R12 10 Tf
+0.75 0 0 1 87 462.2 Tm
+(#)Tj
+/R16 10 Tf
+12 0 Td
+(List.fold_left;;)Tj
+6 Tc
+/R12 10 Tf
+-12 -12 Td
+(-:\()Tj
+0 Tc
+30 0 Td
+('a -> 'b -> 'a\) -> 'a -> 'b list -> 'a)Tj
+-30 -19.2 Td
+(#)Tj
+/R16 10 Tf
+12 0 Td
+(let reverse = List.fold_left)Tj
+ET
+Q
+4 w
+2265.25 4310.25 m
+2315.25 4310.25 l
+S
+2295.25 4310.25 m
+2345.25 4310.25 l
+S
+2345.25 4310.25 m
+2395.25 4310.25 l
+S
+2395.25 4310.25 m
+2445.25 4310.25 l
+S
+2445.25 4310.25 m
+2495.25 4310.25 l
+S
+2495.25 4310.25 m
+2545.25 4310.25 l
+S
+2545.25 4310.25 m
+2595.25 4310.25 l
+S
+2595.25 4310.25 m
+2645.25 4310.25 l
+S
+2645.25 4310.25 m
+2695.25 4310.25 l
+S
+2695.25 4310.25 m
+2745.25 4310.25 l
+S
+2745.25 4310.25 m
+2795.25 4310.25 l
+S
+2795.25 4310.25 m
+2845.25 4310.25 l
+S
+2845.25 4310.25 m
+2895.25 4310.25 l
+S
+2895.25 4310.25 m
+2945.25 4310.25 l
+S
+2945.25 4310.25 m
+2995.25 4310.25 l
+S
+2995.25 4310.25 m
+3045.25 4310.25 l
+S
+3045.25 4310.25 m
+3095.25 4310.25 l
+S
+3095.25 4310.25 m
+3145.25 4310.25 l
+S
+3145.25 4310.25 m
+3195.25 4310.25 l
+S
+3195.25 4310.25 m
+3245.25 4310.25 l
+S
+3245.25 4310.25 m
+3295.25 4310.25 l
+S
+3295.25 4310.25 m
+3345.25 4310.25 l
+S
+3345.25 4310.25 m
+3395.25 4310.25 l
+S
+3395.25 4310.25 m
+3445.25 4310.25 l
+S
+3445.25 4310.25 m
+3495.25 4310.25 l
+S
+3495.25 4310.25 m
+3545.25 4310.25 l
+S
+3545.25 4310.25 m
+3595.25 4310.25 l
+S
+3595.25 4310.25 m
+3645.25 4310.25 l
+S
+3645.25 4310.25 m
+3695.25 4310.25 l
+S
+3695.25 4310.25 m
+3745.25 4310.25 l
+S
+3745.25 4310.25 m
+3795.25 4310.25 l
+S
+3795.25 4310.25 m
+3845.25 4310.25 l
+S
+3845.25 4310.25 m
+3895.25 4310.25 l
+S
+3895.25 4310.25 m
+3945.25 4310.25 l
+S
+3945.25 4310.25 m
+3995.25 4310.25 l
+S
+3995.25 4310.25 m
+4045.25 4310.25 l
+S
+4045.25 4310.25 m
+4095.25 4310.25 l
+S
+4095.25 4310.25 m
+4145.25 4310.25 l
+S
+4145.25 4310.25 m
+4195.25 4310.25 l
+S
+4195.25 4310.25 m
+4245.25 4310.25 l
+S
+4245.25 4310.25 m
+4295.25 4310.25 l
+S
+4295.25 4310.25 m
+4345.25 4310.25 l
+S
+4345.25 4310.25 m
+4395.25 4310.25 l
+S
+4395.25 4310.25 m
+4445.25 4310.25 l
+S
+4445.25 4310.25 m
+4495.25 4310.25 l
+S
+4495.25 4310.25 m
+4545.25 4310.25 l
+S
+4545.25 4310.25 m
+4595.25 4310.25 l
+S
+4595.25 4310.25 m
+4645.25 4310.25 l
+S
+4645.25 4310.25 m
+4695.25 4310.25 l
+S
+4695.25 4310.25 m
+4745.25 4310.25 l
+S
+4745.25 4310.25 m
+4795.25 4310.25 l
+S
+4795.25 4310.25 m
+4845.25 4310.25 l
+S
+4845.25 4310.25 m
+4895.25 4310.25 l
+S
+4895.25 4310.25 m
+4945.25 4310.25 l
+S
+4945.25 4310.25 m
+4995.25 4310.25 l
+S
+4995.25 4310.25 m
+5045.25 4310.25 l
+S
+5045.25 4310.25 m
+5095.25 4310.25 l
+S
+5095.25 4310.25 m
+5145.25 4310.25 l
+S
+q
+10 0 0 10 0 0 cm BT
+/R16 10 Tf
+0.75 0 0 1 514.5 431 Tm
+(;;)Tj
+/R12 10 Tf
+-570 -12 Td
+(val reverse : '_a list -> '_a list)Tj
+19.2 TL
+(#)'
+/R16 10 Tf
+12 0 Td
+(let sum = List.fold_left)Tj
+ET
+Q
+2085.25 3998.25 m
+2135.25 3998.25 l
+S
+2115.25 3998.25 m
+2165.25 3998.25 l
+S
+2165.25 3998.25 m
+2215.25 3998.25 l
+S
+2215.25 3998.25 m
+2265.25 3998.25 l
+S
+2265.25 3998.25 m
+2315.25 3998.25 l
+S
+2315.25 3998.25 m
+2365.25 3998.25 l
+S
+2365.25 3998.25 m
+2415.25 3998.25 l
+S
+2415.25 3998.25 m
+2465.25 3998.25 l
+S
+2465.25 3998.25 m
+2515.25 3998.25 l
+S
+2515.25 3998.25 m
+2565.25 3998.25 l
+S
+2565.25 3998.25 m
+2615.25 3998.25 l
+S
+2615.25 3998.25 m
+2665.25 3998.25 l
+S
+2665.25 3998.25 m
+2715.25 3998.25 l
+S
+2715.25 3998.25 m
+2765.25 3998.25 l
+S
+2765.25 3998.25 m
+2815.25 3998.25 l
+S
+2815.25 3998.25 m
+2865.25 3998.25 l
+S
+2865.25 3998.25 m
+2915.25 3998.25 l
+S
+2915.25 3998.25 m
+2965.25 3998.25 l
+S
+2965.25 3998.25 m
+3015.25 3998.25 l
+S
+3015.25 3998.25 m
+3065.25 3998.25 l
+S
+3065.25 3998.25 m
+3115.25 3998.25 l
+S
+3115.25 3998.25 m
+3165.25 3998.25 l
+S
+3165.25 3998.25 m
+3215.25 3998.25 l
+S
+3215.25 3998.25 m
+3265.25 3998.25 l
+S
+3265.25 3998.25 m
+3315.25 3998.25 l
+S
+3315.25 3998.25 m
+3365.25 3998.25 l
+S
+3365.25 3998.25 m
+3415.25 3998.25 l
+S
+3415.25 3998.25 m
+3465.25 3998.25 l
+S
+3465.25 3998.25 m
+3515.25 3998.25 l
+S
+3515.25 3998.25 m
+3565.25 3998.25 l
+S
+3565.25 3998.25 m
+3615.25 3998.25 l
+S
+3615.25 3998.25 m
+3665.25 3998.25 l
+S
+3665.25 3998.25 m
+3715.25 3998.25 l
+S
+3715.25 3998.25 m
+3765.25 3998.25 l
+S
+3765.25 3998.25 m
+3815.25 3998.25 l
+S
+3815.25 3998.25 m
+3865.25 3998.25 l
+S
+3865.25 3998.25 m
+3915.25 3998.25 l
+S
+3915.25 3998.25 m
+3965.25 3998.25 l
+S
+3965.25 3998.25 m
+4015.25 3998.25 l
+S
+4015.25 3998.25 m
+4065.25 3998.25 l
+S
+4065.25 3998.25 m
+4115.25 3998.25 l
+S
+4115.25 3998.25 m
+4165.25 3998.25 l
+S
+4165.25 3998.25 m
+4215.25 3998.25 l
+S
+4215.25 3998.25 m
+4265.25 3998.25 l
+S
+4265.25 3998.25 m
+4315.25 3998.25 l
+S
+4315.25 3998.25 m
+4365.25 3998.25 l
+S
+4365.25 3998.25 m
+4415.25 3998.25 l
+S
+4415.25 3998.25 m
+4465.25 3998.25 l
+S
+4465.25 3998.25 m
+4515.25 3998.25 l
+S
+4515.25 3998.25 m
+4565.25 3998.25 l
+S
+4565.25 3998.25 m
+4615.25 3998.25 l
+S
+4615.25 3998.25 m
+4665.25 3998.25 l
+S
+4665.25 3998.25 m
+4715.25 3998.25 l
+S
+4715.25 3998.25 m
+4765.25 3998.25 l
+S
+4765.25 3998.25 m
+4815.25 3998.25 l
+S
+4815.25 3998.25 m
+4865.25 3998.25 l
+S
+4865.25 3998.25 m
+4915.25 3998.25 l
+S
+4915.25 3998.25 m
+4965.25 3998.25 l
+S
+q
+10 0 0 10 0 0 cm BT
+/R16 10 Tf
+0.75 0 0 1 496.5 399.8 Tm
+(;;)Tj
+/R12 10 Tf
+-546 -12 Td
+(val sum : int list -> int)Tj
+19.2 TL
+(#)'
+/R16 10 Tf
+12 0 Td
+(let length = List.fold_left)Tj
+ET
+Q
+2220.25 3686.25 m
+2270.25 3686.25 l
+S
+2250.25 3686.25 m
+2300.25 3686.25 l
+S
+2300.25 3686.25 m
+2350.25 3686.25 l
+S
+2350.25 3686.25 m
+2400.25 3686.25 l
+S
+2400.25 3686.25 m
+2450.25 3686.25 l
+S
+2450.25 3686.25 m
+2500.25 3686.25 l
+S
+2500.25 3686.25 m
+2550.25 3686.25 l
+S
+2550.25 3686.25 m
+2600.25 3686.25 l
+S
+2600.25 3686.25 m
+2650.25 3686.25 l
+S
+2650.25 3686.25 m
+2700.25 3686.25 l
+S
+2700.25 3686.25 m
+2750.25 3686.25 l
+S
+2750.25 3686.25 m
+2800.25 3686.25 l
+S
+2800.25 3686.25 m
+2850.25 3686.25 l
+S
+2850.25 3686.25 m
+2900.25 3686.25 l
+S
+2900.25 3686.25 m
+2950.25 3686.25 l
+S
+2950.25 3686.25 m
+3000.25 3686.25 l
+S
+3000.25 3686.25 m
+3050.25 3686.25 l
+S
+3050.25 3686.25 m
+3100.25 3686.25 l
+S
+3100.25 3686.25 m
+3150.25 3686.25 l
+S
+3150.25 3686.25 m
+3200.25 3686.25 l
+S
+3200.25 3686.25 m
+3250.25 3686.25 l
+S
+3250.25 3686.25 m
+3300.25 3686.25 l
+S
+3300.25 3686.25 m
+3350.25 3686.25 l
+S
+3350.25 3686.25 m
+3400.25 3686.25 l
+S
+3400.25 3686.25 m
+3450.25 3686.25 l
+S
+3450.25 3686.25 m
+3500.25 3686.25 l
+S
+3500.25 3686.25 m
+3550.25 3686.25 l
+S
+3550.25 3686.25 m
+3600.25 3686.25 l
+S
+3600.25 3686.25 m
+3650.25 3686.25 l
+S
+3650.25 3686.25 m
+3700.25 3686.25 l
+S
+3700.25 3686.25 m
+3750.25 3686.25 l
+S
+3750.25 3686.25 m
+3800.25 3686.25 l
+S
+3800.25 3686.25 m
+3850.25 3686.25 l
+S
+3850.25 3686.25 m
+3900.25 3686.25 l
+S
+3900.25 3686.25 m
+3950.25 3686.25 l
+S
+3950.25 3686.25 m
+4000.25 3686.25 l
+S
+4000.25 3686.25 m
+4050.25 3686.25 l
+S
+4050.25 3686.25 m
+4100.25 3686.25 l
+S
+4100.25 3686.25 m
+4150.25 3686.25 l
+S
+4150.25 3686.25 m
+4200.25 3686.25 l
+S
+4200.25 3686.25 m
+4250.25 3686.25 l
+S
+4250.25 3686.25 m
+4300.25 3686.25 l
+S
+4300.25 3686.25 m
+4350.25 3686.25 l
+S
+4350.25 3686.25 m
+4400.25 3686.25 l
+S
+4400.25 3686.25 m
+4450.25 3686.25 l
+S
+4450.25 3686.25 m
+4500.25 3686.25 l
+S
+4500.25 3686.25 m
+4550.25 3686.25 l
+S
+4550.25 3686.25 m
+4600.25 3686.25 l
+S
+4600.25 3686.25 m
+4650.25 3686.25 l
+S
+4650.25 3686.25 m
+4700.25 3686.25 l
+S
+4700.25 3686.25 m
+4750.25 3686.25 l
+S
+4750.25 3686.25 m
+4800.25 3686.25 l
+S
+4800.25 3686.25 m
+4850.25 3686.25 l
+S
+4850.25 3686.25 m
+4900.25 3686.25 l
+S
+4900.25 3686.25 m
+4950.25 3686.25 l
+S
+4950.25 3686.25 m
+5000.25 3686.25 l
+S
+5000.25 3686.25 m
+5050.25 3686.25 l
+S
+5050.25 3686.25 m
+5100.25 3686.25 l
+S
+q
+10 0 0 10 0 0 cm BT
+/R16 10 Tf
+0.75 0 0 1 510 368.6 Tm
+(;;)Tj
+/R12 10 Tf
+-564 -12 Td
+(val length : '_a list -> int)Tj
+/R10 10 Tf
+1 0 0 1 74.5 338.6 Tm
+(3.)Tj
+/R14 10 Tf
+12.5 0 Td
+(Ocaml.)Tj
+/R10 10 Tf
+34.7609 0 Td
+0.041 Tw
+(The Collatz conjecture states that for an)Tj
+2.541 Tc
+159.726 0 Td
+(yp)Tj
+0 Tc
+12.541 0 Td
+(ositi)Tj
+-0.15 Tc
+16.9801 0 Td
+0.341 Tw
+(ve i)Tj
+0 Tc
+14.6109 0 Td
+[(nte)15.0073(ger)]TJ
+/R22 10 Tf
+27.8508 0 Td
+(n)Tj
+2.54 Tc
+/R10 10 Tf
+5.23984 0 Td
+[(,i)254.009(fi)254(ti)254(sr)]TJ
+0 Tc
+34.4398 0 Td
+0.04 Tw
+(eplaced by)Tj
+/R22 10 Tf
+45.9801 0 Td
+(n)Tj
+-0.3 Tc
+/R10 10 Tf
+5.23984 0 Td
+0.64 Tw
+(/2 w)Tj
+0 Tc
+17.2398 0 Td
+0.04 Tw
+(hen e)Tj
+-0.15 Tc
+21.1699 0 Td
+(ve)Tj
+2.54 Tc
+9.28984 0 Td
+(na)Tj
+0 Tc
+11.9801 0 Td
+-0.39 Tw
+(nd 3)Tj
+/R22 10 Tf
+17.4699 0 Td
+(n)Tj
+/R24 10 Tf
+7.33984 0 Td
+(+)Tj
+/R10 10 Tf
+6.58008 0 Td
+(1)Tj
+-448.439 -12 Td
+1.903 Tw
+(when odd, that the sequence e)Tj
+-0.15 Tc
+129.235 0 Td
+(ve)Tj
+0 Tc
+9.28984 0 Td
+1.904 Tw
+(ntually con)Tj
+-0.15 Tc
+46.2238 0 Td
+(ve)Tj
+-0.18 Tc
+9.28984 0 Td
+(rg)Tj
+0 Tc
+8.26016 0 Td
+(es on)Tj
+26.0281 0 Td
+4.404 Tw
+(1. Write)Tj
+4.404 Tc
+41.6879 0 Td
+(af)Tj
+0 Tc
+12.1738 0 Td
+1.904 Tw
+(unction which uses a tail-recursi)Tj
+-0.15 Tc
+137.006 0 Td
+2.204 Tw
+(ve i)Tj
+0 Tc
+16.4738 0 Td
+(nner)Tj
+-435.668 -12 Td
+2.133 Tw
+(function to return a list of all inte)Tj
+147.491 0 Td
+2.132 Tw
+[(gers starting from the ar)17.9883(gument and ending with 1.)-713.198(The inner function)]TJ
+-147.491 -12 Td
+0 Tw
+(produces the list in re)Tj
+-0.15 Tc
+86.0699 0 Td
+(ve)Tj
+0 Tc
+9.28984 0 Td
+(rse order)Tj
+2.5 Tc
+35.1898 0 Td
+(,b)Tj
+0 Tc
+9.8 0 Td
+(ut the result is re)Tj
+-0.15 Tc
+66.6301 0 Td
+(ve)Tj
+0 Tc
+9.28984 0 Td
+(rsed by the outer function.)Tj
+/R18 10 Tf
+110.48 0 Td
+([3)Tj
+/R20 10 Tf
+8.88984 0 Td
+(4)Tj
+/R18 10 Tf
+8.46016 0 Td
+(])Tj
+/R12 10 Tf
+0.75 0 0 1 87 290.6 Tm
+(#)Tj
+/R16 10 Tf
+12 0 Td
+(collatz;;)Tj
+6 Tc
+/R12 10 Tf
+-12 -12 Td
+(-:i)Tj
+0 Tc
+30 0 Td
+(nt -> int list)Tj
+-30 -12 Td
+(#)Tj
+/R16 10 Tf
+12 0 Td
+(collatz 1;;)Tj
+6 Tc
+/R12 10 Tf
+-12 -12 Td
+(-:i)Tj
+0 Tc
+30 0 Td
+(nt list = [1])Tj
+-30 -12 Td
+(#)Tj
+/R16 10 Tf
+12 0 Td
+(collatz 2;;)Tj
+6 Tc
+/R12 10 Tf
+-12 -12 Td
+(-:i)Tj
+0 Tc
+30 0 Td
+(nt list = [2; 1])Tj
+-30 -12 Td
+(#)Tj
+/R16 10 Tf
+12 0 Td
+(collatz 3;;)Tj
+6 Tc
+/R12 10 Tf
+-12 -12 Td
+(-:i)Tj
+0 Tc
+30 0 Td
+(nt list = [3; 10; 5; 16; 8; 4; 2; 1])Tj
+/R10 10 Tf
+1 0 0 1 74.5 173 Tm
+(4.)Tj
+/R14 10 Tf
+12.5 0 Td
+[(Sc)10(heme.)]TJ
+/R10 10 Tf
+40.1398 0 Td
+0.52 Tw
+(Write a function)Tj
+/R16 10 Tf
+0.75 0 0 1 196.85 173 Tm
+(take)Tj
+/R10 10 Tf
+1 0 0 1 217.21 173 Tm
+(in Scheme which will mak)Tj
+3.02 Tc
+108.64 0 Td
+(eac)Tj
+0 Tc
+19.3602 0 Td
+(op)Tj
+3.02 Tc
+9.9 0 Td
+[(yo)302.007(ft)]TJ
+0 Tc
+22.15 0 Td
+(he \214rst)Tj
+/R22 10 Tf
+31.5102 0 Td
+(n)Tj
+/R10 10 Tf
+8.26016 0 Td
+[(elements of a list.)-552.007(If there are)]TJ
+-330.03 -12 Td
+0 Tw
+[(fe)25.0079(wer than)]TJ
+/R22 10 Tf
+45.2 0 Td
+(n)Tj
+/R10 10 Tf
+7.73984 0 Td
+[(elements in the list, it returns the complete list.)-500(If)]TJ
+/R22 10 Tf
+201.92 0 Td
+(n)Tj
+/R24 10 Tf
+7.75 0 Td
+<A3>Tj
+2.5 Tc
+/R10 10 Tf
+8.05 0 Td
+[(0i)249.993(tr)]TJ
+0 Tc
+19 0 Td
+(eturns the empty list.)Tj
+/R18 10 Tf
+89 0 Td
+([2)Tj
+/R20 10 Tf
+8.88984 0 Td
+(4)Tj
+/R18 10 Tf
+8.46016 0 Td
+(])Tj
+/R16 10 Tf
+0.75 0 0 1 87 143 Tm
+(\(define \(take n list\))Tj
+ET
+Q
+Q
+endstream
+endobj
+6 0 obj
+14733
+endobj
+29 0 obj
+<</Length 30 0 R>>
+stream
+q 0.1 0 0 0.1 0 0 cm
+/R7 gs
+4 w
+1 J
+1 j
+0 G
+720.25 7400.25 m
+5400.25 7400.25 l
+S
+720.25 7380.25 m
+5400.25 7380.25 l
+S
+0 g
+q
+10 0 0 10 0 0 cm BT
+/R8 10 Tf
+1 0 0 1 72 744 Tm
+(CMPS-112 \203 Comparati)Tj
+-0.1 Tc
+101.71 0 Td
+0.2 Tw
+(ve P)Tj
+-0.18 Tc
+17.95 0 Td
+(ro)Tj
+0 Tc
+9.26016 0 Td
+0 Tw
+[(gramming Languages \203 F)25.0146(all 2014 \203 Final Exam)]TJ
+2.5 Tc
+/R10 10 Tf
+315.71 0 Td
+[(2o)250(f5)]TJ
+0 Tc
+-442.13 -22 Td
+(5.)Tj
+/R14 10 Tf
+12.5 0 Td
+(Ocaml,)Tj
+/R10 10 Tf
+32.2199 0 Td
+(or an)Tj
+2.5 Tc
+20.2301 0 Td
+(yf)Tj
+0 Tc
+10.8301 0 Td
+[(unctional language.)-500(Rules about type checking.)]TJ
+-52.7199 -12 Td
+2.5 Tw
+(\(i\) Ev)Tj
+25.4 0 Td
+0 Tw
+[(ery e)15.0073(xpression has e)14.9841(xactly one type.)]TJ
+-28.1801 -12 Td
+2.5 Tw
+(\(ii\) When)Tj
+43.6 0 Td
+0 Tw
+[(an e)14.9927(xpression is e)]TJ
+-0.25 Tc
+70.5301 0 Td
+(va)Tj
+0 Tc
+9.18984 0 Td
+[(luated, e)14.9927(xactly one of four general things may happen.)-500(List them.)]TJ
+/R18 10 Tf
+268.36 0 Td
+([2)Tj
+/R20 10 Tf
+8.88984 0 Td
+(4)Tj
+/R18 10 Tf
+8.46016 0 Td
+(])Tj
+/R10 10 Tf
+-382.91 -18 Td
+(\(a\))Tj
+-0.560156 -30 Td
+(\(b\))Tj
+0.560156 -30 Td
+(\(c\))Tj
+-0.560156 -30 Td
+(\(d\))Tj
+-45.8398 -30 Td
+(6.)Tj
+/R24 10 Tf
+12.5 0 Td
+(l)Tj
+/R14 10 Tf
+5.48984 0 Td
+(-calculus.)Tj
+-0.15 Tc
+/R10 10 Tf
+45.2801 0 Td
+(Fo)Tj
+2.5 Tc
+10.4102 0 Td
+(rb)Tj
+0 Tc
+10.9398 0 Td
+(oth applicati)Tj
+-0.15 Tc
+49.4699 0 Td
+0.3 Tw
+(ve a)Tj
+0 Tc
+16.2301 0 Td
+0 Tw
+(nd normal order)Tj
+2.5 Tc
+64.3602 0 Td
+(,p)Tj
+0 Tc
+10 0 Td
+(erform)Tj
+/R24 10 Tf
+29.9301 0 Td
+(b)Tj
+/R10 10 Tf
+5.48984 0 Td
+[(-reduction on the follo)25.0098(wing e)15.0146(xpression.)]TJ
+/R18 10 Tf
+162.3 0 Td
+([2)Tj
+/R20 10 Tf
+8.88984 0 Td
+(4)Tj
+/R18 10 Tf
+8.46016 0 Td
+(])Tj
+ET
+Q
+870.25 5495.25 m
+5400.25 5495.25 l
+S
+q
+10 0 0 10 0 0 cm BT
+/R10 10 Tf
+1 0 0 1 92 540 Tm
+(Applicati)Tj
+-0.15 Tc
+36.9699 0 Td
+0.3 Tw
+(ve o)Tj
+0 Tc
+16.7898 0 Td
+156.64 Tw
+(rder Normal)Tj
+208.62 0 Td
+(order)Tj
+ET
+Q
+870.25 5355.25 m
+5400.25 5355.25 l
+S
+q
+10 0 0 10 0 0 cm BT
+/R10 10 Tf
+1 0 0 1 91.5199 526 Tm
+<28>Tj
+/R24 10 Tf
+3.08984 0 Td
+(l)Tj
+/R22 10 Tf
+6.26016 0 Td
+(x)Tj
+4.91 Tc
+/R10 10 Tf
+4.96992 0 Td
+(.*)Tj
+4.1 Tc
+/R22 10 Tf
+15.9801 0 Td
+(xx)Tj
+2.32 Tc
+/R10 10 Tf
+13.5102 0 Td
+<2928>Tj
+0 Tc
+/R24 10 Tf
+8.88008 0 Td
+(+)Tj
+2.37 Tc
+/R10 10 Tf
+7.98984 0 Td
+(23)Tj
+0 Tc
+12.0801 0 Td
+[<29>-15291<28>]TJ
+/R24 10 Tf
+159.33 0 Td
+(l)Tj
+/R22 10 Tf
+6.26016 0 Td
+(x)Tj
+4.91 Tc
+/R10 10 Tf
+4.96992 0 Td
+(.*)Tj
+4.1 Tc
+/R22 10 Tf
+15.9801 0 Td
+(xx)Tj
+2.32 Tc
+/R10 10 Tf
+13.5102 0 Td
+<2928>Tj
+0 Tc
+/R24 10 Tf
+8.88008 0 Td
+(+)Tj
+2.37 Tc
+/R10 10 Tf
+7.98984 0 Td
+(23)Tj
+0 Tc
+12.0801 0 Td
+<29>Tj
+ET
+Q
+870.25 4495.25 m
+5400.25 4495.25 l
+S
+5400.25 4495.25 m
+5400.25 5495.25 l
+S
+3135.25 4495.25 m
+3135.25 5495.25 l
+S
+870.25 4495.25 m
+870.25 5495.25 l
+S
+q
+10 0 0 10 0 0 cm BT
+/R10 10 Tf
+1 0 0 1 74.5 428 Tm
+(7.)Tj
+/R14 10 Tf
+12.5 0 Td
+(Ocaml.)Tj
+/R10 10 Tf
+34.7199 0 Td
+(Gi)Tj
+-0.15 Tc
+9.75 0 Td
+(ve)Tj
+2.5 Tc
+9.28984 0 Td
+(nt)Tj
+0 Tc
+10.2801 0 Td
+[(he function at the left, \214ll in the table at the right gi)25.0073(ving the Ocaml types for each item.)]TJ
+/R18 10 Tf
+352.71 0 Td
+([2)Tj
+/R20 10 Tf
+8.88984 0 Td
+(4)Tj
+/R18 10 Tf
+8.46016 0 Td
+(])Tj
+ET
+Q
+2790.25 4175.25 m
+5405.25 4175.25 l
+S
+q
+10 0 0 10 0 0 cm BT
+/R16 10 Tf
+0.75 0 0 1 286.5 408 Tm
+(fac)Tj
+ET
+Q
+2790.25 4035.25 m
+5405.25 4035.25 l
+S
+q
+10 0 0 10 0 0 cm BT
+/R16 10 Tf
+0.75 0 0 1 286.5 394 Tm
+(n)Tj
+ET
+Q
+2790.25 3895.25 m
+5405.25 3895.25 l
+S
+q
+10 0 0 10 0 0 cm BT
+/R16 10 Tf
+0.75 0 0 1 286.5 380 Tm
+(0)Tj
+ET
+Q
+2790.25 3755.25 m
+5405.25 3755.25 l
+S
+q
+10 0 0 10 0 0 cm BT
+/R16 10 Tf
+0.75 0 0 1 286.5 366 Tm
+(fac')Tj
+ET
+Q
+2790.25 3615.25 m
+5405.25 3615.25 l
+S
+q
+10 0 0 10 0 0 cm BT
+/R16 10 Tf
+0.75 0 0 1 286.5 352 Tm
+(n')Tj
+ET
+Q
+2790.25 3475.25 m
+5405.25 3475.25 l
+S
+q
+10 0 0 10 0 0 cm BT
+/R16 10 Tf
+0.75 0 0 1 286.5 338 Tm
+(m')Tj
+ET
+Q
+2790.25 3335.25 m
+5405.25 3335.25 l
+S
+q
+10 0 0 10 0 0 cm BT
+/R16 10 Tf
+0.75 0 0 1 286.5 324 Tm
+(-)Tj
+ET
+Q
+2790.25 3195.25 m
+5405.25 3195.25 l
+S
+q
+10 0 0 10 0 0 cm BT
+/R16 10 Tf
+0.75 0 0 1 286.5 310 Tm
+(*)Tj
+ET
+Q
+2790.25 3055.25 m
+5405.25 3055.25 l
+S
+q
+10 0 0 10 0 0 cm BT
+/R16 10 Tf
+0.75 0 0 1 87 408 Tm
+(let fac n =)Tj
+24 -12 Td
+(if n < 0)Tj
+12 TL
+(then failwith "fac n | n < 0")'
+(else let rec fac' n' m' =)'
+54 -12 Td
+(if n' = 0)Tj
+(then m')'
+(else fac' \(n' - 1\) \(n' * m'\))'
+-24 -12 Td
+(in fac' n 1)Tj
+-54 -12 Td
+(;;)Tj
+ET
+Q
+5405.25 3055.25 m
+5405.25 4175.25 l
+S
+3120.25 3055.25 m
+3120.25 4175.25 l
+S
+2790.25 3055.25 m
+2790.25 4175.25 l
+S
+q
+10 0 0 10 0 0 cm BT
+/R10 10 Tf
+1 0 0 1 74.5 284 Tm
+(8.)Tj
+/R14 10 Tf
+12.5 0 Td
+(Prolog.)Tj
+/R10 10 Tf
+35.991 0 Td
+(Gi)Tj
+-0.15 Tc
+9.75 0 Td
+(ve)Tj
+3.181 Tc
+9.28984 0 Td
+(nt)Tj
+0 Tc
+10.9609 0 Td
+0.681 Tw
+[(he graph sho)25.0122(wn here, write)]TJ
+/R16 10 Tf
+0.75 0 0 1 267.557 284 Tm
+(edge)Tj
+-0.1 Tc
+/R10 10 Tf
+1 0 0 1 288.078 284 Tm
+(fa)Tj
+0 Tc
+7.66992 0 Td
+(cts to describe it.)Tj
+75.6031 0 Td
+0.68 Tw
+(Write a rule)Tj
+/R16 10 Tf
+0.75 0 0 1 423.871 284 Tm
+(adjacent)Tj
+/R10 10 Tf
+1 0 0 1 461.731 284 Tm
+(which uses)Tj
+/R16 10 Tf
+0.75 0 0 1 509.751 284 Tm
+(edge)Tj
+/R10 10 Tf
+1 0 0 1 530.271 284 Tm
+(to)Tj
+-443.271 -12 Td
+0 Tw
+(determine if tw)Tj
+2.5 Tc
+61.1102 0 Td
+(on)Tj
+0 Tc
+12.5 0 Td
+(odes are adjacent.)Tj
+/R18 10 Tf
+76.4699 0 Td
+([2)Tj
+/R20 10 Tf
+8.88984 0 Td
+(4)Tj
+/R18 10 Tf
+8.46016 0 Td
+(])Tj
+ET
+Q
+1194 2426 m
+1194 2396.18 1169.82 2372 1140 2372 c
+1110.18 2372 1086 2396.18 1086 2426 c
+1086 2455.82 1110.18 2480 1140 2480 c
+1169.82 2480 1194 2455.82 1194 2426 c
+h
+S
+q
+10 0 0 10 0 0 cm BT
+/R10 10 Tf
+1 0 0 1 111.78 240.4 Tm
+(a)Tj
+ET
+Q
+978 2210 m
+978 2180.18 953.82 2156 924 2156 c
+894.18 2156 870 2180.18 870 2210 c
+870 2239.82 894.18 2264 924 2264 c
+953.82 2264 978 2239.82 978 2210 c
+h
+S
+q
+10 0 0 10 0 0 cm BT
+/R10 10 Tf
+1 0 0 1 89.9 218.8 Tm
+(b)Tj
+ET
+Q
+1194 2210 m
+1194 2180.18 1169.82 2156 1140 2156 c
+1110.18 2156 1086 2180.18 1086 2210 c
+1086 2239.82 1110.18 2264 1140 2264 c
+1169.82 2264 1194 2239.82 1194 2210 c
+h
+S
+q
+10 0 0 10 0 0 cm BT
+/R10 10 Tf
+1 0 0 1 111.78 218.8 Tm
+(c)Tj
+ET
+Q
+1410 2210 m
+1410 2180.18 1385.82 2156 1356 2156 c
+1326.18 2156 1302 2180.18 1302 2210 c
+1302 2239.82 1326.18 2264 1356 2264 c
+1385.82 2264 1410 2239.82 1410 2210 c
+h
+S
+q
+10 0 0 10 0 0 cm BT
+/R10 10 Tf
+1 0 0 1 133.1 218.8 Tm
+(d)Tj
+ET
+Q
+1102.25 2388.25 m
+962.25 2248.25 l
+S
+1140.25 2372.25 m
+1140.25 2264.25 l
+S
+1178.25 2388.25 m
+1318.25 2248.25 l
+S
+978.25 2210.25 m
+1086.25 2210.25 l
+S
+1194.25 2210.25 m
+1302.25 2210.25 l
+S
+q
+10 0 0 10 0 0 cm BT
+/R10 10 Tf
+1 0 0 1 74.5 170 Tm
+(9.)Tj
+/R14 10 Tf
+12.5 0 Td
+[(Sc)10(heme.)]TJ
+/R10 10 Tf
+39.6199 0 Td
+(De\214ne the functions)Tj
+/R16 10 Tf
+0.75 0 0 1 210.18 170 Tm
+(map)Tj
+/R10 10 Tf
+1 0 0 1 225.685 170 Tm
+(and)Tj
+/R16 10 Tf
+0.75 0 0 1 242.625 170 Tm
+(filter.)Tj
+/R18 10 Tf
+1 0 0 1 277.97 170 Tm
+([2)Tj
+/R20 10 Tf
+8.88984 0 Td
+(4)Tj
+/R18 10 Tf
+8.46016 0 Td
+(])Tj
+/R12 10 Tf
+0.75 0 0 1 87 158 Tm
+(>)Tj
+/R16 10 Tf
+12 0 Td
+(\(map \(lambda \(n\) \(+ 1 n\)\) '\(3 4 5\)\))Tj
+/R12 10 Tf
+-12 -12 Td
+(\(4 5 6\))Tj
+12 TL
+(>)'
+/R16 10 Tf
+12 0 Td
+(\(filter \(lambda \(n\) \(> n 4\)\) '\(3 4 5 6 7\)\))Tj
+/R12 10 Tf
+-12 -12 Td
+(\(5 6 7\))Tj
+ET
+Q
+Q
+endstream
+endobj
+30 0 obj
+6971
+endobj
+34 0 obj
+<</Length 35 0 R>>
+stream
+q 0.1 0 0 0.1 0 0 cm
+/R7 gs
+4 w
+1 J
+1 j
+0 G
+720.25 7400.25 m
+5400.25 7400.25 l
+S
+720.25 7380.25 m
+5400.25 7380.25 l
+S
+0 g
+q
+10 0 0 10 0 0 cm BT
+/R8 10 Tf
+1 0 0 1 72 744 Tm
+(CMPS-112 \203 Comparati)Tj
+-0.1 Tc
+101.71 0 Td
+0.2 Tw
+(ve P)Tj
+-0.18 Tc
+17.95 0 Td
+(ro)Tj
+0 Tc
+9.26016 0 Td
+0 Tw
+[(gramming Languages \203 F)25.0146(all 2014 \203 Final Exam)]TJ
+2.5 Tc
+/R10 10 Tf
+315.71 0 Td
+[(3o)250(f5)]TJ
+0 Tc
+-444.63 -22 Td
+(10.)Tj
+-0.5 Tc
+/R14 10 Tf
+15 0 Td
+(Pe)Tj
+0 Tc
+10.0801 0 Td
+(rl.)Tj
+/R10 10 Tf
+14.5648 0 Td
+0.395 Tw
+(Write a script in Perl which will iterate o)Tj
+-0.15 Tc
+166.72 0 Td
+(ve)Tj
+2.895 Tc
+9.28984 0 Td
+(ra)Tj
+0 Tc
+10.775 0 Td
+(ll of the input \214les gi)Tj
+-0.15 Tc
+85.3449 0 Td
+(ve)Tj
+2.895 Tc
+9.28984 0 Td
+[(no)289.507(nt)]TJ
+0 Tc
+23.5699 0 Td
+(he command line and print the)Tj
+-329.634 -12 Td
+1.338 Tw
+[(contents of all of the \214les to the standard output.)-633.816(If no \214les are speci\214ed, cop)]TJ
+3.838 Tc
+329 0 Td
+(yt)Tj
+0 Tc
+11.618 0 Td
+(he standard input.)Tj
+-1.1 Tc
+80.5039 0 Td
+(Yo)Tj
+3.838 Tc
+11.1199 0 Td
+(ua)Tj
+0 Tc
+13.2781 0 Td
+(re)Tj
+-445.52 -12 Td
+0 Tw
+(limited to)Tj
+/R14 10 Tf
+41.1199 0 Td
+(one)Tj
+/R10 10 Tf
+17.5 0 Td
+(statement only)Tj
+5 Tc
+57.9602 0 Td
+(.H)Tj
+0 Tc
+14.65 0 Td
+-0.834 Tw
+(int :)Tj
+20.0059 0 Td
+(Use)Tj
+/R16 10 Tf
+0.75 0 0 1 256.286 698 Tm
+(<>)Tj
+/R10 10 Tf
+1 0 0 1 264.256 698 Tm
+(.)Tj
+/R18 10 Tf
+7.5 0 Td
+([1)Tj
+/R20 10 Tf
+8.88984 0 Td
+(4)Tj
+/R18 10 Tf
+8.46016 0 Td
+(])Tj
+/R16 10 Tf
+0.75 0 0 1 87 680 Tm
+(#!/usr/bin/perl)Tj
+/R10 10 Tf
+1 0 0 1 72 626 Tm
+(11.)Tj
+/R14 10 Tf
+15 0 Td
+(Prolog.)Tj
+/R10 10 Tf
+37.343 0 Td
+(Gi)Tj
+-0.15 Tc
+9.75 0 Td
+(ve)Tj
+4.533 Tc
+9.28984 0 Td
+(nf)Tj
+0 Tc
+12.7629 0 Td
+2.034 Tw
+(acts lik)Tj
+4.534 Tc
+30.5441 0 Td
+(et)Tj
+0 Tc
+11.7539 0 Td
+(he ones presented at the left, de\214ne the rules)Tj
+/R16 10 Tf
+0.75 0 0 1 396.93 626 Tm
+(father)Tj
+/R10 10 Tf
+1 0 0 1 427.474 626 Tm
+(and)Tj
+/R16 10 Tf
+0.75 0 0 1 446.448 626 Tm
+(mother)Tj
+/R10 10 Tf
+1 0 0 1 476.992 626 Tm
+(where the \214rst)Tj
+-389.992 -12 Td
+0 Tw
+[(ar)18(gument is the parent and the second ar)18.0078(gument is the child.)]TJ
+/R18 10 Tf
+245.21 0 Td
+([2)Tj
+/R20 10 Tf
+8.88984 0 Td
+(4)Tj
+/R18 10 Tf
+8.46016 0 Td
+(])Tj
+/R16 10 Tf
+0.75 0 0 1 87 596 Tm
+(parents\(henry_vii,elizabeth_of_york,henry_viii\).)Tj
+12 TL
+(parents\(henry_viii,catherine_of_aragon,mary_i\).)'
+(parents\(henry_viii,anne_boleyn,elizabeth_i\).)'
+(parents\(henry_viii,jane_seymour,edward_vi\).)'
+6 Tc
+T*[(|?)600(-f)]TJ
+0 Tc
+35.1198 0 Td
+(ather\(X,henry_viii\).)Tj
+6 Tc
+-35.1198 -12 Td
+(X=h)Tj
+0 Tc
+29.3401 0 Td
+(enry_vii)Tj
+6 Tc
+-29.3401 -12 Td
+[(|?)600(-f)]TJ
+0 Tc
+35.1198 0 Td
+(ather\(henry_viii,X\).)Tj
+6 Tc
+-35.1198 -12 Td
+(X=m)Tj
+0 Tc
+29.3401 0 Td
+(ary_i)Tj
+6 Tc
+-29.3401 -12 Td
+(X=e)Tj
+0 Tc
+29.3401 0 Td
+(lizabeth_i)Tj
+6 Tc
+-29.3401 -12 Td
+(X=e)Tj
+0 Tc
+29.3401 0 Td
+(dward_vi)Tj
+/R10 10 Tf
+1 0 0 1 72 464 Tm
+(12. De\214ne)Tj
+3.028 Tc
+44.648 0 Td
+(af)Tj
+0 Tc
+10.798 0 Td
+(unction)Tj
+/R16 10 Tf
+0.75 0 0 1 160.474 464 Tm
+(range)Tj
+/R10 10 Tf
+1 0 0 1 185.177 464 Tm
+0.528 Tw
+(with tw)Tj
+3.028 Tc
+30.7078 0 Td
+(oi)Tj
+0 Tc
+10.8078 0 Td
+(nte)Tj
+12.0699 0 Td
+[(ger ar)18.0176(guments and which returns a list of all ar)]TJ
+191.292 0 Td
+0.527 Tw
+(guments in order including)Tj
+-343.055 -12 Td
+0 Tw
+(the tw)Tj
+2.5 Tc
+24.6199 0 Td
+(oa)Tj
+-0.18 Tc
+11.9398 0 Td
+(rg)Tj
+0 Tc
+8.26016 0 Td
+2.5 Tw
+(uments. If)Tj
+45.5102 0 Td
+0 Tw
+[(the \214rst number is lar)18(ger than the second, return an empty list.)]TJ
+/R18 10 Tf
+254.06 0 Td
+([3)Tj
+/R20 10 Tf
+8.88984 0 Td
+(4)Tj
+/R18 10 Tf
+8.46016 0 Td
+(])Tj
+/R10 10 Tf
+-352.84 -18 Td
+(\(a\))Tj
+/R14 10 Tf
+16.1 0 Td
+(Ocaml.)Tj
+/R12 10 Tf
+0.75 0 0 1 112 422 Tm
+(#)Tj
+/R16 10 Tf
+12 0 Td
+(range 2 7;;)Tj
+6 Tc
+/R12 10 Tf
+-12 -12 Td
+(-:i)Tj
+0 Tc
+30 0 Td
+(nt list = [2; 3; 4; 5; 6; 7])Tj
+-30 -12 Td
+(#)Tj
+/R16 10 Tf
+12 0 Td
+(range 7 2;;)Tj
+6 Tc
+/R12 10 Tf
+-12 -12 Td
+(-:i)Tj
+0 Tc
+30 0 Td
+(nt list = [])Tj
+/R10 10 Tf
+1 0 0 1 95.3398 368 Tm
+(\(b\))Tj
+/R14 10 Tf
+16.6602 0 Td
+[(Sc)10(heme.)]TJ
+/R12 10 Tf
+0.75 0 0 1 112 356 Tm
+(>)Tj
+/R16 10 Tf
+12 0 Td
+(\(range 2 7\))Tj
+/R12 10 Tf
+-12 -12 Td
+(\(2 3 4 5 6 7\))Tj
+(>)'
+/R16 10 Tf
+12 0 Td
+(\(range 7 2\))Tj
+/R12 10 Tf
+-12 -12 Td
+<2829>Tj
+/R10 10 Tf
+1 0 0 1 95.9 302 Tm
+(\(c\))Tj
+-0.5 Tc
+/R14 10 Tf
+16.1 0 Td
+(Pe)Tj
+0 Tc
+10.0801 0 Td
+(rl.)Tj
+/R12 10 Tf
+0.75 0 0 1 112 290 Tm
+(print "[@{[range\(2,7\)]}]\\n";)Tj
+([2 3 4 5 6 7])'
+(print "[@{[range\(7,2\)]}]\\n";)'
+([])'
+/R10 10 Tf
+1 0 0 1 72 236 Tm
+(13. Write)Tj
+2.994 Tc
+40.8738 0 Td
+(af)Tj
+0 Tc
+10.7641 0 Td
+0.494 Tw
+[(unction that tak)10.0183(es tw)]TJ
+2.995 Tc
+84.3316 0 Td
+(ol)Tj
+0 Tc
+10.775 0 Td
+0.495 Tw
+[(ists as ar)17.9834(guments and which returns a single list where each element is a list of)]TJ
+-131.745 -12 Td
+0 Tw
+[(corresponding pairs.)-500(If the lists are of dif)25.0073(ferent lengths, trailing elements of the longer list are ignored.)]TJ
+8.9 -18 Td
+(\(a\))Tj
+/R14 10 Tf
+16.1 0 Td
+[(Sc)10(heme.)]TJ
+/R18 10 Tf
+39.6199 0 Td
+([2)Tj
+/R20 10 Tf
+8.88984 0 Td
+(4)Tj
+/R18 10 Tf
+8.46016 0 Td
+(])Tj
+/R12 10 Tf
+0.75 0 0 1 112 194 Tm
+(>)Tj
+/R16 10 Tf
+12 0 Td
+(\(pairthem '\(1 2 3 4\) '\(a b c d e\)\))Tj
+/R12 10 Tf
+-12 -12 Td
+(\(\(1 a\) \(2 b\) \(3 c\) \(4 d\)\))Tj
+(>)'
+/R16 10 Tf
+12 0 Td
+(\(pairthem '\(1 2 3 4 5\) '\(a b\)\))Tj
+/R12 10 Tf
+-12 -12 Td
+(\(\(1 a\) \(2 b\)\))Tj
+/R10 10 Tf
+1 0 0 1 95.3398 131.6 Tm
+(\(b\))Tj
+/R14 10 Tf
+16.6602 0 Td
+(Ocaml.)Tj
+/R18 10 Tf
+34.7199 0 Td
+([2)Tj
+/R20 10 Tf
+8.88984 0 Td
+(4)Tj
+/R18 10 Tf
+8.46016 0 Td
+(])Tj
+/R12 10 Tf
+0.75 0 0 1 112 119.6 Tm
+(#)Tj
+/R16 10 Tf
+12 0 Td
+(pairthem [1;2;3] ['a';'b';'c';'d'];;)Tj
+6 Tc
+/R12 10 Tf
+-12 -12 Td
+(-:\()Tj
+0 Tc
+30 0 Td
+(int * char\) list = [\(1, 'a'\); \(2, 'b'\); \(3, 'c'\)])Tj
+-30 -12 Td
+(#)Tj
+/R16 10 Tf
+12 0 Td
+(pairthem [1;2;3;4;5] ['a';'b'];;)Tj
+6 Tc
+/R12 10 Tf
+-12 -12 Td
+(-:\()Tj
+0 Tc
+30 0 Td
+(int * char\) list = [\(1, 'a'\); \(2, 'b'\)])Tj
+ET
+Q
+Q
+endstream
+endobj
+35 0 obj
+5773
+endobj
+39 0 obj
+<</Length 40 0 R>>
+stream
+q 0.1 0 0 0.1 0 0 cm
+/R7 gs
+4 w
+1 J
+1 j
+0 G
+720.25 7400.25 m
+5400.25 7400.25 l
+S
+720.25 7380.25 m
+5400.25 7380.25 l
+S
+0 g
+q
+10 0 0 10 0 0 cm BT
+/R8 10 Tf
+1 0 0 1 72 744 Tm
+(CMPS-112 \203 Comparati)Tj
+-0.1 Tc
+101.71 0 Td
+0.2 Tw
+(ve P)Tj
+-0.18 Tc
+17.95 0 Td
+(ro)Tj
+0 Tc
+9.26016 0 Td
+0 Tw
+[(gramming Languages \203 F)25.0146(all 2014 \203 Final Exam)]TJ
+2.5 Tc
+/R10 10 Tf
+315.71 0 Td
+[(4o)250(f5)]TJ
+0 Tc
+-444.63 -22 Td
+1.675 Tw
+(Multiple choice.)Tj
+-0.8 Tc
+73.8398 0 Td
+3.275 Tw
+(To t)Tj
+0 Tc
+17.2648 0 Td
+(he)Tj
+/R14 10 Tf
+13.6148 0 Td
+(left)Tj
+/R10 10 Tf
+17.5051 0 Td
+1.675 Tw
+(of each question, write)Tj
+-122.225 -12 Td
+1.276 Tw
+(the letter that indicates your answer)Tj
+6.277 Tc
+148.63 0 Td
+(.W)Tj
+0 Tc
+18.2172 0 Td
+(rite)Tj
+/R14 10 Tf
+17.2172 0 Td
+(Z)Tj
+/R10 10 Tf
+9.88711 0 Td
+1.277 Tw
+(if you)Tj
+-193.952 -12 Td
+(don')Tj
+4.077 Tc
+18.15 0 Td
+(tw)Tj
+0 Tc
+13.977 0 Td
+1.576 Tw
+(ant to risk a wrong answer)Tj
+6.576 Tc
+113.47 0 Td
+(.W)Tj
+0 Tc
+18.516 0 Td
+(rong answers)Tj
+-164.113 -12 Td
+0 Tw
+[(are w)10.0159(orth ne)]TJ
+-0.05 Tc
+49.95 0 Td
+(ga)Tj
+0 Tc
+9.38984 0 Td
+(ti)Tj
+-0.15 Tc
+5.31016 0 Td
+0.3 Tw
+(ve p)Tj
+0 Tc
+16.7898 0 Td
+(oints.)Tj
+/R18 10 Tf
+26.95 0 Td
+([12)Tj
+/R20 10 Tf
+14.45 0 Td
+(4)Tj
+/R18 10 Tf
+8.46016 0 Td
+(])Tj
+ET
+Q
+720.25 6695.25 m
+2916.25 6695.25 l
+S
+q
+10 0 0 10 0 0 cm BT
+/R10 10 Tf
+1 0 0 1 77 660 Tm
+(number of)Tj
+7.5 Tc
+122.78 0 Td
+<D731>Tj
+0 Tc
+23.1398 0 Td
+(=)Tj
+/R24 10 Tf
+49.9301 0 Td
+(=)Tj
+/R22 10 Tf
+8.61992 0 Td
+(a)Tj
+/R10 10 Tf
+-204.47 -12 Td
+(correct answers)Tj
+ET
+Q
+720.25 6435.25 m
+2916.25 6435.25 l
+S
+q
+10 0 0 10 0 0 cm BT
+/R10 10 Tf
+1 0 0 1 77 634 Tm
+(number of)Tj
+5 Tc
+122.78 0 Td
+<D7BD3D>Tj
+0 Tc
+/R24 10 Tf
+73.0699 0 Td
+(=)Tj
+/R22 10 Tf
+8.56016 0 Td
+(b)Tj
+/R10 10 Tf
+-204.41 -12 Td
+(wrong answers)Tj
+ET
+Q
+720.25 6175.25 m
+2916.25 6175.25 l
+S
+q
+10 0 0 10 0 0 cm BT
+/R10 10 Tf
+1 0 0 1 77 608 Tm
+(number of)Tj
+7.5 Tc
+122.78 0 Td
+<D730>Tj
+24.4 Tc
+23.1398 0 Td
+(=0)Tj
+0 Tc
+-145.92 -12 Td
+(missing answers)Tj
+ET
+Q
+720.25 5915.25 m
+2916.25 5915.25 l
+S
+q
+10 0 0 10 0 0 cm BT
+/R10 10 Tf
+1 0 0 1 77 582 Tm
+[(column total)-5238.99(12)]TJ
+/R24 10 Tf
+195.74 0 Td
+(=)Tj
+/R22 10 Tf
+8.48984 0 Td
+(c)Tj
+-204.03 -12 Td
+(c)Tj
+/R24 10 Tf
+7.43984 0 Td
+(=)Tj
+/R10 10 Tf
+8.28984 0 Td
+[(max)48.0151<28>]TJ
+/R22 10 Tf
+20.4 0 Td
+(a)Tj
+/R24 10 Tf
+7.35 0 Td
+(-)Tj
+/R22 10 Tf
+7.96016 0 Td
+(b)Tj
+1.46 Tc
+/R10 10 Tf
+5.23008 0 Td
+(,0)Tj
+0 Tc
+8.66992 0 Td
+<29>Tj
+ET
+Q
+720.25 5655.25 m
+2916.25 5655.25 l
+S
+2916.25 5655.25 m
+2916.25 6695.25 l
+S
+2359.25 5655.25 m
+2359.25 6695.25 l
+S
+1946.25 5655.25 m
+1946.25 6695.25 l
+S
+1533.25 5655.25 m
+1533.25 6695.25 l
+S
+720.25 5655.25 m
+720.25 6695.25 l
+S
+q
+10 0 0 10 0 0 cm BT
+/R10 10 Tf
+1 0 0 1 79.5 544 Tm
+2.5 Tw
+(1. What)Tj
+38.35 0 Td
+(is)Tj
+/R14 10 Tf
+10.8602 0 Td
+(not)Tj
+/R10 10 Tf
+17.5301 0 Td
+1.69 Tw
+(to be a)Tj
+-0.2 Tc
+29.8398 0 Td
+(vo)Tj
+0 Tc
+9.8 0 Td
+(ided in a pure functional)Tj
+-93.8801 -12 Td
+-0.834 Tw
+(language ?)Tj
+1.11992 -12 Td
+2.5 Tw
+(\(A\) goto)Tj
+0.55 -12 Td
+(\(B\) lambda)Tj
+12 TL
+(\(C\) loops)'
+-0.55 -12 Td
+(\(D\) v)Tj
+23.5898 0 Td
+(ariables)Tj
+-37.2098 -18 Td
+(2. Which)Tj
+43.5891 0 Td
+1.928 Tw
+(languages do not ha)Tj
+-0.15 Tc
+85.2941 0 Td
+2.228 Tw
+(ve p)Tj
+0 Tc
+18.718 0 Td
+1.928 Tw
+(arametric poly-)Tj
+-135.101 -12 Td
+-0.834 Tw
+(morphism ?)Tj
+1.11992 -12 Td
+2.5 Tw
+(\(A\) C++)Tj
+0.55 -12 Td
+(\(B\) Ja)Tj
+-0.25 Tc
+26.4102 0 Td
+(va)Tj
+0 Tc
+-26.4102 -12 Td
+(\(C\) Ocaml)Tj
+-0.55 -12 Td
+(\(D\) Smalltalk)Tj
+-13.6199 -18 Td
+(3. What)Tj
+38.6352 0 Td
+1.975 Tw
+[(is the e)14.9927(xpected running time of fold left)]TJ
+-26.1352 -12 Td
+0 Tw
+(and fold right on a list of length)Tj
+/R22 10 Tf
+129.91 0 Td
+(n)Tj
+/R10 10 Tf
+6.90586 0 Td
+(?)Tj
+-135.696 -12 Td
+2.5 Tw
+(\(A\) fold)Tj
+37.4898 0 Td
+(left)Tj
+/R22 10 Tf
+15.7301 0 Td
+(O)Tj
+-1.11 Tc
+/R10 10 Tf
+7.48984 0 Td
+-0.57 Tw
+(\(1 \))Tj
+5 Tc
+11.9262 0 Td
+(;f)Tj
+0 Tc
+11.1102 0 Td
+0 Tw
+(old right)Tj
+/R22 10 Tf
+36.6801 0 Td
+(O)Tj
+-1.11 Tc
+/R10 10 Tf
+7.48984 0 Td
+-0.57 Tw
+(\(1 \))Tj
+0 Tc
+-127.366 -12 Td
+2.5 Tw
+(\(B\) fold)Tj
+36.8898 0 Td
+(left)Tj
+/R22 10 Tf
+15.7301 0 Td
+(O)Tj
+-1.11 Tc
+/R10 10 Tf
+7.48984 0 Td
+-0.57 Tw
+(\(1 \))Tj
+5 Tc
+11.9262 0 Td
+(;f)Tj
+0 Tc
+11.1102 0 Td
+0 Tw
+(old right)Tj
+/R22 10 Tf
+36.6801 0 Td
+(O)Tj
+/R10 10 Tf
+7.48984 0 Td
+<28>Tj
+/R22 10 Tf
+3.68984 0 Td
+(n)Tj
+/R10 10 Tf
+5.23984 0 Td
+<29>Tj
+-136.246 -12 Td
+2.5 Tw
+(\(C\) fold)Tj
+36.9398 0 Td
+(left)Tj
+/R22 10 Tf
+15.7301 0 Td
+(O)Tj
+/R10 10 Tf
+7.48984 0 Td
+<28>Tj
+/R22 10 Tf
+3.68984 0 Td
+(n)Tj
+1.666 Tc
+/R10 10 Tf
+5.23984 0 Td
+-0.832 Tw
+(\); f)Tj
+0 Tc
+16.1059 0 Td
+0 Tw
+(old right)Tj
+/R22 10 Tf
+36.6801 0 Td
+(O)Tj
+-1.11 Tc
+/R10 10 Tf
+7.48984 0 Td
+-0.57 Tw
+(\(1 \))Tj
+0 Tc
+-129.915 -12 Td
+2.5 Tw
+(\(D\) fold)Tj
+37.45 0 Td
+(left)Tj
+/R22 10 Tf
+15.7301 0 Td
+(O)Tj
+/R10 10 Tf
+7.48984 0 Td
+<28>Tj
+/R22 10 Tf
+3.68984 0 Td
+(n)Tj
+1.666 Tc
+/R10 10 Tf
+5.23984 0 Td
+-0.832 Tw
+(\); f)Tj
+0 Tc
+16.1059 0 Td
+0 Tw
+(old right)Tj
+/R22 10 Tf
+36.6801 0 Td
+(O)Tj
+/R10 10 Tf
+7.48984 0 Td
+<28>Tj
+/R22 10 Tf
+3.68984 0 Td
+(n)Tj
+/R10 10 Tf
+5.23984 0 Td
+<29>Tj
+-152.425 -18 Td
+2.5 Tw
+(4. What)Tj
+38.1328 0 Td
+1.472 Tw
+(is the required amount of stack space for)Tj
+-25.6328 -12 Td
+0 Tw
+(fold left and fold right on a list of length)Tj
+/R22 10 Tf
+164.35 0 Td
+(n)Tj
+/R10 10 Tf
+6.90586 0 Td
+(?)Tj
+-170.136 -12 Td
+2.5 Tw
+(\(A\) fold)Tj
+37.4898 0 Td
+(left)Tj
+/R22 10 Tf
+15.7301 0 Td
+(O)Tj
+-1.11 Tc
+/R10 10 Tf
+7.48984 0 Td
+-0.57 Tw
+(\(1 \))Tj
+5 Tc
+11.9262 0 Td
+(;f)Tj
+0 Tc
+11.1102 0 Td
+0 Tw
+(old right)Tj
+/R22 10 Tf
+36.6801 0 Td
+(O)Tj
+-1.11 Tc
+/R10 10 Tf
+7.48984 0 Td
+-0.57 Tw
+(\(1 \))Tj
+0 Tc
+-127.366 -12 Td
+2.5 Tw
+(\(B\) fold)Tj
+36.8898 0 Td
+(left)Tj
+/R22 10 Tf
+15.7301 0 Td
+(O)Tj
+-1.11 Tc
+/R10 10 Tf
+7.48984 0 Td
+-0.57 Tw
+(\(1 \))Tj
+5 Tc
+11.9262 0 Td
+(;f)Tj
+0 Tc
+11.1102 0 Td
+0 Tw
+(old right)Tj
+/R22 10 Tf
+36.6801 0 Td
+(O)Tj
+/R10 10 Tf
+7.48984 0 Td
+<28>Tj
+/R22 10 Tf
+3.68984 0 Td
+(n)Tj
+/R10 10 Tf
+5.23984 0 Td
+<29>Tj
+-136.246 -12 Td
+2.5 Tw
+(\(C\) fold)Tj
+36.9398 0 Td
+(left)Tj
+/R22 10 Tf
+15.7301 0 Td
+(O)Tj
+/R10 10 Tf
+7.48984 0 Td
+<28>Tj
+/R22 10 Tf
+3.68984 0 Td
+(n)Tj
+1.666 Tc
+/R10 10 Tf
+5.23984 0 Td
+-0.832 Tw
+(\); f)Tj
+0 Tc
+16.1059 0 Td
+0 Tw
+(old right)Tj
+/R22 10 Tf
+36.6801 0 Td
+(O)Tj
+-1.11 Tc
+/R10 10 Tf
+7.48984 0 Td
+-0.57 Tw
+(\(1 \))Tj
+0 Tc
+-129.915 -12 Td
+2.5 Tw
+(\(D\) fold)Tj
+37.45 0 Td
+(left)Tj
+/R22 10 Tf
+15.7301 0 Td
+(O)Tj
+/R10 10 Tf
+7.48984 0 Td
+<28>Tj
+/R22 10 Tf
+3.68984 0 Td
+(n)Tj
+1.666 Tc
+/R10 10 Tf
+5.23984 0 Td
+-0.832 Tw
+(\); f)Tj
+0 Tc
+16.1059 0 Td
+0 Tw
+(old right)Tj
+/R22 10 Tf
+36.6801 0 Td
+(O)Tj
+/R10 10 Tf
+7.48984 0 Td
+<28>Tj
+/R22 10 Tf
+3.68984 0 Td
+(n)Tj
+/R10 10 Tf
+5.23984 0 Td
+<29>Tj
+-152.425 -18 Td
+2.5 Tw
+(5. If)Tj
+/R16 10 Tf
+0.75 0 0 1 101.504 232 Tm
+(guess)Tj
+/R10 10 Tf
+1 0 0 1 126.063 232 Tm
+0.385 Tw
+(is a predicate that searches a database to)Tj
+-34.0629 -12 Td
+0.978 Tw
+(return one of its elements, and)Tj
+/R16 10 Tf
+0.75 0 0 1 221.677 220 Tm
+(verify)Tj
+/R10 10 Tf
+1 0 0 1 251.164 220 Tm
+0.977 Tw
+(checks to)Tj
+-159.164 -12 Td
+2.849 Tw
+(see if the thing found is good, then we may)Tj
+1.608 Tw
+(de\214ne the predicate)'
+/R16 10 Tf
+0.75 0 0 1 177.743 196 Tm
+(find)Tj
+4.107 Tc
+/R10 10 Tf
+1 0 0 1 194.523 196 Tm
+(,w)Tj
+0 Tc
+13.827 0 Td
+1.607 Tw
+(hich returns a v)Tj
+66.7211 0 Td
+(alid)Tj
+-183.071 -12 Td
+0 Tw
+[(entry from the database as)-166.586(:)]TJ
+1.11992 -12 Td
+(\(A\))Tj
+/R16 10 Tf
+0.75 0 0 1 112 172 Tm
+(find\(X\) :- guess\(X\), verify\(X\).)Tj
+/R10 10 Tf
+1 0 0 1 93.6699 160 Tm
+(\(B\))Tj
+/R16 10 Tf
+0.75 0 0 1 111.95 160 Tm
+(find\(X\) :- guess\(X\).)Tj
+0.0666667 -12 Td
+(find\(X\) :- verify\(X\).)Tj
+/R10 10 Tf
+1 0 0 1 93.6699 136 Tm
+(\(C\))Tj
+/R16 10 Tf
+0.75 0 0 1 112 136 Tm
+(find\(X\) :- verify\(X\), guess\(X\).)Tj
+/R10 10 Tf
+1 0 0 1 93.1199 124 Tm
+(\(D\))Tj
+/R16 10 Tf
+0.75 0 0 1 111.96 124 Tm
+(guess\(X\) :- find\(X\), verify\(X\).)Tj
+/R10 10 Tf
+1 0 0 1 329.1 716 Tm
+2.5 Tw
+(6. What)Tj
+36.6602 0 Td
+0 Tw
+(is the type of)Tj
+/R16 10 Tf
+0.75 0 0 1 420.2 716 Tm
+(List.map)Tj
+/R10 10 Tf
+1 0 0 1 456.546 716 Tm
+(?)Tj
+-113.826 -12 Td
+(\(A\))Tj
+/R16 10 Tf
+0.75 0 0 1 361.6 704 Tm
+0.352 Tw
+(\('a -> 'b -> 'a\) -> 'a -> 'b list -> 'a)Tj
+/R10 10 Tf
+1 0 0 1 343.27 692 Tm
+(\(B\))Tj
+/R16 10 Tf
+0.75 0 0 1 361.55 692 Tm
+(\('a -> 'b -> 'b\) -> 'a list -> 'b -> 'b)Tj
+/R10 10 Tf
+1 0 0 1 343.27 680 Tm
+(\(C\))Tj
+/R16 10 Tf
+0.75 0 0 1 361.6 680 Tm
+0 Tw
+(\('a -> 'b\) -> 'a list -> 'b list)Tj
+/R10 10 Tf
+1 0 0 1 342.72 668 Tm
+(\(D\))Tj
+/R16 10 Tf
+0.75 0 0 1 361.56 668 Tm
+(\('a -> bool\) -> 'a list -> 'a list)Tj
+/R10 10 Tf
+1 0 0 1 329.1 650 Tm
+2.5 Tw
+(7. In)Tj
+23.2898 0 Td
+0 Tw
+[(Smalltalk, the e)15(xpression)]TJ
+/R16 10 Tf
+0.75 0 0 1 455.68 650 Tm
+(3+4)Tj
+/R10 10 Tf
+1 0 0 1 471.185 650 Tm
+-0.834 Tw
+(means :)Tj
+-128.465 -12 Td
+2.5 Tw
+(\(A\) The)Tj
+36.9301 0 Td
+(message)Tj
+/R16 10 Tf
+0.75 0 0 1 416.03 638 Tm
+(+4)Tj
+/R10 10 Tf
+1 0 0 1 427.2 638 Tm
+0 Tw
+(is sent to the object)Tj
+/R16 10 Tf
+0.75 0 0 1 506.92 638 Tm
+(3)Tj
+/R10 10 Tf
+1 0 0 1 510.555 638 Tm
+(.)Tj
+-167.285 -12 Td
+2.5 Tw
+(\(B\) The)Tj
+37.1301 0 Td
+(message)Tj
+/R16 10 Tf
+0.75 0 0 1 417.58 626 Tm
+(3)Tj
+/R10 10 Tf
+1 0 0 1 425.215 626 Tm
+0.8 Tw
+(is sent to the function)Tj
+/R16 10 Tf
+0.75 0 0 1 517.825 626 Tm
+(+)Tj
+3.3 Tc
+/R10 10 Tf
+1 0 0 1 521.6 626 Tm
+(,t)Tj
+0 Tc
+8.58008 0 Td
+(he)Tj
+-168.58 -12 Td
+1.816 Tw
+(result of which is a function to which the)Tj
+(message)'
+/R16 10 Tf
+0.75 0 0 1 397.98 602 Tm
+(4)Tj
+/R10 10 Tf
+1 0 0 1 404.815 602 Tm
+0 Tw
+(is sent.)Tj
+-61.5453 -12 Td
+2.5 Tw
+(\(C\) The)Tj
+36.3801 0 Td
+0 Tw
+(same as)Tj
+/R16 10 Tf
+0.75 0 0 1 413.53 590 Tm
+(\(+\)3 4)Tj
+/R10 10 Tf
+1 0 0 1 438.84 590 Tm
+(.)Tj
+-96.1203 -12 Td
+2.5 Tw
+(\(D\) The)Tj
+40.6309 0 Td
+3.741 Tw
+(tuple message)Tj
+/R16 10 Tf
+0.75 0 0 1 449.713 578 Tm
+(\(3,4\))Tj
+/R10 10 Tf
+1 0 0 1 477.629 578 Tm
+3.742 Tw
+(is sent to the)Tj
+-116.029 -12 Td
+(object)Tj
+/R16 10 Tf
+0.75 0 0 1 388.54 566 Tm
+(+)Tj
+/R10 10 Tf
+1 0 0 1 392.175 566 Tm
+(.)Tj
+-63.075 -18 Td
+2.5 Tw
+(8. What)Tj
+36.6602 0 Td
+0 Tw
+(is the type of the Ocaml function)Tj
+/R16 10 Tf
+0.75 0 0 1 341.6 536 Tm
+(let g \(\) = 3;;)Tj
+/R10 10 Tf
+1 0 0 1 342.72 524 Tm
+(\(A\))Tj
+/R16 10 Tf
+0.75 0 0 1 361.6 524 Tm
+(int * unit)Tj
+/R10 10 Tf
+1 0 0 1 343.27 512 Tm
+(\(B\))Tj
+/R16 10 Tf
+0.75 0 0 1 361.55 512 Tm
+(int -> unit)Tj
+/R10 10 Tf
+1 0 0 1 343.27 500 Tm
+(\(C\))Tj
+/R16 10 Tf
+0.75 0 0 1 361.6 500 Tm
+(unit * int)Tj
+/R10 10 Tf
+1 0 0 1 342.72 488 Tm
+(\(D\))Tj
+/R16 10 Tf
+0.75 0 0 1 361.56 488 Tm
+(unit -> int)Tj
+/R10 10 Tf
+1 0 0 1 329.1 470 Tm
+2.5 Tw
+(9. Uni\214cation)Tj
+61.4699 0 Td
+1.47 Tw
+(is a part of the static type checking)Tj
+-48.9699 -12 Td
+0 Tw
+[(algorithm used by compilers of)-166.616(?)]TJ
+1.11992 -12 Td
+2.5 Tw
+(\(A\) C)Tj
+28.05 0 Td
+0 Tw
+(and C++)Tj
+-27.5 -12 Td
+2.5 Tw
+(\(B\) Ja)Tj
+-0.25 Tc
+26.4102 0 Td
+0.5 Tw
+(va a)Tj
+0 Tc
+16.1301 0 Td
+0 Tw
+(nd Smalltalk)Tj
+-42.5402 -12 Td
+2.5 Tw
+(\(C\) ML)Tj
+35.7699 0 Td
+0 Tw
+(and Ocaml)Tj
+-36.3199 -12 Td
+2.5 Tw
+(\(D\) Perl)Tj
+37.5199 0 Td
+0 Tw
+(and Python)Tj
+-56.1398 -18 Td
+2.5 Tw
+(10. When)Tj
+4.39 Tc
+45.7699 0 Td
+(ag)Tj
+0 Tc
+13.7801 0 Td
+1.89 Tw
+(arbage collector forms the closure of)Tj
+-42.05 -12 Td
+1.065 Tw
+(the root set, it identi\214es all)Tj
+ET
+Q
+4571.25 3800.25 m
+4621.25 3800.25 l
+S
+4587.25 3800.25 m
+4637.25 3800.25 l
+S
+4637.25 3800.25 m
+4687.25 3800.25 l
+S
+4687.25 3800.25 m
+4737.25 3800.25 l
+S
+4737.25 3800.25 m
+4787.25 3800.25 l
+S
+q
+10 0 0 10 0 0 cm BT
+/R10 10 Tf
+1 0 0 1 482.322 380 Tm
+1.064 Tw
+(objects on the)Tj
+-140.722 -12 Td
+(heap.)Tj
+1.11992 -12 Td
+2.5 Tw
+(\(A\) dead)Tj
+0.55 -12 Td
+(\(B\) li)Tj
+-0.15 Tc
+23.5898 0 Td
+(ve)Tj
+0 Tc
+-23.5898 -12 Td
+(\(C\) reachable)Tj
+-0.55 -12 Td
+(\(D\) unreachable)Tj
+-18.6199 -18 Td
+(11. A)Tj
+29.5941 0 Td
+2.374 Tw
+(C++ compiler does object-oriented dynamic)Tj
+-12.0941 -12 Td
+0 Tw
+[(dispatch via)-166.602(:)]TJ
+1.11992 -12 Td
+2.5 Tw
+(\(A\) def)Tj
+31.55 0 Td
+0 Tw
+(ault memory allocator)Tj
+-31 -12 Td
+2.5 Tw
+(\(B\) help-allocated)Tj
+77.4301 0 Td
+(closure)Tj
+-77.4301 -12 Td
+(\(C\) inferential)Tj
+62.0398 0 Td
+0 Tw
+(type indicator)Tj
+-62.5898 -12 Td
+2.5 Tw
+(\(D\) virtual)Tj
+47.5602 0 Td
+0 Tw
+(function table)Tj
+-66.1801 -18 Td
+2.5 Tw
+(12. `)Tj
+20.0898 0 Td
+0.113 Tw
+(`Structured Programming with goto Statements')Tj
+192.882 0 Td
+(')Tj
+-194.352 -12 Td
+2.5 Tw
+(\(A\) Edsger)Tj
+49.2602 0 Td
+(Dijkstra)Tj
+-48.7102 -12 Td
+(\(B\) C.A.R.)Tj
+48.7898 0 Td
+(Hoare)Tj
+-48.7898 -12 Td
+(\(C\) Donald)Tj
+50.2301 0 Td
+(Knuth)Tj
+-50.7801 -12 Td
+(\(D\) Niklaus)Tj
+-0.4 Tc
+52.45 0 Td
+(Wi)Tj
+0 Tc
+11.8199 0 Td
+(rth)Tj
+ET
+Q
+Q
+endstream
+endobj
+40 0 obj
+12182
+endobj
+44 0 obj
+<</Length 45 0 R>>
+stream
+q 0.1 0 0 0.1 0 0 cm
+/R7 gs
+4 w
+1 J
+1 j
+0 G
+720.25 7400.25 m
+5400.25 7400.25 l
+S
+720.25 7380.25 m
+5400.25 7380.25 l
+S
+0 g
+q
+10 0 0 10 0 0 cm BT
+/R8 10 Tf
+1 0 0 1 72 744 Tm
+(CMPS-112 \203 Comparati)Tj
+-0.1 Tc
+101.71 0 Td
+0.2 Tw
+(ve P)Tj
+-0.18 Tc
+17.95 0 Td
+(ro)Tj
+0 Tc
+9.26016 0 Td
+0 Tw
+[(gramming Languages \203 F)25.0146(all 2014 \203 Final Exam)]TJ
+2.5 Tc
+/R10 10 Tf
+315.71 0 Td
+[(5o)250(f5)]TJ
+0 Tc
+-444.63 -22 Td
+1.675 Tw
+(Multiple choice.)Tj
+-0.8 Tc
+73.8398 0 Td
+3.275 Tw
+(To t)Tj
+0 Tc
+17.2648 0 Td
+(he)Tj
+/R14 10 Tf
+13.6148 0 Td
+(left)Tj
+/R10 10 Tf
+17.5051 0 Td
+1.675 Tw
+(of each question, write)Tj
+-122.225 -12 Td
+1.277 Tw
+(the letter that indicates your answer)Tj
+6.277 Tc
+148.635 0 Td
+(.W)Tj
+0 Tc
+18.2172 0 Td
+(rite)Tj
+/R14 10 Tf
+17.216 0 Td
+(Z)Tj
+/R10 10 Tf
+9.88594 0 Td
+1.276 Tw
+(if you)Tj
+-193.954 -12 Td
+(don')Tj
+4.076 Tc
+18.15 0 Td
+(tw)Tj
+0 Tc
+13.9762 0 Td
+1.576 Tw
+(ant to risk a wrong answer)Tj
+6.577 Tc
+113.47 0 Td
+(.W)Tj
+0 Tc
+18.5172 0 Td
+1.577 Tw
+(rong answers)Tj
+-164.113 -12 Td
+0 Tw
+[(are w)10.0159(orth ne)]TJ
+-0.05 Tc
+49.95 0 Td
+(ga)Tj
+0 Tc
+9.38984 0 Td
+(ti)Tj
+-0.15 Tc
+5.31016 0 Td
+0.3 Tw
+(ve p)Tj
+0 Tc
+16.7898 0 Td
+(oints.)Tj
+/R18 10 Tf
+26.95 0 Td
+([12)Tj
+/R20 10 Tf
+14.45 0 Td
+(4)Tj
+/R18 10 Tf
+8.46016 0 Td
+(])Tj
+ET
+Q
+720.25 6695.25 m
+2916.25 6695.25 l
+S
+q
+10 0 0 10 0 0 cm BT
+/R10 10 Tf
+1 0 0 1 77 660 Tm
+(number of)Tj
+7.5 Tc
+122.78 0 Td
+<D731>Tj
+0 Tc
+23.1398 0 Td
+(=)Tj
+/R24 10 Tf
+49.9301 0 Td
+(=)Tj
+/R22 10 Tf
+8.61992 0 Td
+(a)Tj
+/R10 10 Tf
+-204.47 -12 Td
+(correct answers)Tj
+ET
+Q
+720.25 6435.25 m
+2916.25 6435.25 l
+S
+q
+10 0 0 10 0 0 cm BT
+/R10 10 Tf
+1 0 0 1 77 634 Tm
+(number of)Tj
+5 Tc
+122.78 0 Td
+<D7BD3D>Tj
+0 Tc
+/R24 10 Tf
+73.0699 0 Td
+(=)Tj
+/R22 10 Tf
+8.56016 0 Td
+(b)Tj
+/R10 10 Tf
+-204.41 -12 Td
+(wrong answers)Tj
+ET
+Q
+720.25 6175.25 m
+2916.25 6175.25 l
+S
+q
+10 0 0 10 0 0 cm BT
+/R10 10 Tf
+1 0 0 1 77 608 Tm
+(number of)Tj
+7.5 Tc
+122.78 0 Td
+<D730>Tj
+24.4 Tc
+23.1398 0 Td
+(=0)Tj
+0 Tc
+-145.92 -12 Td
+(missing answers)Tj
+ET
+Q
+720.25 5915.25 m
+2916.25 5915.25 l
+S
+q
+10 0 0 10 0 0 cm BT
+/R10 10 Tf
+1 0 0 1 77 582 Tm
+[(column total)-5238.99(12)]TJ
+/R24 10 Tf
+195.74 0 Td
+(=)Tj
+/R22 10 Tf
+8.48984 0 Td
+(c)Tj
+-204.03 -12 Td
+(c)Tj
+/R24 10 Tf
+7.43984 0 Td
+(=)Tj
+/R10 10 Tf
+8.28984 0 Td
+[(max)48.0151<28>]TJ
+/R22 10 Tf
+20.4 0 Td
+(a)Tj
+/R24 10 Tf
+7.35 0 Td
+(-)Tj
+/R22 10 Tf
+7.96016 0 Td
+(b)Tj
+1.46 Tc
+/R10 10 Tf
+5.23008 0 Td
+(,0)Tj
+0 Tc
+8.66992 0 Td
+<29>Tj
+ET
+Q
+720.25 5655.25 m
+2916.25 5655.25 l
+S
+2916.25 5655.25 m
+2916.25 6695.25 l
+S
+2359.25 5655.25 m
+2359.25 6695.25 l
+S
+1946.25 5655.25 m
+1946.25 6695.25 l
+S
+1533.25 5655.25 m
+1533.25 6695.25 l
+S
+720.25 5655.25 m
+720.25 6695.25 l
+S
+q
+10 0 0 10 0 0 cm BT
+/R10 10 Tf
+1 0 0 1 79.5 544 Tm
+2.5 Tw
+(1. Which)Tj
+46.9539 0 Td
+5.294 Tw
+(language is not completely strongly)Tj
+-34.4539 -12 Td
+-0.834 Tw
+(typed ?)Tj
+1.11992 -12 Td
+2.5 Tw
+(\(A\) C++)Tj
+0.55 -12 Td
+(\(B\) Perl)Tj
+12 TL
+(\(C\) Scheme)'
+-0.55 -12 Td
+(\(D\) Smalltalk)Tj
+-13.6199 -18 Td
+(2. What)Tj
+36.6602 0 Td
+0 Tw
+[(is a comment in Ocaml)-166.594(?)]TJ
+-23.0402 -12 Td
+(\(A\))Tj
+/R16 10 Tf
+0.75 0 0 1 112 454 Tm
+(\(*...*\))Tj
+/R10 10 Tf
+1 0 0 1 93.6699 442 Tm
+(\(B\))Tj
+/R16 10 Tf
+0.75 0 0 1 111.95 442 Tm
+(/*...*/)Tj
+/R10 10 Tf
+1 0 0 1 93.6699 430 Tm
+(\(C\))Tj
+/R16 10 Tf
+0.75 0 0 1 112 430 Tm
+(//...)Tj
+/R10 10 Tf
+1 0 0 1 93.1199 418 Tm
+(\(D\))Tj
+/R16 10 Tf
+0.75 0 0 1 111.96 418 Tm
+(;;...)Tj
+/R10 10 Tf
+1 0 0 1 79.5 400 Tm
+2.5 Tw
+(3. What)Tj
+38.2648 0 Td
+1.605 Tw
+(kind of g)Tj
+39.2699 0 Td
+1.606 Tw
+[(arbage collection f)9.98047(ails on c)]TJ
+114.034 0 Td
+(yclic)Tj
+-179.069 -12 Td
+0 Tw
+[(data structures)-166.617(?)]TJ
+1.11992 -12 Td
+2.5 Tw
+(\(A\) cop)Tj
+33.2199 0 Td
+0 Tw
+(ying with semispaces)Tj
+-32.6699 -12 Td
+2.5 Tw
+(\(B\) generational)Tj
+(\(C\) mark)'
+41.4898 0 Td
+0 Tw
+(and sweep)Tj
+-42.0398 -12 Td
+2.5 Tw
+(\(D\) reference)Tj
+58.75 0 Td
+(counting)Tj
+-72.3699 -18 Td
+(4. In)Tj
+23.2898 0 Td
+0 Tw
+(Ocaml, what is the type of)Tj
+/R16 10 Tf
+0.75 0 0 1 210.83 322 Tm
+(\(/.\))Tj
+/R10 10 Tf
+1 0 0 1 229.836 322 Tm
+(?)Tj
+-136.716 -12 Td
+(\(A\))Tj
+/R16 10 Tf
+0.75 0 0 1 112 310 Tm
+(float * float * float)Tj
+/R10 10 Tf
+1 0 0 1 93.6699 298 Tm
+(\(B\))Tj
+/R16 10 Tf
+0.75 0 0 1 111.95 298 Tm
+(float * float -> float)Tj
+/R10 10 Tf
+1 0 0 1 93.6699 286 Tm
+(\(C\))Tj
+/R16 10 Tf
+0.75 0 0 1 112 286 Tm
+(float -> float * float)Tj
+/R10 10 Tf
+1 0 0 1 93.1199 274 Tm
+(\(D\))Tj
+/R16 10 Tf
+0.75 0 0 1 111.96 274 Tm
+(float -> float -> float)Tj
+/R10 10 Tf
+1 0 0 1 79.5 256 Tm
+2.5 Tw
+(5. In)Tj
+24.2078 0 Td
+(Ja)Tj
+-0.25 Tc
+8.13008 0 Td
+1.418 Tw
+(va o)Tj
+3.418 Tc
+17.6078 0 Td
+(rC)Tj
+0 Tc
+13.5281 0 Td
+0.917 Tw
+(++, which statement can cause con-)Tj
+-50.9738 -12 Td
+0.659 Tw
+(trol to pass from the current function to the call-)Tj
+0.027 Tw
+(ing function, or perhaps the caller of the caller)'
+2.526 Tc
+185.486 0 Td
+(,o)Tj
+0 Tc
+10.0262 0 Td
+(r)Tj
+-195.512 -12 Td
+0.84 Tw
+(perhaps e)Tj
+-0.15 Tc
+38.7398 0 Td
+(ve)Tj
+3.34 Tc
+9.28984 0 Td
+(na)Tj
+0 Tc
+12.7801 0 Td
+[(ll the w)9.99268(ay back to the main func-)]TJ
+-60.8098 -12 Td
+-0.834 Tw
+(tion ?)Tj
+1.11992 -12 Td
+(\(A\))Tj
+/R16 10 Tf
+0.75 0 0 1 112 196 Tm
+(break)Tj
+/R10 10 Tf
+1 0 0 1 93.6699 184 Tm
+(\(B\))Tj
+/R16 10 Tf
+0.75 0 0 1 111.95 184 Tm
+(continue)Tj
+/R10 10 Tf
+1 0 0 1 93.6699 172 Tm
+(\(C\))Tj
+/R16 10 Tf
+0.75 0 0 1 112 172 Tm
+(return)Tj
+/R10 10 Tf
+1 0 0 1 93.1199 160 Tm
+(\(D\))Tj
+/R16 10 Tf
+0.75 0 0 1 111.96 160 Tm
+(throw)Tj
+/R10 10 Tf
+1 0 0 1 329.1 716 Tm
+2.5 Tw
+(6. A)Tj
+22.2199 0 Td
+0 Tw
+[(static \(access\) link is)-166.587(:)]TJ
+-8.6 -12 Td
+2.5 Tw
+(\(A\) a)Tj
+26.5078 0 Td
+0.687 Tw
+(pointer to the instruction which called the)Tj
+-7.62773 -12 Td
+0 Tw
+(current function.)Tj
+-18.3301 -12 Td
+2.5 Tw
+(\(B\) a)Tj
+25.8961 0 Td
+0.676 Tw
+(pointer to the ne)Tj
+67.2578 0 Td
+0.677 Tw
+(xt free byte of storage on)Tj
+-74.8238 -12 Td
+0 Tw
+(the heap.)Tj
+-18.3301 -12 Td
+2.5 Tw
+(\(C\) a)Tj
+27.4352 0 Td
+2.165 Tw
+(pointer to the stack frame in which the)Tj
+-9.10508 -12 Td
+0 Tw
+(current function is nested.)Tj
+-18.8801 -12 Td
+2.5 Tw
+(\(D\) a)Tj
+26.6871 0 Td
+0.908 Tw
+(pointer to the stack frame of the caller of)Tj
+-7.80703 -12 Td
+0 Tw
+(the current function.)Tj
+-32.5 -18 Td
+2.5 Tw
+(7. Which)Tj
+42.0328 0 Td
+0.373 Tw
+(is a fully curried lazy functional language)Tj
+-29.5328 -12 Td
+0 Tw
+(with o)Tj
+-0.15 Tc
+25.1301 0 Td
+(ve)Tj
+0 Tc
+9.28984 0 Td
+-0.834 Tw
+(rloading ?)Tj
+-33.3 -12 Td
+2.5 Tw
+(\(A\) Hask)Tj
+39.2602 0 Td
+(ell)Tj
+-38.7102 -12 Td
+(\(B\) Ocaml)Tj
+(\(C\) Scheme)'
+-0.55 -12 Td
+(\(D\) Smalltalk)Tj
+-13.6199 -18 Td
+(8. Gi)Tj
+-0.15 Tc
+22.25 0 Td
+(ve)Tj
+2.5 Tc
+9.28984 0 Td
+(nt)Tj
+0 Tc
+10.2801 0 Td
+0 Tw
+(he Smalltalk statement)Tj
+/R16 10 Tf
+0.75 0 0 1 464.53 524 Tm
+(a:=[:x|x+1].)Tj
+/R10 10 Tf
+1 0 0 1 341.6 512 Tm
+[(What e)15(xpression w)9.98535(ould return the number 4)-166.616(?)]TJ
+1.11992 -12 Td
+(\(A\))Tj
+6 Tc
+/R16 10 Tf
+0.75 0 0 1 361.6 500 Tm
+(3t)Tj
+0 Tc
+17.5599 0 Td
+(o: a.)Tj
+/R10 10 Tf
+1 0 0 1 343.27 488 Tm
+(\(B\))Tj
+6 Tc
+/R16 10 Tf
+0.75 0 0 1 361.55 488 Tm
+(a3)Tj
+0 Tc
+17.5599 0 Td
+(.)Tj
+/R10 10 Tf
+1 0 0 1 343.27 476 Tm
+(\(C\))Tj
+6 Tc
+/R16 10 Tf
+0.75 0 0 1 361.6 476 Tm
+(aa)Tj
+0 Tc
+17.5599 0 Td
+(t: 3.)Tj
+/R10 10 Tf
+1 0 0 1 342.72 464 Tm
+(\(D\))Tj
+6 Tc
+/R16 10 Tf
+0.75 0 0 1 361.56 464 Tm
+(av)Tj
+0 Tc
+17.5599 0 Td
+(alue: 3.)Tj
+/R10 10 Tf
+1 0 0 1 329.1 446 Tm
+2.5 Tw
+(9. In)Tj
+26.5309 0 Td
+3.241 Tw
+(Perl, what will print the current date and)Tj
+-14.0309 -12 Td
+-0.834 Tw
+(time ?)Tj
+1.11992 -12 Td
+(\(A\))Tj
+/R16 10 Tf
+0.75 0 0 1 361.6 422 Tm
+0 Tw
+(print "date";)Tj
+/R10 10 Tf
+1 0 0 1 343.27 410 Tm
+(\(B\))Tj
+/R16 10 Tf
+0.75 0 0 1 361.55 410 Tm
+(print 'date';)Tj
+/R10 10 Tf
+1 0 0 1 343.27 398 Tm
+(\(C\))Tj
+/R16 10 Tf
+0.75 0 0 1 361.6 398 Tm
+(print \(date\);)Tj
+/R10 10 Tf
+1 0 0 1 342.72 386 Tm
+(\(D\))Tj
+/R16 10 Tf
+0.75 0 0 1 361.56 386 Tm
+(print `date`;)Tj
+/R10 10 Tf
+1 0 0 1 324.1 368 Tm
+2.5 Tw
+(10. What)Tj
+41.6602 0 Td
+0 Tw
+[(is not f)9.99268(alse in Perl)-166.616(?)]TJ
+-23.0402 -12 Td
+(\(A\))Tj
+/R16 10 Tf
+0.75 0 0 1 361.6 356 Tm
+(0)Tj
+/R10 10 Tf
+1 0 0 1 343.27 344 Tm
+(\(B\))Tj
+/R16 10 Tf
+0.75 0 0 1 361.55 344 Tm
+(0.0/0.0)Tj
+/R10 10 Tf
+1 0 0 1 343.27 332 Tm
+(\(C\))Tj
+/R16 10 Tf
+0.75 0 0 1 361.6 332 Tm
+("")Tj
+/R10 10 Tf
+1 0 0 1 342.72 320 Tm
+(\(D\))Tj
+/R16 10 Tf
+0.75 0 0 1 361.56 320 Tm
+(undef)Tj
+/R10 10 Tf
+1 0 0 1 324.1 302 Tm
+2.5 Tw
+(11. In)Tj
+28.2898 0 Td
+0 Tw
+(Smalltalk, what is)Tj
+/R16 10 Tf
+0.75 0 0 1 426.84 302 Tm
+(9)Tj
+/R10 10 Tf
+1 0 0 1 432.841 302 Tm
+(?)Tj
+-90.1211 -12 Td
+(\(A\))Tj
+/R16 10 Tf
+0.75 0 0 1 361.6 290 Tm
+(\(4 + 5\) value.)Tj
+/R10 10 Tf
+1 0 0 1 343.27 278 Tm
+(\(B\))Tj
+/R16 10 Tf
+0.75 0 0 1 361.55 278 Tm
+([4 + 5] value.)Tj
+/R10 10 Tf
+1 0 0 1 343.27 266 Tm
+(\(C\))Tj
+/R16 10 Tf
+0.75 0 0 1 361.6 266 Tm
+("4 + 5" value.)Tj
+/R10 10 Tf
+1 0 0 1 342.72 254 Tm
+(\(D\))Tj
+/R16 10 Tf
+0.75 0 0 1 361.56 254 Tm
+({4 + 5} value.)Tj
+/R10 10 Tf
+1 0 0 1 324.1 236 Tm
+2.5 Tw
+(12. `)Tj
+20.0898 0 Td
+0 Tw
+(`Go T)Tj
+2.5 Tc
+23.3602 0 Td
+(oS)Tj
+0 Tc
+13.0602 0 Td
+[(tatement Considered Harmful')73.9844(')]TJ
+-37.8902 -12 Td
+2.5 Tw
+(\(A\) Edsger)Tj
+49.2602 0 Td
+(Dijkstra)Tj
+-48.7102 -12 Td
+(\(B\) C.A.R.)Tj
+48.7898 0 Td
+(Hoare)Tj
+-48.7898 -12 Td
+(\(C\) Donald)Tj
+50.2301 0 Td
+(Knuth)Tj
+-50.7801 -12 Td
+(\(D\) Niklaus)Tj
+-0.4 Tc
+52.45 0 Td
+(Wi)Tj
+0 Tc
+11.8199 0 Td
+(rth)Tj
+ET
+Q
+Q
+endstream
+endobj
+45 0 obj
+9073
+endobj
+4 0 obj
+<</Type/Page/MediaBox [0 0 612 792]
+/Parent 3 0 R
+/Resources<</ProcSet[/PDF /Text]
+/ExtGState 26 0 R
+/Font 27 0 R
+>>
+/Contents 5 0 R
+>>
+endobj
+28 0 obj
+<</Type/Page/MediaBox [0 0 612 792]
+/Parent 3 0 R
+/Resources<</ProcSet[/PDF /Text]
+/ExtGState 31 0 R
+/Font 32 0 R
+>>
+/Contents 29 0 R
+>>
+endobj
+33 0 obj
+<</Type/Page/MediaBox [0 0 612 792]
+/Parent 3 0 R
+/Resources<</ProcSet[/PDF /Text]
+/ExtGState 36 0 R
+/Font 37 0 R
+>>
+/Contents 34 0 R
+>>
+endobj
+38 0 obj
+<</Type/Page/MediaBox [0 0 612 792]
+/Parent 3 0 R
+/Resources<</ProcSet[/PDF /Text]
+/ExtGState 41 0 R
+/Font 42 0 R
+>>
+/Contents 39 0 R
+>>
+endobj
+43 0 obj
+<</Type/Page/MediaBox [0 0 612 792]
+/Parent 3 0 R
+/Resources<</ProcSet[/PDF /Text]
+/ExtGState 46 0 R
+/Font 47 0 R
+>>
+/Contents 44 0 R
+>>
+endobj
+3 0 obj
+<< /Type /Pages /Kids [
+4 0 R
+28 0 R
+33 0 R
+38 0 R
+43 0 R
+] /Count 5
+>>
+endobj
+1 0 obj
+<</Type /Catalog /Pages 3 0 R
+/Metadata 64 0 R
+>>
+endobj
+7 0 obj
+<</Type/ExtGState
+/OPM 1>>endobj
+26 0 obj
+<</R7
+7 0 R>>
+endobj
+27 0 obj
+<</R20
+20 0 R/R14
+14 0 R/R12
+12 0 R/R24
+24 0 R/R10
+10 0 R/R22
+22 0 R/R18
+18 0 R/R8
+8 0 R/R16
+16 0 R>>
+endobj
+31 0 obj
+<</R7
+7 0 R>>
+endobj
+32 0 obj
+<</R20
+20 0 R/R14
+14 0 R/R12
+12 0 R/R24
+24 0 R/R10
+10 0 R/R22
+22 0 R/R18
+18 0 R/R8
+8 0 R/R16
+16 0 R>>
+endobj
+36 0 obj
+<</R7
+7 0 R>>
+endobj
+37 0 obj
+<</R20
+20 0 R/R14
+14 0 R/R12
+12 0 R/R10
+10 0 R/R18
+18 0 R/R8
+8 0 R/R16
+16 0 R>>
+endobj
+41 0 obj
+<</R7
+7 0 R>>
+endobj
+42 0 obj
+<</R20
+20 0 R/R14
+14 0 R/R24
+24 0 R/R10
+10 0 R/R22
+22 0 R/R18
+18 0 R/R8
+8 0 R/R16
+16 0 R>>
+endobj
+46 0 obj
+<</R7
+7 0 R>>
+endobj
+47 0 obj
+<</R20
+20 0 R/R14
+14 0 R/R24
+24 0 R/R10
+10 0 R/R22
+22 0 R/R18
+18 0 R/R8
+8 0 R/R16
+16 0 R>>
+endobj
+20 0 obj
+<</BaseFont/KZHNLC+ZapfDingbats/FontDescriptor 21 0 R/Type/Font
+/FirstChar 52/LastChar 52/Widths[ 846]
+/Encoding 57 0 R/Subtype/Type1>>
+endobj
+57 0 obj
+<</Type/Encoding/BaseEncoding/WinAnsiEncoding/Differences[
+52/a20]>>
+endobj
+14 0 obj
+<</BaseFont/UNVYPL+Times-BoldItalic/FontDescriptor 15 0 R/Type/Font
+/FirstChar 32/LastChar 140/Widths[
+250 389 0 0 0 0 0 0 0 0 0 0 250 333 250 0
+0 0 0 0 0 0 0 0 0 0 333 333 0 0 0 0
+0 0 0 0 744 0 0 0 0 0 0 0 0 0 722 722
+614 0 0 556 0 0 0 0 0 0 611 0 0 0 0 0
+0 500 500 444 500 444 333 500 556 278 0 500 278 778 556 500
+500 0 389 389 278 556 444 667 0 444 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 556]
+/Encoding 58 0 R/Subtype/Type1>>
+endobj
+58 0 obj
+<</Type/Encoding/BaseEncoding/WinAnsiEncoding/Differences[
+140/fi]>>
+endobj
+12 0 obj
+<</BaseFont/BDZXPE+Courier/FontDescriptor 13 0 R/Type/Font
+/FirstChar 32/LastChar 125/Widths[
+600 0 600 600 600 0 0 600 600 600 600 0 600 600 600 0
+600 600 600 600 600 600 600 600 600 0 600 600 0 600 600 0
+600 0 0 0 0 0 0 0 0 600 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 600 600 600 0 600
+0 600 600 600 600 600 0 600 600 600 0 0 600 600 600 0
+600 600 600 600 600 600 600 0 600 0 0 600 0 600]
+/Encoding 59 0 R/Subtype/Type1>>
+endobj
+59 0 obj
+<</Type/Encoding/BaseEncoding/WinAnsiEncoding/Differences[
+39/quoteright]>>
+endobj
+24 0 obj
+<</BaseFont/UWGVWN+Symbol/FontDescriptor 25 0 R/Type/Font
+/FirstChar 43/LastChar 163/Widths[ 549 0 549 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 549 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 549 0 0 0 0 0 0 0 0 0 549 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 549]
+/Encoding 60 0 R/Subtype/Type1>>
+endobj
+60 0 obj
+<</Type/Encoding/BaseEncoding/WinAnsiEncoding/Differences[
+45/minus
+98/beta
+108/lambda
+163/lessequal]>>
+endobj
+10 0 obj
+<</BaseFont/ZXQXLP+Times-Roman/FontDescriptor 11 0 R/Type/Font
+/FirstChar 32/LastChar 215/Widths[
+250 0 0 0 0 0 0 333 333 333 500 564 250 333 250 278
+500 500 500 500 500 500 500 500 500 500 278 278 0 564 0 444
+0 722 662 667 718 611 556 722 715 329 389 700 611 883 722 722
+552 0 662 556 611 722 0 944 0 722 0 0 0 0 0 0
+333 444 500 444 500 444 333 500 500 278 278 500 278 778 500 500
+500 500 344 389 278 500 500 722 500 500 444 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 556 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 750 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 564]
+/Encoding 61 0 R/Subtype/Type1>>
+endobj
+61 0 obj
+<</Type/Encoding/BaseEncoding/WinAnsiEncoding/Differences[
+39/quoteright
+96/quoteleft
+140/fi]>>
+endobj
+22 0 obj
+<</BaseFont/CFXIFH+Times-Italic/FontDescriptor 23 0 R/Type/Font
+/FirstChar 79/LastChar 120/Widths[ 722
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 500 500 444 0 0 0 0 0 0 0 0 0 0 500 0
+0 0 0 0 0 0 0 0 444]
+/Encoding/WinAnsiEncoding/Subtype/Type1>>
+endobj
+18 0 obj
+<</BaseFont/EUVSSQ+Helvetica-Bold/FontDescriptor 19 0 R/Type/Font
+/FirstChar 49/LastChar 93/Widths[ 556 556 556 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 333 0 333]
+/Encoding/WinAnsiEncoding/Subtype/Type1>>
+endobj
+8 0 obj
+<</BaseFont/TPBPAZ+Times-Bold/FontDescriptor 9 0 R/Type/Font
+/FirstChar 32/LastChar 131/Widths[
+250 0 0 0 0 0 0 0 0 0 0 0 0 333 0 0
+500 500 500 0 500 0 0 0 0 0 333 0 0 0 0 0
+0 0 0 722 0 667 611 0 0 0 0 0 664 943 722 0
+611 0 0 556 0 0 0 0 0 0 0 0 0 0 0 0
+0 500 0 0 0 444 0 500 0 278 0 0 278 833 556 500
+556 0 444 389 333 556 500 0 500 0 0 0 0 0 0 0
+0 0 0 350]
+/Encoding 62 0 R/Subtype/Type1>>
+endobj
+62 0 obj
+<</Type/Encoding/BaseEncoding/WinAnsiEncoding/Differences[
+131/bullet]>>
+endobj
+16 0 obj
+<</BaseFont/IVNGCB+Courier-Bold/FontDescriptor 17 0 R/Type/Font
+/FirstChar 32/LastChar 125/Widths[
+578 578 578 578 0 0 0 578 578 578 578 578 578 578 578 578
+578 578 578 578 578 578 578 578 0 578 578 578 578 578 578 578
+0 0 0 0 0 0 0 0 0 0 0 0 578 0 0 0
+0 0 0 0 0 0 0 0 578 0 0 578 0 578 0 578
+578 578 578 578 578 578 578 578 578 578 578 578 578 578 578 578
+578 0 578 578 578 578 578 578 578 578 578 578 578 578]
+/Encoding 63 0 R/Subtype/Type1>>
+endobj
+63 0 obj
+<</Type/Encoding/BaseEncoding/WinAnsiEncoding/Differences[
+39/quoteright
+96/quoteleft]>>
+endobj
+21 0 obj
+<</Type/FontDescriptor/FontName/KZHNLC+ZapfDingbats/FontBBox[0 -14 811 706]/Flags 4
+/Ascent 706
+/CapHeight 706
+/Descent -14
+/ItalicAngle 0
+/StemV 121
+/MissingWidth 278
+/CharSet(/a20)/FontFile3 48 0 R>>
+endobj
+48 0 obj
+<</Filter[/ASCII85Decode
+/FlateDecode]
+/Subtype/Type1C/Length 738>>stream
+GasakcVG3?']+D(&-_uoR$];_*AqOL0d_Y=`BY[]`!1h.6H&-VCmhN`?"^%_6Aj.<Q80.)=;'n[
+VABXFj$aUp'>8YbB"WBQ?f6q2c.N`JUUN2NHggjgqq`GId%V\:3q$S1*2%I3Jd(l^+n#j1cF.uR
+XYSH%g:5tiXUS>5SR,*I-9GCB8)S+A_+AS>KXZ$HgHMdJq(/j#K-^;H5*(c]JMG1Z1RO:IoK-rR
+dHHgFhS-_I&4qJj6SLt8La`BP[0ZE^$K&HM1'm%I8&eu!fS!Z@_XWFNFVpu:YrOfTVSg4'It6t>
+"r5XmGmLQm^qa6M;q48K3cTQj#VKO?b.3C\EelJe$Y"X*JD.RL2gfn92]Z+Qb8c5V'V_PC%MrA_
+e.nVj_ZSNbB,"9HpputF(`ZIS)NGl"&_2A]#u#1GJg?#Q'-Ua[mTMTLF;:(aBQJhd=&'j;#D&!c
+Aqia!PLk$?E'O,1C[AW5ZJ"P#X8_B__22`X%PA"l_4gW'E>*`iJu38GP(od`Jl(C]hV52&4]Q?(
+XWmECY+2M'9-TL$StGE7)k+RUTpnE5%j0,VhmMfm3g3.uZEbT/CJ1KOlhQP%>4t=$]<I]MPM]Lp
+[`drV.J5gpCiM$Y;j-8*F*$$2m'OS[.9@9cdeU+PPbRrO1qc)a0jH-6(O:#"]MP#E4]bAFMQL\h
+^61-.5JI/'hj`Djq#9kTrQDYd>Eqgk]NSM;Fh13eO[h:r%o=/YU&~>
+endstream
+endobj
+15 0 obj
+<</Type/FontDescriptor/FontName/UNVYPL+Times-BoldItalic/FontBBox[-188 -205 746 703]/Flags 68
+/Ascent 703
+/CapHeight 685
+/Descent -205
+/ItalicAngle -17
+/StemV 111
+/MissingWidth 1000
+/XHeight 462
+/CharSet(/D/N/O/P/S/Z/a/b/c/colon/comma/d/e/exclam/f/fi/g/h/hyphen/i/k/l/m/n/o/p/period/r/s/semicolon/space/t/u/v/w/y)/FontFile3 49 0 R>>
+endobj
+49 0 obj
+<</Filter[/ASCII85Decode
+/FlateDecode]
+/Subtype/Type1C/Length 5154>>stream
+GasIhH!"!Hg:o?TY)6%K;j4YRM]LDeY,tpY=r!B]iW:<[OK\l/8erP2KTLm5*8-Jd+:&)n!CGF)
+JZ9HO\mXp4[@;#G7U+VB412M(^Rja23\q#qn!ickk'N]q-Vp=\mX;S%n,9rg@1^nc&I\kRcG=<g
+L@Y.AA`E?Q._[l(D<g*OoTK^[WG2"nQm`a?+6Xdd#l,LGETZ1q&B4i]di4pJPP-F&AI]];J/++V
+9Eq9-h6BBqf-mqY=fSF>EVg7uH1oqSrq0gtg9k^k"If?NM;"DlbSEgG(?.Q().K"=Os*i-O4o3C
+(?5[pKOTp'9,Y]E:X;S(qCJ3kc4EE5B8a+XE`l_ui[mft<\.I`r-A4HC/;9+TN4PLQV$u#W'.Go
+;7iU#Ef'WMR=@FI#\(MI-;WEs:o`#jq0[`?/U^F7hTT)1<qZQV=E<c=k?j%6[r+>plm6+tIDgG@
+!HEWL8Al,1`$$=UGa6oJ,SF=<D8]<rRTN$q-^GE-Ln2I:@MQ/;L`uI'&n3a2:.,X%@N+b^nJ&5.
+f9r"$3/FaU"cT^#CSk)d,FNrAGLQ:\Ilh1ja9:f/lW!)>cp%#?Z=Ltf)'(Moc[';k-Yupf9A'!F
+:PRW@#K![!IhDZ[`/4h/7.>-KE;CRDdVG<in7NTXUdacEG$9i2<sV?\`DKRo370]\og2-cB[$fr
+jh@>P5E[JFk/qqcX9.LD`=jqfo9sR1iIIJ`LCT[$Q@]0G-pEfR_W9$`Ukf;-ZWUdWF75[#T/QQK
+/WG:^XYZ3olm>pCFV(Z*8h/[.Ek.T%eaT'Gh1*,V$`@k<%f4-SL(2F[!]Z)Eqe-!L/OE<J-$oB`
+)nWk:9Ai`f.GXFgc>1TOUQjT^W"s7eUW5gX-u"W.RKZ5R6#6M@I;iW@<Q[8SEM<i&fIGnXiS#?!
+9f(f4r@E<6m]thCNQ*f'ihB!SVeAl2?3!NS*1$J)M8tLDTG>s;K8je2gGp!k4doQT(NA>sn7fBG
+DLS3B[W?qUBMC&.%mq-IV-=F4\?IlVmB_.=G*-p6BT[8#3%d^e"%[QC6Z[mde,L`EqH6O>6YkFA
+Yg$h$nNbGgJ(ql6cbaq8]LmQ2K:aLR*Yl`\<W[:\MiOZa#jI`#$Jgc;gT@sCZtk)/)W6(gRZ*j9
++[eq(KSD_<Ji6%VI6[3LI1\*#)qbJ<#97p#^!9qeel>m`!_Q9u/Mr=2m)f2GD*j@Cd6]<L,NWlp
+"eBTsg]6s)-8bZ+[#[O$=\ojXG5*$3\5n\O*fIlI.iZ`jgIT;%g7%gW+>XD]-Yb.M>X#1c=?4/F
+EIepTI@oKu="P0?kcsMG6XmhoU\,ub4^IeFr>i*=7U"O25UEA73fKZI3`?,']A!D)K.:5OJfk)r
+GaWjcB'e%`f[/st0".hLUmD6&A)@]CbCm?=5$Q/b'\MbU?j+JiNC-R<YK-t0](j14ip*@YD4p`d
+2J*$p.8_K^W]YKH&MLoDFM]jeYMcA,\e%*,ZF8=e#9:NrX"/$E2-HCLq59(-+,hUC+1P'WN+`9c
+L$\AV]1.4c2%;[_4X;!ON:4Q/_[P0la0E+X#2k)p/6:Q;_h+4$ACfG\mDu5!-ohVA\`rLl_j:U\
+5JG*8f4W.eb)68OA9'^L)fPGeE%2-+LA[0fS'1RJ4ft.2_0"gI3og5!ZErQ^o,dUldo?K8gGdX&
+cl7RKZ4<Nel-B63`#7i,S>=Hs4ROYBet&W9!j>_K/7h7.mUgmK.;>g47Vt#Z+<M;_b)Fb*`9$3G
+bX.sJ'7Gbe2`cA+rf91d6&Q`(a>@i7WQV1E^N]j5(9@2XdERW^E;F3d#.">?(B?'l[Jm\W]b3^6
+.jumjZ_F?W4r0*1ZcC@^s((V^G8q$T4d%G&<%a@K3crF6H(MmQ&l8Y8jFY?a\eQPo0'.ME=KJg2
+.42qS/H+,>2in&1Irj$B>\-ZOZ_m_U$H+IP^ql&Rb-K0MEr<"s\#Z't5!!hEgXL9GojbXB$r"/5
+\_p7o:td(UjN9m%C7Q`5='ne+a$(f4j:tIKi1E#M(0ZIHD/bM\6?SbJ0T&NTkbd'=s"=7P1F!E"
+i+<F,da9b3/NB]Z('2ig>4$(*)/fD;H5@J2e#\B`SlL,9!>e1tB@&rOCt$LZlW6RQ^:?cPdVV%<
+,;VEXI:HahG:rI55'Ve;@eXPd*5lHaOGrSt,`,b9aP;@\JN&2<&%tb]SdPc#p4jdol'ZJ-*I`_Q
+8!+,@0L'sS3;[g2=f'`jk:WO$8"UVeL(mJ,Q/*-[LTBBSp^5f*1\pC_"JKj+!q.c>FIPJA]V:&e
+P>F?Q_kThaQ+nH#TsFEiMc0YUdFW\LNLr5C./1N6CRuU)`NIMEPf2P.$:AO>^Cj2M%o]U%?HR-g
+<Fl[+nWF*-B58'\3rTO!"-l`_;<5j[R"ApHi%R.uCDAH2c:+-Oc1/u(c<hZ@lT>=mLFY)l9>Gt]
+>M>KtZP=u2`N:%bUTW;RoK]/07jDpA#95UkR1#p.`fc45Q<ffU3:ml+G`Yc0+2^ts`e<ftH0h=I
+@MOnd<RNsXeT\Ls3oq=HD!f0YTZ15G[9G1Ob#i13J7;F)V@N=r3ekp+p[(B?d!W2)X]f]rk3f44
+%3=7e?V<abc^BPWIZKM*L-,>BBSHpB]a;tqbE".6>!SBWWiKDWGC!XB"e#"G]t-W'+qn&G%J>!=
+1e*Bi[@5N[=1/mSU_rrI%"0+!^1AShb-fW'%)"+=V?L-Y]g^J$HDLT4o/m]r0<na(4F'0rpaM#_
+]j$dN<ChZBB\LXV.`MQtoj7*uf\=r5Z%%iAg?=$n1#U"UbLu*@Jp"fWASFb&@?X>El"I6QE6pj"
+@!Z$jCfR&3%"Lf;O*g(3UcGYkE\sS_"b0<L$p[RQo26U<%:pqSh^nF9JIJ2+$Oph9d3.V%Md(no
+g%6!m^&t!>+,Q;_q7*lup@3n.]#nXM^R@s-S/L_YC?c$ejOodS4h-IBd;$%3ou-8[+-$le]?EX!
+?a+l#DtKgV!SQN`<c:Ua[8BPamFkHjFXdnrpOe9>L*+^=_r,nh*VWqtqc0j\GPbf*Hf^1L7=Zd!
+rVi:!iOiA:qTdmS_+26;%'B_P+UP^N^I&^]Ra&Q%PdCUJ`LnG;Q;G[bN_8:2\N>6+r?'>%R.K35
+BCDE2R_Z"Y[h1hiIln/$*KQp(It$WG^#Jq"O[$ZXZ1oq_287gg06!cnE,-Gi-@;0*C8">?2BsUn
+jXk4sVmdsk3^'_A:m*kFaQ"Wa#c%jM='8"AaA#\T1<Rr`Mc>WN(C8Fh=^nD2/jEB6;+X4Ue`j6<
+F[+9RCfTsKJ!)5qd\Hp6jl*rMNW:rhlTZ3`Z1XE0A/nX6GHlVs%CEs6*n]AhTQB$Xk&42,em;>l
+Ydo`9&*U)eM],#X`c6mqM[bG8(u_a.ciY"O0&Qsle\TC_EL=]/[5O<Gn8M\-o1(M$roS2g;.u$p
+jdXn_<WFVM>]+as'-PU)EqX&^PBC=a2`=UB%Hr?$=Q-N?qb'O?r#c"6>pp4GHKYih,RfBc=5XKD
+"%LUrS2AS"H8?Kp=ZNTn=#(mq`8YnI'7@Z:'t#YsWrnbTgmER`)l(Y:W<ruT"sk<+]5@s`-nk/[
+"H9p9p%-@@h1uZ9i]SJe5s=^V)a)Af<K8i(PNTBbb1tnh3)r&e6:Ur@>RC\\?@Dr4Pgu!VOP'48
+(Ac'^"P[4*/%<'B`:hpXFdh)5;H%Tpm7QdbD0@d]RsDELJOW-I$)?^TCi%#@Ur^h65$TM3eB&'*
+"HYC@[t!oB'lQ=e'_F<YV?CaN0+E2f!WO*n1MJj]H>6,>SfTD-M9Aa+N`ETf9/*sAML-0sEQ=mB
+7tadR7*$&).O>>Ns%KWUCt'LaXY]!Gkre)0<Ij_n)q7?H[^:QO02,,7D5LrS[.he4S&:SF*PNsW
+.PY&pAnn,lh.eY,>Dm>&CIo.rdN8Yp1>AuP\FOUos0a-H0a:E/TGYkA/jD:#Q)DS/JD&n_Y3rHk
+V7qV,iek41Cp7m?TdLdQGp]$3>"J$J,*T*-#5$]pp=u@bI=\$IiMFoafi_d(<dKOsY<UCef-^o9
+;E0$YKAetP+5gu1#b9-jf<@>>[2k:m-;Xg0CaVoS$bOZ9Qr-^fgk(UB:;2:r^SYJ[Zn5[=S/<67
+pgbKZc)B[uXb/;f7)C]oFJ_156kr`P*3&W%.N,)hCXm/V9jXZ>(/ca^Tp,p6+7JSW!g8,gX=RDQ
+d^'8n_'+oqVALokQo_@9V<(g/Co2F803I2!^f^;\5CbY8`a8o)1S?[Ok"E+O,<o(*=Fc[B\0hA"
+\os\:p*FYEBJnItdM/AWG'lA"!kB2:kg@@'JkkEDe/^<XD#+U68jKi:)cT:rD@3%J;ZMNX*gZZS
+)Q1R:4^=FpL$P;col!ZG!T!Z_@?T^e1G5s0=S7m^5Lt(m/gc&Q[2BudD^sTKP['nh3I%qrnC&J(
+i=DA2V&o@mnV"O_B+Eqce;a29-`a<)K^4gRIu`66N)RYS#P[uM^2TjDXi"?Ja;S-:?<bY"=[;@@
+Bd#0hod2e'h:R'kq#/%fW?LED]YRRp;b,5?okn%DODtH+lB>9SKATtoWU!/NV.R?!WtOQo0meml
+LVjROpBEJV\Xo#1Ic05rjoeSj-`8-5C0o@,LC^bU_[7Jm-8DH0]M+_=A(RF]X<Fc]o5#i)37Sn&
+h[Nr`daTsMFYZe[pG;mq4C9n*j(pne/Y-,r7e=!t.=c3<<)cqb=&`0uY*t5_i$R4/?E#bg/NPqW
+F5ccU[c&>^0G+.Lh&Cj;fc9bq.iPhZip6kG`9$l]V_/J_IX2q\OFBHkdQZH(SSi(9h.c.Vj\=Bs
+=-dd6!:GEd9Y?s\G^U%<=gaf+rCnZNlh^[-gkBBth-+Qj%)mIulUc)c1)OhE%:7[GYkkaEV'(C<
+8BjrVN$:2hQn+2i?#1@(p;>YC;tA3"JHUNlba6oqFlr9jBH8C$#_d!W)u*>6"0R8%"1H&f2R9ZR
+L^\iG;[2l#``r6+ROSrH$G&Vm_niM7_49pM$6MuJ/)Wb**Q+HK;q]'M(qFhk14<Y4*oJDAaZ9Q6
+AYE)D1MQ1[HV3N,%@SS/b=MHPCk4!i0*k+'L4W\5"'N;Tf\11*>R\*Y`Jj8i2h$dCci:c:^4ma.
+qnoD+-h%qkkVY7Dc[P@*EeIoun,JH2r+8!m)'3L(q.IRK=oR]j0S9'I&YO96~>
+endstream
+endobj
+13 0 obj
+<</Type/FontDescriptor/FontName/BDZXPE+Courier/FontBBox[-12 -186 612 668]/Flags 7
+/Ascent 668
+/CapHeight 563
+/Descent -186
+/ItalicAngle 0
+/StemV 148
+/AvgWidth 600
+/MaxWidth 600
+/MissingWidth 600
+/XHeight 431
+/CharSet(/I/a/asterisk/at/b/backslash/braceleft/braceright/bracketleft/bracketright/c/colon/comma/d/dollar/e/eight/equal/five/four/g/greater/h/hyphen/i/l/m/n/numbersign/one/p/parenleft/parenright/period/q/quotedbl/quoteright/r/s/semicolon/seven/six/space/t/three/two/u/underscore/v/x/zero)/FontFile3 50 0 R>>
+endobj
+50 0 obj
+<</Filter[/ASCII85Decode
+/FlateDecode]
+/Subtype/Type1C/Length 5488>>stream
+Gas1`HW1[1^7G=m)%dQS@mTJjVq))N3BgWK77@^#n6&_d<\1s5,%)f9H,N7j&/*cQ&B?&l!<T!l
+#`)"O[;r?;%^"=JlVat<[P#7b>4kp2gHE6>Y''Ia,2TZW\SL;flod0%p\K?rn(SJla,?$M,]pC[
+R@05&.K0hm`_(o(?G\5Lq.Q$9r%Uol^eY%0]Rc\Ne[Uqu"q&)>@*M6P.tI,T8?rYiBLPC.AkMWS
+h'&!Bf#3>uKtT[W1O[Q=3?_UJ#G6Z#9Zft!hA%dXs4NU#VT;;(g9j!d,T=FgQBng.,WRG8@n0S@
+QL3Fj[Ypc[hia:i)R;=K/L;W/YpX(&FD/aSC"&r_8kIp?bR.LPfVJjV&[E`4=dc]EoD`V>">Ot!
+`eTsb]9P*t[cD8\[QQ'b7nQs2_X!\gL*o_p9qS,Nq8So16>""*lM.hqMjQG;roDE0;`59,C*JsG
+6`_Tb&TPa8@L<]Cr/K>o6k]rb7DrYE.1nou,?>GXLj=Y<0qT:KN$K/MUPK$sOH:(C'/'r<@PmU1
++X)Gn@)AE&+iY-m@N<2q1r0gB#[cRE`,K0<nHM`LITS-E,WV%b??S!<43kIdqgWum;LdqKkoFdj
+=[Tkl*Ms-h*dqOcAD!s#@Y\M)1ClS6lgL>1qs!U3iPg8LqW7K8n5&RMo5>U'@Dp0J_ac<c(_cCV
+J0gk*Pg?:NUQ,K&%6PC#U[VrMn-HP^h,]4[&<:X^LYH.$ot^gK/9rM/XlIq,B$SLVU:Z8XP1/gC
+kIG=CN[?9$hY%Ooc=IZ_RB1W&<els+SZ8Zk4k)U&"]X]#EfMVdR38%i+I1+#iX[X9(eB_u$iWt<
+<j=_0:\HC.qWmG-S/#fWli^MRK&J?WNSBR-/dP`9b9"LQfTFe->V1-;_H!i'#:ea&8uLMnY2D@H
+_SVYm[FgTjY_5+Re!8blBGgO)O3j5YI1-"jn"[[sG;C#T1N:b)o)@LE.H(l$TqQOS+$BIuk:uie
+Am8O0%rCoC@2Z^.hfq/aDB>IuLp1U7&,ABtLEg].YIj]]Mb5<n.ZXrI(9T#8XOm[cG%!N_HR)R<
+7c=fG?,Pj2;b>ZOBW4>TJ(&7Yd\Q]kDI:`9lsS+_[KXN*/MG;M_E8ecU2aiMqqQbrU:XiCfU`hj
+8ige$eXk*f=L8cSP-P`c6_F);dpoFEKr.>]F2n/j5hdhjlQI:PZEoF'V'R-u!,HbkrYCKqWEb%n
+(&6:dV]D)4-r8k9$O[-K4LmZ'^)#(ZU(_!6.hoBOCi*Kq@8GkX_HO*3:!;tTWZ@L1A)_",^H$X\
+di%9j-0qmO/6YMd:T`+.Z#ATDNg[66[I"N4a]^,pE_#OD>QOEhkC(Bl)cE`i<+hA:2?,#LPpjgh
+=eF->XXG:?g0*=^HTjU?`#)MLHU(e[9-nqM.d*m:25eQ+gb-LBX`0M'!Z/G\@62[EoVF#FH*q=S
+6,$25=)LtsfcF*e7Wp(?]E<SNCTX+le*6TCEQkkm7<pl(79^]l=BG_A'F'K?Y/Q*7+.ju_+:naf
+?u>5QZ5d</kT1=2,!9r"<5BZC,FcRdGddi<.6Fq`mE5'gZ16RSB3Ek)5%O[5IQI4Nr2iV!Ie$Vh
+j"@L-F@fjBG.^>DPf$QnVl*t/=`g36H27Po-Y,K!6=*c$pGh)[mhKjS-'C=!'tsg[HGb*)iS/sV
+["WlK$(<X1jCJru7X(]>,anf'8h[sK'(-mg9,27n$0Mfn8I%&Ud"N,EGhE84E8U+!VN$$q3\YqG
+dbkmH&"VeS`TO*Fa6_!+A+K<h6D1#04D-C;JC2=-f$p.X!I^_QkBlP^.b9_c\d>i=i9]*aXR'ca
+QgkThFW\0@c(+Ka=V6u8NU*hEGfRehmD$&Qkd6>q><i8)K*jW/"fG#<V"5`&\<+bY'14q_.>\le
+7mTs(D0NbR-ku:52&*QgKX9$IZj\OPC.3<ulY2eBA-IGZUI&52,p\ub6X_q]PqIP0ha'U5kK(K(
+oXe&]VBChU]pODC?jb'=$9cDS%ogR-Q(&/Plq_gsg"F>W\p!_)Kmo)T5l=p?@l,BE?#'!9(,!-G
+Isa'302j(WKM@h`qal:pXaYGt)^RXan6rB,YZ^IZDeY*4>`Fq+0'm]pKOgHcJhC?3Cc]TXX`RMD
+.rEi-S/)f[>%Y[lj^Kj)f7KT$U!M=Rd-LRE>M#?H;smI(h08UUl?OI7O6IOsSJAGL8DuoZSO4<9
+j7V&Z8:7X[k[YBX7R!CLI=&Se?TlZVp<J%N3B`5C`Z0aJY[@D$c%to"aqH!D6:9YEoh5=o[iRd"
+fk;01F\.620L61D'j%CSP/!(A#f?n.%Lkr-8H.@g3:<Ecn'#dPp5i=Y1[&uJ[a]!P8q=Q>`"ht6
+[*-L8s'"#an/0r:XdDTX$Uo9Li.&9dH3(Z':V7<I-i30E(63bSoe6f#opi5#gs.*([3TYG'$Lua
+MSi-4MoDR8%a\J.fMpI!<X2kdk3C'\;9oj;k3BJaq1Ba4ePVH-V_5birH6G=B0^Se:]b!=Kh$)\
+cc>jN8nMiHTCr4Lj[Kc\Cn0=@]>6*p`)Frj5C]rH]FtFWJ8.1`CQs"g@,+-Z5rE=hU:uZng$PVA
+IpKTFC\<%u@%7'QoGZd(4=FeOFU.P-GL7?sJ:n$aW:415^R$'j-dUCa\a14A1UW3&9"LGe!``+5
+k<G`Ab3)as`,g%Zi6_Xls3K(G#`!1IE'F8l`.`bKfYOL0s0-T9)=0q"">>f;&-GYCoHHADiT.6g
+9k,..G&1g=eK4"$5Di64G(!9;"R)_oSOkBDd6g'0VB)n'm!etNm$?-a)n%KD1FY39^_W#tZSOnc
+$_6nq/*G(I-7tmug&eAt(ebnW^\MpsY;R2"5VR,]=A(oYrh*@uGSj2;01$u(#+u4t@$PT$_eq*/
+Z8(i+=>'.i$>BA_(oQRFS>)Y<a?t`m'XE4a+Vq6hpM.Y>@kf?-L#KcgWoOo-fjWtrr=2L8e"KWA
+F;:N9Fd3*$KsZ53\frT6:=6p^aQC'p:Gf!$-Fj:Oi85i4YX&2ccb"]%L^0qU$>6VhdKNF=oG1Eq
+W>s2c!%#\kGsrn`R__[pd*1>Xk_8ijG;tdP5<P$[9BB5i:Y.E]<jmU':nL[W;RacY">$H`;IEZ$
+de!\(cI>"63+j[?=Ug6EH2doZ&i1n_MoY5T(2ruU:a?:dX$<a?EL-*j^daZ1]P?i"9rf-G8V*\=
+bTqh@R+$V6Ya<s%p,D;Q1-m[TU8Z_qKMDc,ZCNMj/n%Y;b)\h5%AP?0b'0^(XZpX&!j/gK3>ch>
+U*2g_hK_VnfAY[$>[T)?).5O6A7/6'FJ'$s0D*>8Oq(9K?k!h06(cN^P!!T9?f9)>lB7K1?"^q=
+\oS)\5l\u&5W=+0f'T],CD@ePRI&bp<00Td=L8j%q4QQ^3<!p^oG'Xc>[Fg_P:@e.S43>%LXO_i
+\3?otBCTYoA83eEa0:,)3HC4UbXa>22K2)M9k1*fSS`#N(brV!,=e1rNWZp3Hj"9<6Xt..jq5s6
+_apeSoBEYt;988r:'4F5W6PB)BJGELCjYGkVgb#*%CX^Q1;f;m0Zt1Z/9Bo\ML-QB_HV&Ed<NG4
+\rN:C#;4AIk$OMj^Hn-V`$kA[F+>%HUTp4]-"Rjh[\:Ul$0^76pQf_uCu:Dr.Q&][&^Xu/]!\j1
+a+q-jc^d9RB):5kWhp6,cD3DaE.;g1g3hZ3`]U[sd@pA8P\r_E+XMI:XsA*Z*:oC%b1bdW(tF([
+>ku4HE[7,G%C*du+]5uTau[HUQK2/ID@g-B9qn//?tf[rmhKl-8&FZ_=)#&IeaU!TcG_K)ie#]?
+^MAO@3Rj6f1Brp.+<L#"Yc?Hu(YDEY&p"r>>'7uFe]+/_Pr$E5M$f6%YA)n0lHQmQ*(2tlT[DCk
+NS/-gc48Ab*/*2[p[BU)=`A^SiWn3(Gh-B/UCHW&4/j*h_$7ecOhA1:fRX32Ea5\_mHD6/VAD3X
+Ku$Yt/i)lS@6r-[Z8e$gM9BBa2oW+#.oP4,BGca.FrU6EhhQVEr8'[<L[!3+>N]g4bj4B@XgUiW
+UTUTHM+R#:fCF`#YtLgWCcM%"6F;f'`DqN5e&cGZD]r/s.@E2(1DkWP(kOVGN(m6M_p#o!6Fl`h
+!BQCd502F#%e<BW3,G?P0fWBF0ifZt/'S65:1dnVI>!/l=l.X"E?"\)^,NM[/1_uc`iAm[=-=HS
+0@;kFig,W3]fkiKe*h0<An6t<V=!H@)X&SO0(816ZY8%7ohgk?I!5>N5;)T6W7a]7bP.@S7Rk@u
+RM2smMr(&/3cD9U9e[0?LIPf4Aau2r&6o5e<`;^U1^BQn?'!4L/;q%(!&gm_V@i9S9GlLk")tp1
+@+o'4Pi!)9U:j62pXu>EAf2VZ<=OQOJPK::VaB'&P=Rdl4_V4b+4>aK25eW-n[:8H*'sJO,1pdp
+=qi*M,>,^upVnd_KefJEKqW1$R.t\Hj+'a95FLio/J]9.Qgl2*c;rs'?4gLeRh!dA82;1iaMlUT
+OZX$`M-^W]_g*s2hm9X)IZF0O5PUmhQY6>^'.;5ogoN(ILV@4tp9aS'_E_@k;m8ROOjDU[N!3'$
+adHD#F&Z.DE,"3@FbS\_n#4s&JORA3jmUN-A:9R_VV0=R0@8eb*M5Pseu.(6jKeA*fdY87Wm<i7
+5GF2)3j1ZJVpTHUA_,N$pt!^*iDb<[`=(TNBZk*^G:KUV1e0Q8XkBRfI+p]Y/B^9UnX-K)doX,m
+dZ[@`8S-Jb<?bedG#RLK9QZd_\!T`IRUo2EV)tVJcHUbtU,%8D@P4\MFGr[8^ejBhNqRl2S#*L7
+igGhSnE@V[#^jP?O"$h:G06FYIGc,C$1(TKHmH@W`f!X8CuPoCrIi@<1Y!W)%V*.[b>Jf2T#poH
+EjsRkYuJSK==PD["]`,HrIJDhX952[U^`RFi1AsiZ]6\j!dZd2$"tQ]f+e<=(`829P6&F/')NUb
+J]VRXGs:qFIGkV?YXo=DKrPZYO]N1d"V\_*qXIXKZmLV_Y_X+^6e9[p:i'_[_15h+JD\1]T00dk
+rJdYn&l=0k]#CeNguhtXkR@piH21XG`dgc"Yr>LpdE)A#+=)C5&i?mr#660h(TINE0$$lpEs#$0
+6=94<pa,=Z-."%*K\"!@d6F^^hej*6_071If2(dQ9T-A6+.&f9pQI![b\A@1O&>X]Y"hDlZ]R28
+b+MlO=Qj#?[(be\p>'#!0(^3c5G[E4Yt9q@bu/E%:W1^*\Qj,PEB:!2O%T0O"bXS$s3E3f^:0J$
+TI(Y7>QN]U(NupmA[*(FS;bW=hk10U:rR<fr-MLXqb;:&<jt22HF.17Y[!4.[-Bo];%J8d=RKkH
+>+RV?LI#/-+K8*D%%o!cGH$9TQWPi`/a.6pq=#;d_$kp44E!(nS$=$("/Tsqb>E"0")G-+4/=Ij
+p)!$4'YHjA)61@=fjoOtQ0lF4U(!*CLMd94k71s<b5@Y3R:g:DXtXla[SqG"#m6_n-e[YJ)W'W>
+kOS3lM#RX]"Xso~>
+endstream
+endobj
+25 0 obj
+<</Type/FontDescriptor/FontName/UWGVWN+Symbol/FontBBox[0 -222 548 740]/Flags 4
+/Ascent 740
+/CapHeight 740
+/Descent -222
+/ItalicAngle 0
+/StemV 82
+/MissingWidth 250
+/CharSet(/beta/equal/lambda/lessequal/minus/plus)/FontFile3 51 0 R>>
+endobj
+51 0 obj
+<</Filter[/ASCII85Decode
+/FlateDecode]
+/Subtype/Type1C/Length 1088>>stream
+Gasaj?YgEF*1glJG8I2XBf70"G/B.MCQ0TSW_l,sBM</(kg<%5U@.Eo>o36Y[l\YOB;'W301+ha
+Ueh3i;a&P:=qs@XZjdkY5n],2nH"S*IDQf\UBraDhLi.OZp+=?amV1Gn,'iV*sb1B!(%M?aCg[E
+)2(eBbttc)Lpfe8]4,q4f<b_RSNHe#f[:11F!GH1*F#B[`3"g6[0O[9LHmg1GSc\)*4uc"_OpPi
+8Y?)G7JEi8mR0-R-gqu<@>^ZEmX>Wlo17kHBE2O1LG;C=-:U((M[dAJhhrQEmGEhJZ%ZK67'URV
+1c3]pB\4MR)bSd9105-bfp6MP_mW)Pg-LgXLk@QPP&O16:&oA[#J1k+&/c^FTX:b''^LS/aKRKW
+WsA@h5@n%53Nat(N'sI@bU/QfY2N2&*Fh7E<dUX[.Lgc^+^noZA>O0ZfaO2EIk[l@(-rYtB],)m
+82l?7Wd3hZV&\)hBd$+X/%t*%M-QQO?/<G075rlAg3i*K;lbpgk#](d9%C]U"sqnqFU_0td\RR[
+]d5smCWl`"7nI0i##4$<XD42=-E4$GJFJIm5*7sG!mhElTG`bW#0S,5:C]^!/(b=Ei''Qu'X+m"
+3PO&(*?Go%Mp4l-)Agr.h[s$$!jq1-'7=,CMpK%lbh3]>4ij&Ca?B'I').<5+jLIEdGmZ%nGGU<
+o%bb/qmpJ=NgDD9\@]QHT7_VVd^ji#<J:ktG85(=0mp91WNk?T]Ii]fG4iW]/BZQthW)cW_)m+`
+Hq.uNf..[#DJ]/tqebDHkBf8E(FGDS^:e^]a4]9%%,-%t%NT"K7b\GQMWH%?P2'_'GP8`7UE>ge
+RdBgF10Hf\:9o_o7n_7\j]T"bEqcHOhMgh=)QI+%g4L:(ZrKo$Qf=_R?>9r"9E&$l4<dDs_5:G!
+qQp*B+^^G7*4mR6(Z6>(ZSHO\_H4'[L=P'ThjE&GI,Ar1O4HPNpd^^d`0Y-7`9El"qP0[t2+'%%
+bO!FDB<Ii)*N>=eU[Nko$#6;>L5h]BrFTmBKB\#t*Nj2uYDc6sStoU_o+l@$4-M\2O7fig'CYha
+U+K$a9SM.\[N9t6!SX*?T`~>
+endstream
+endobj
+11 0 obj
+<</Type/FontDescriptor/FontName/ZXQXLP+Times-Roman/FontBBox[-70 -218 932 688]/Flags 4
+/Ascent 688
+/CapHeight 688
+/Descent -218
+/ItalicAngle 0
+/StemV 139
+/MissingWidth 1000
+/CharSet(/A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P/R/S/T/U/W/Y/a/asterisk/b/c/colon/comma/d/e/eight/equal/f/fi/five/four/g/h/hyphen/i/j/k/l/m/multiply/n/nine/o/one/onehalf/p/parenleft/parenright/period/plus/q/question/quoteleft/quoteright/r/s/semicolon/seven/six/slash/space/t/three/two/u/v/w/x/y/z/zero)/FontFile3 52 0 R>>
+endobj
+52 0 obj
+<</Filter[/ASCII85Decode
+/FlateDecode]
+/Subtype/Type1C/Length 9515>>stream
+Gasb<H!F9\rpGVoF&#r9XYcKV,YU.$X_Y=RX``MN.^I/?,"U?R_@fC+<g']#&4doT!ec!ZG>[.>
+ldBP6<\6AgX4*B[9]*b#bl-?V31[UP42%94rTG=H3QlVl^<cCu?P_TUNF9"ne,<`E_N`#'@SqBE
+oC$mj\L_@L1hJpu.n]_pkJS.fq8E-R(M83^CbX\AB&9/Gb[d_\B#keIOd?>3Mq)h+mUi^lSfA[i
+PNq\(^X)ng(G0sr5Mn#!ZY#1eK`(RO4LPMo@\XT"hS^MaKF)+E8=5dUemgMM3[#[?YX`ee>S<7[
+&KVf=N-*nl&=t#'pXg7N&1`m!dlcL@r3jY'A]pCCp"1K($'W?sGf1pu`?rU%b!!TT,<baXK[Ja"
+U@:^IoA2'nf[OHBa3%tuM>t;0:TPs2Rc6&eXiDLQ)@nJ3+(;N5+[#S8Ij#*7CLc?NER8=>QDCY)
+gJYJXmZ?j1q^=UTQRp!HIX&=GEfY0XP]q5.:TSK)?bCl?BRg"CMjGtXZu#PqGE8q4FltoKeXgR5
+?b:3l>O10Q\;286-2%tT&`1J'`9Y?*iXNb[Ga%VC((br5>D,622A&2*,k_n0Ld5D_nI?.!CaKo2
+_8I*u#n]L?-'f1uLh4MJ@QC]GfL`_KHpk%]FqLb\0B,-(2mJ/-,XfQZ_Mrf&G_t'D]M-Npgkf*g
+$A(Xh,$KfU"H21N4CSdTQ^C;4$(?+!n0";M?6H*Y].jp((IC[J@;/gc:Kp'N#^\#4c"3J>Qg5&]
+*Vfb>6iN@.V683&*D?,j\,EjUSkjY2T.^>\colgAo^(glS$@:ZJD4<fL"gN!qS%4AV=']-Ge&$q
+bKL<;b2(DBaX\O<fJkrP[q8(REm3g;Fa;Q5fs>:gcT]Wsk>q(Qn=k2hkIAc6c-ai$R(I``mG-If
+hO:ojSn?iYq.o.Dq1nabIjj,"U4<=M%5<:3Ak`Cf3!W/=CWtt?J@Wfs-W/s#Af#blP7`u$PJLW3
+'p<HM/i/b/f`WPh3EKlA#8WRr/4i+G"3Cmu5TVM0`RL\%=uh[rc&bE>Y&6oCYVU@GYeCs,>K5;1
+bc;_iadQQDkiNLhYQ3c`^dkF4bbgXZ`_H[Q.a((9%6LP!7r$4.!'OMXYZ$(*'_#!NJt*WGg8X!S
+9c4eETq(s&m-Ma="N@P2r;2_P+BT\coul:(9e6DW=UuM=LLiV(a%T$__lWD&+Z8"[=uNXIj5)5[
+`j3ao?m@i!9nA:=[:]t$UYM^8cf@6.Z_jY,]=n%H3!P-!r<Y'M-:ul\'dmiUf(p<=rOmqhHdBJI
+kd'21g;mWR^?.N],?`hpg0JqUV<P59*8mG)GrRZf*hhHtk[7C^])W>Ni(2\]X0IoAq84JR/qpB/
+(D+#WJ1IC1Al^ap>/#RLhlrf23Q+4iQ7YFN2#$l+iCl6&akn6`c<g>lH:=JBF2fg`6M$?*_<i0c
+U[%a*"QGU_T7WR)O%1k\jA31'JmHWQ2oaMa^,Sb2QB<Qd.eOnfkd!%59(X#oj.a"jZF7VP#tfK9
+Wk>.@TFb3kBg1oL*AZn^DRo%FoHuU;q/Oe/$EVbAQ=]*:?>r^k$<1Tp%LiLgp_HQ8oMoDgM*bJ1
+V5dtDZNdSsBAm1'-O;&LP6o]Cdn!tPL*dpO!i8J&%^$'e4oj.6c\1,'>B^IA!&P-9BjGkukMf"h
+$%E$'(&Tn/klEB>g:1^la:n'UJ8b+S?GFm@DZF=sE9Hub3V^V)PA,gLq<d]qZ/[&I(Cl9OThdc1
+G*-oo$q_VJ9:5OFP'dWc!Hb5.G<di"6\52>XgaEn^oT##6b^,G>bU+sW[k5Y2[F*lr--Kk^&_Tp
+qXm24Y[mbf_-P2ci1Cd[p/CJ=_@<$dZeZjuO01u0@L$i(I))Yl("YF^M(@_N'3%2W1F-MUG-Cf]
+Z8c6u7_M"/M4k()6UD^hXlK!*Wu$)r##E&oU3h?%[XWm2h.T!F;'"n-.AQ;M8hr.!`]H0J$#QNX
+"-9Wt`#dsro,h'<&-:/L&ZaeR&=Bt'ZP(W?2&J]qB7,Q(g!$IG$o>oUE0=AE$#L<?7,k,Y]El'@
+f?qfX.t0I-VX`<C!+B:4b*?2:E;nR3b-+KG$jLG.7kM+TIE;L=fkR'a.Z;b$J-7""VH:gIUg4/U
+E*5qaroeB,g^_%;"/gleB]+(,=nnGi([(_F31_8T#Iod=-A)kL-j@9gBF,Ob_M\hg/5pF8W2(Se
+9;mW]Y-rW(F\nJu)BuJP>*W87efV\Y/qM,TZe=-PLN?&]27WCgb0&gf".96uF.I+oh>:d5k=1pJ
+Cn2KhXX`G0WNo-a*mtK]"a9\4?W_e!@okC+39@$#r%^MrP[oFROGO$)#/`&&-4#6pg29g@_)WE+
+WV3%G:$.Ti>q*NT<GJlA]&$cHglYVX)kNG.-!9XWPuSA<NE1DLG](_S9SAc3YB58);IB\6k<Wh5
+b*?a^#&cIW-uroRO*(Ep^GGZY58e:6J>[Pt(pLnDI9<Et#IeB6#iD9rJ4aD+q\[C:>qNCcQ?D1B
+>k9B`hLO3<fl3O`QH[Uu2!!b0".g+g$FE7M@VK6`TKhoPh!EdEpeck*HsBa!AI:udKuJrP@hW[d
+14ECoAtAc<SUm*[8;jm[TF;>uH#B1Xg";Np"mEQ?TE"P.9#oe+!?s]C="#"Q'<f0QH/r4Gm#!hO
+J#N5&Pq'kXJID?Xm>tj@T!B_qi,9T7/163nb&YYsp.TNW3(0P9W;&N=c"QbO8A[MS1k.SLar_\<
+giNXg"f&B;kZ2\WUgXd>8*XNiX->H`jJk&0!uWGrje+cDp`M3K!R+"@d%Rq<2OsFU>i56C#cE6o
+!5@7=haPF:$=#!cSM-_n@%6R01VK@P.>E1(-C6Y79j7-^7_U%pQtanRr=4NlA8;WD"3:O(q73A-
+q@ktbY&6CE@C3NCA-ZIIR[1&%8HCJ:flTX_qgP6o-Gj_g7u(N6KD"gq4?LiC#9i)7@KX)39CH%<
+'=Q#]]7s38fK@^"eN1r9B*6m.e-<85LA;TS^p@_S+8s'$s3XbA!9Ibfo*hO[F`Rt/)e1ZQa#R:5
+W4$e9!2#o!$L2Y,R19AI84*DtQ:e!=8/!g(5Y&h<%LV-BoVRL,Q;aphTen6n4ua>Q=\iBn;\OXo
+aOQJ(bWT:g?$`68k6<#;"`SIc+:BR9EjF*t[:V9s2L+"CXYFCOK?pD=r2e[3<eqt_/u'IN;aDCp
+WeT27B/)ufa@MsLgN2^B+9T2[?+0/Q<5s=gQ5Iedb!??"ND`E9M700E-.SK#d>bdKVk\]YJ^J!^
+l-47Th@.WD@^GgE=5`8sQ5aF/X3$3><A3r.34:Cu[Pm8-#CKQUqS8&b^]XV`M!MF)Sif[ee>+Ci
+N5Z51^9/u]!WuaQ9pLABLsABIdOk7"^kpKPJ_n1n.]H0qeGp:KBhZoHQD8!YC7)"<!<CbsTXN?j
+e:PRH;c5d3A_LmKMp*A$bEnn6mTZnXgR;m]<Z\1g/++t,=7&g^Fh,K&g-@V6rQ$Q('s#QO#Sc%9
+)R2mO\DJKIGuUKb%!WOa<)V,)<V\"[eY&n?)SZ>tf,Jq#><fIWX)24[f,i.Z^WYuS`_iZk=\:rW
+)Tmg=&EDk_<f=7ig3q'$%HtbMK=t0`e*H:7WbW"6MXi<Mglf<Z@%j(DC\pVk')hWQ.(!No6@VNs
+]72J.=2i2(nJVnL1d"TUne/]NIoY2&ketkmp!RM&k4=8-bVW%O8t;:RkSS=&OJ!02cp0O[0hf2R
+GX$6Rj5Xrfm_ip:=e6?BK%A^44\,h+<0:N1g58pN@6!rKVY%s.Hc@fuf^_+ZIGb6SQ\/K)FC(Te
+E%faDoCl>TCcK*3V!rn,AJ"$9!A2YX%H)L:[6J#0?1nu3TSX&)T_FGH'u`+hGRif9Q.$1gg0(Xs
+((@U7#p?o*@2QZZ"1_dUl&MXlMY;Fh*N`.9XgqIW:]ZPFR[fINeB$2)WbS\]:u2LpT\O-nc,XZ_
+X=U&K6%uo;^^oXO/gA[];2!4+Qbub=2scc2;e.[gm'^ZFIJDg2aJ7*a?j&q?O;kLcEh/lT[50I@
+@=9m8e%]A0`=qPs=U!bVM>i$oQ`,,QTZm4c^]Na!P0@m]A-J7f...Ja*J`,%C[f=95:kHn002(`
++5kRk[/8ptj6MdG@Ya;RZi=E=_nX-rO87n*Le*n/i?jROW(L&>@Ntd3Sq,Z`DGlt9"H8-<2p9D5
+(ZD*4rL_O$hX_iZP;$;'0t>?iUf$,2Et#rnm$uP8GYTbE1U?V23<m;de:K)^2O8"1VTbUe1/rcS
+'VV6>ZR`H&$:pmRY"<OJ2$[,L"!nI+;nWkh<K^=Y!_/8STIZ1.'SQmQfC\^"\G#""lc7;ff1ue4
+'':3=H`=F0`,jr9(?=,cC:MH!?A6Q^+^:^?HiUirf,'PFoutYch)9,7<FD+.MlYnrJCdohW&qWa
+kj%*Ao]QQH:mcJhpjbi?mOs.X,Q/?oh>F-rh!b]YgHVXoR;81h_Y3Xck#9Q9&-e`g)=XkTDCWN_
+q2Aa#g2*BC5oN(`Ur`\&_%aDR?lAbobGK9ba?g6HY*+&KnU2=RkUPl50/U"cJq]CY?->g0"DDB/
+['H(ni*;;T:`!Zd:b-c?7;QQY(+)3OCRMY;mHA14#<hNZ7@&=5[pR(&O\[1AjP-h0B#YOST4I(@
+Z^MrQFKA/3FW@pLUh^,[ccZJPJ<&2j@V7mEefmKoUYDX'APgAAAl&p"Se>=^!%jt!m?5o8pheLn
+jGI84YM<FjVk*4W52%I<77!4I0GlW-XZSaLQO%8#^G"N'cuo!P4/YOY":1S:rI5RJh-i4ZBK8a,
+"YNu**4Bm'H"!n?gGLad2lAdmSlr0FM$CS+oF3\"@:ZNS]o3p4jnerYo]5F)/CZe>fn0[om.D_[
+YoQ`u/ERu:aU)+"-ug'm!JahkccLMC*P%MMG_spWe[6[3Mn28kp4FK,5VA!Y&0]^.f&/mO=p:lI
+DdS%5+<TElmr1nfFnT&AQU&7:[ZYeHGrP?0\lkTVBRC(W2Z2`k-O9IAH.^)j/oG$>HCs-.f@Q-l
+iQ;DAH-cYJrfm3!n"RV`PL\KIE/@ji^kfWbrcE,6@XqbbhWetBq_OENaf26o0aHe@+;>fsMJ:g0
+'))c?,/AHpe%qf$hp?'()1Z#3@n]/rg0o4^ldmfCn?R,$?Gt.K]VDU<VHfHi`NMf^do?I\c;@Tn
+*S.`EGCUqq8WXX`O3Us&YDIabY*37W<jUJiNnWi%>IC<c2@ZiW2iN_nln<,NiGn%Dn73MN31#:'
+0Gk:@)KRG#)SnRUg,`2_Z+^#I\-<.;]on]!_^h2m"5<]&W[-CB?l%*nFhbO!]l(OBf`Z\1;GJZc
+RZ%'l-B"],cFnV`onD6gLe:b1(SpW"f\mg?=UdM5?sI&9o??>m'>K3)ml!&LG"5^_No>$T5,?Ws
+:6od[(3:d&8J,"U,o\cro4enEM\F1mEeQ4u/lA1"FWmk\1QYADs&6O@^EbFH:;FQI+)g%P*'D@3
+D6%IX^#8I4_2Te[0lmF(P"S%DW:&ka.PAiLjI(NCf9U%R4eU]hf$r)`mfLNq93.U`SOS@U3LgSs
+(WK<;J(pZWhR>Z]\\>\ZA[p#p)a#ag5o.<*3>\-r7bSaqU'c?L9N`d"UjWnd6MH4AIDUK2*HP#_
+4r]-$nD#UN:H3tOXd+<b52Hja<IfZMY[+0`B7+lei,:IgK26.t6N&M6o_[M(.=4GXn/R^)MUa!<
+I5?*\-c[%cS$:8g6cJmhK#r8ME>UM+l1+]YG&!XP=,-193_a"2Fggo+3)huoH">o7#=iH"[jH9m
+#\`@,\$_NE1po8'#/O.jV!^fh&Is%D3a6nH[?0fHACPJ0<VsCsl80HM1Y7LsXpEcO]Fb9DB+&)o
+]&X3"Ocps4@ugHBk0i7<q""5JMhBHpULjAMU_r-d>c/ab't?$Eq@TX?fm-i,eB_-OfqkdcQ<s]<
+oi&JaOoh+qg20T,lKm$G,/)P&&kE2C1l`h=<@k:ID/Q>RD.ubI9>m=].6NI!CZ(off$263oa@8Z
+`M8eiAuBCO$>eJ%-ko1:7hs's6Qf&7QPbo/%gW!Jg0n@PidFIE187':U+T%?.J/XncqQ%'c9Si]
+IOa$.@U*]jHq.>M*T4UbgL9;Gp?VVG4B#VEs7N)C<Q)R"GkHIZ0K;e!)=5%aA5F&t`G^Yf:TEp(
+gD%pI-$E%Na"bp!>lC'e:6s!`<N,VW@lc3a[hm]gXajJSU;22(OTOiiP-sODSP$'e8t`L=C?0N;
+OpnF(EeQ?a5P6k'G2WpY<=h-prf9[%eXH<W+:DAW41.`nSB2`X]Vj;+3lU7f2U@(,Rre4Z:K*>X
+[IQ@8NNOXgn3bgL9;E/JkZUd56WT`[\cDTa#3Xq^gG6V-i4e,7kmjaT6nk#uJc.ShS"3c`g.nL-
++"k>bh8P"Q'_FY;:"]\1"Z`G"?Eqdd"BfhYVGY6t.:JsA$o91h_G?iD0S%p+FS"5JOd9IJ]s,-L
+P>ne-*E&#JH)93H/a5&k.Lhi-gpi:jQ!GN^,jP,8n3hS(-fGOk'+WT#a5K7fC-\YT"3/M6*a5gP
+.%POb64+LT#V4#?K.oY<$/(TJ!GheQooc*@G!h>^nDppTmH+f>G1/%<mQYd[kUM9E5$.nOKWNp6
+2u<=BK-_c#mPCZEr\DL5ersSj9Cp?tZ2V.8<<iYj8JLYqWP,TV'sr/,X&*:0B5$E4*:J?1:q'08
+F.7.,)U:RhH9;DFSH%7Pk#IGd<9u_)Cb3[6&KnFO)+rdKr/>/J'i:PS"ar5oU-M#LeRE6k)li6+
+oPeXUAd*"UI'm-"k;]9k.A)!!-+HXd,-#daUM9qYkGff!!Ye?0+2*,q!FI+\;b7.e!d,7Aj1u!.
+4s,(?_gR)-qu$9\F0SI=+:O'+SmM&+b"rWtMq.YQH#EZ7U90iNiF)W%ds:G;c,baC.P6a41h2\D
+N*]!2E=j#dOB[rPRqL_leefEP,jO]sVk"'2eM?DpSi*iqD9!Qt#O4XZ1Xce5fi'8?[H3\f-@ACf
+N&m)4QhN%crf`mX4,H,R>.ATnXfJ"?"O!plGhY=F3*BF*b"=`k1$m,R*AFdMp!Xc542u/J<cN#M
+4!`IT<Vtq<r$6I.[np@jCCVFMVOeL`":.i#ZgF0mZi9W=Ok'_#VP0O^[@j\\<47W&Ak:-c3gSkp
+,T&GI'igP1osGhAc+p$UO*+!0::[I2=4Ric21N,b?W(jM5SToO19RI_iDDL)X''CE+8\_'-dMCF
+,F?27qKP]k_3gJ:f_@L1\(Qq:Drt72!6E3"2B2>Zi[FgT!S1s%E.ugIXW0!]GD3o[dFPP[b<L&9
+a[leq%EU2=N=@IV8W=pABq),7@Qo665N]*h,a/1KS*LO3q#m^Y%F^kT`Z<h:p<nLt_BW@ZFe*BK
+e^6iR?Cm9ta9<[sd!DIt\>-V3FH?$p:";3XZ]S8f"PTG,$,Mhc#Jq3Q1&H?PL]Zd#J63iU\YHl%
+@4+suK+hXkZFfH#R9iDd3.ltEbM]#>Cjo+lBC#o4G=!P`o2rCMlo,af@u`hJA&/jJY[Hg-2B6nO
+SfQ!Z<E**uBjkF9Q)1btZUITF11&m\^iB5#N(df[.OX#.oG0O]6%4P'*2Aq";k)8WVXAL@r:Vk7
+&]=DaF]"Ba3qFKP+[$,rJ6Tbe^@)QAa8>]2]<D%tQQD1Ha2][i'jGFY\G^pADZ9jdA*85?Y7"XA
+HA)?96i1+GbT,eEYoJ.<E@/>@?[-@pq^6>;r/u+%eE,7o?C(<\J8OpnT8tm&dOk,hHr60GinPB8
+WjJ-:l)/ao2\$fB*$&]T&$CNu)+P@pdVEE*@1M#id3hF'H;;e3Yj:Z(TJ/f^1g_M*-;!scZag11
+*U1'8kc74j]V:\=aiOUH8?CU<JlO`C>_V/0UK=+fRPjehM>N=X4N5hX,q"=aF%=>Vn.I+uUpY_B
+)Esio-M4sCCF[kE"2G=YF+I1<5ZS5flAUL=kS35R0f<W'7q#7e1UA@:6o2p)O"O_>)ZZYG.fi$'
+%``6\;u(,_SLc"m6,frhel:CV=20dJE)AqeOMB^j&(acoSgo$qI.Li[*QHe=?@rku#3QG-?PnX&
+:[W;["Zt,c]5[-sKm%jf5m@r?i"P;1VWqU8h.OQ\:YB\7o*#@'OqjXo^gu^.R[\"gVWkD7E(E;.
+Z&fIa&:#CbQW9DOgtlsG&+C_WF_Wj[MdEc'_n'rDV,kNqY=l:_76aYG8JW@A\NP,:l,7SXaH;p4
+i"!7C)[SPH2XF@tT!,tHE!\TA1C")XTOT-!&:<Xar95%*EdiUk+nu`MLVF?+R0p9gE>`2-ILch$
+@5C(\)`WZ'm?;Ao7)Xl;L]hB$=P<?7:f))_l'0@na^9Al,NQaD2Ea<)=IMP>-"qmgTF3%'njXNd
+TK^Z]j-qe#9oIf5oj.S>i6i:Xc.-u'9gr8XQd^\Yn/M$XbcT2oN'HIL8Wr^8$S(g:2l^\,!"XrX
+'Kl3)lW"S;9YC3Q\d>k.R:l!(PY_5Fb]a!i%P\[\Vc-lRi!0.!o>Llhp&9t_+#su6[Zli/2:;W3
+SR-Pj4*9SrIh/I7^%SMBr>0E3Fqi3rL6fU"q.tP/2"7>+3dC.homu<+r,M,^q4ml8]:9W!UIW+&
+qYZJ,.lW4"[eY^iq?Zn"3<3UQ35lp'L)?7h<pOtVn<A>eb(21R1QEELJ%]n0^'*A!)Qm3MT0jUj
+_MU;">i^(oI7TkGX;Eq9O$K`XgB5-Q7)KCOJcjH-1UWY1PULZ2T\"tSL+f't\6.3.W2skbD#s:$
+O/tYi3-e4+fe=MR=`>Dqp><fDONS`.Tb7#Ac["!"55&o^F?f"0](g3lQ,^hob'O%/Uta)JqZD/`
+0UdG"cFLr(g6c$5ao%]'5)JF34SsY3G2dX,%bpm5IqQ4hIh@'u3;ON/+2](C$r?Q9&5c>)ka%Jg
+$`<.<^$"ddhA?N4Pb*geX5L.o,4:WL::[O@"+CH(ZTW-9gjHZ?qpp&J%WD;a$s<\![Ba[th=Oq+
+GANY!GLb.-Q2Nj98'V04?IM)QlNRHa=5BEN(XqJOk7?dQ>BbE8Y*?BF='!n=)p=J2!_mr@#q2\*
+7p8D9*XgU4WqK*Uj,8-'Jp"nT@6EjG*)UHCHt'4b[Cr`O[5GK<ECu`f*j^4@<mKmK=rVfXDZ734
+B)nP+n<KrMmuBmX9<-h*Y0#UNiRJXk]V0dEl$BQ6]VbCelk+T$U,VO^6><H77L'kN)1PDqU*.^J
+W/fsWjOjm5V:-q/Ng_FfNB,%FA`Ki'%)(<O==?g;D.\d?.?<#A:oUG28l9K0D,cgU=TjlLpp-\&
+I1^\1fjPc,oU9WnTRj7E<hq/ZC2jSF=d1J&C(/eN7LIY7RnMM[Nku-"9%RTQUo,`.l'arL3K7s:
+.nTdS>"o<=A/0+?l1LKSm%S(6N:`?LeZhe6O.fS::mW*1&]kp1d*.,gKa&gOdW0JI77iW:P2F\b
+<)d\=Q<9$UC7Y!LfeVV,$PluW_ZJK26/nG3N$R#J"H'B+0pM#Mh9r?lJ84:L9t!7ck_7UIl-g_S
+9qO]_ru8bP0,4~>
+endstream
+endobj
+23 0 obj
+<</Type/FontDescriptor/FontName/CFXIFH+Times-Italic/FontBBox[-27 -18 706 683]/Flags 131104
+/Ascent 683
+/CapHeight 666
+/Descent -18
+/ItalicAngle 0
+/StemV 105
+/MissingWidth 1000
+/XHeight 441
+/CharSet(/O/a/b/c/n/x)/FontFile3 53 0 R>>
+endobj
+53 0 obj
+<</Filter[/ASCII85Decode
+/FlateDecode]
+/Subtype/Type1C/Length 1336>>stream
+Gar?,HV@@N(rjm95n4Be8K(g14_NG75_K+l+WW@VEet807M*C1V5:#Q[AD<@[=sq'B_r7GV$_=U
+Q?!RjM-U2h',"[YbE=:n34>1_h54D^58JG<%XuU,Z=V]2qsVf$5&]<@q;GEi"2f,+8%D#7;PkO9
+nYMD;/R]b"!`&2md!M/fh.FXgU$02B_;<ic+H?cfU96Zfmt/::@G=Oj9>HoSY4N4b2(3R+&ojJ"
+8i]al1,UY#s*mWVO2n!u\plY<^.9[bbGjRDTFja7'JbeUPtU4-gsX8j8hALAlBDui-klusc78Te
+d5t=$6n2%^)DkDc?7M52R@.&+OU9N0WiSM+QW(j44R*b`-5*AUr'otD*re0,(q*/a5;/ra_6=R=
+0NNnh@JO"P())7L7:@88-%)+X`9:jR4>Xq)%M5;.B6M,\"4tHHM<f7@N+H_Ka_Q%q-GZlg3]]A'
+FO--m6U>hRrC_^"4l&])MEYIrYnD0:AaX2-mV"[jd^1(BF7_1CXtC[?!h7BqZDXB*p4I3\0\b><
+EGtC3bk*JPpq.rEd8k1JP%P@[3cVjDda?R-,jNsAh!P\8^!D\61#8N:rV4o]@-%`Z(.&5K@'J=d
+(7DP?`=*$1c0b%^_*_/j27!2O]5;CkCHK/\l>W-IZJ:TJWW<@0;$JL:f``P8Vp"*F0]?56HdL.K
+P_?]uGWjjVrf^>7b(X3,5&g3D5on%G6JDlT="5I3jFF1-%8P3'2T@s)_[BD\@0[B?Q^ZL`g^6e(
+6RKuc[bK"qQ-@li!X<'#Z<h`u\D47\`h,th^c/MV3cPV=6&4L+^!l7dFoW`5m0a%L]VdkB&lXL[
+Bs-]lafb[a23=2`[AI!u775/^D=[g(+)m^]9*Wd=2@mcAAQkW2E,;2D]uAgo0st3cESb*MT(D9'
+DKL2kVTFDJ^qeU>&;jtA<HdV^5m[,W/ppH2i="'?GOXN835!OiN6U1[]2#g;W.EW1[&KTsVq#@&
+>1mT8+3s*$(tG'k*i?bT?lmNq4uIbai1p?-o!uN^D#:%YZe0H>_LY#f@#Y]H<ue?<8ro1DU2!C[
++Ja`B_8W+?``C3<[G.C9^u(YOBek2L4bAZSR;h1F<dCZ@I0pNsP4?lMDgjWpQQ-tP?i(BG6(c,0
+GM69GUp\li"_L*cC[)oGq"lGbgakbg&;?9Ek5O')+'.QBI(@=XhlP@fd!q)6Mn_#]q.9g]#@uBG
+*_t!/7I^As&r:js!Y_7=Sq4:GF+rq20;e`/OoSpnB72rAAidfc7`fSEPNAth(DZupkO]D*I[l.l
+MiZ!ULJ+>+89V,-cM,6*rb]L=?Tf4t`l2B=?R4%b3<~>
+endstream
+endobj
+19 0 obj
+<</Type/FontDescriptor/FontName/EUVSSQ+Helvetica-Bold/FontBBox[0 -200 516 729]/Flags 65568
+/Ascent 729
+/CapHeight 729
+/Descent -200
+/ItalicAngle 0
+/StemV 77
+/MissingWidth 1000
+/CharSet(/bracketleft/bracketright/one/three/two)/FontFile3 54 0 R>>
+endobj
+54 0 obj
+<</Filter[/ASCII85Decode
+/FlateDecode]
+/Subtype/Type1C/Length 761>>stream
+Gaqcq?V"+((rj>Nk4,g=/mXs>DLMeU[O0a.C>$0pkmo>%U*Q8jk"a[)1O!eZ1rqm`0(>&W_T3[%
+9ea_JS9RoYL!i[m?3L4X/qU%CW/F-pHfeDWfgSFj0/(*7H/X#i#&+GV__CpSJeT#1@^",/)Nb)H
+A5t)sV5cd8CC'S_;n6k@)7a+s`IuhS?9>'4.K`QU,C2ms5oPJ<5CU9t+t*6+?mpcq:)rT$[p!um
+&;SHj_Z%Kg$Z6cT@^$A]=-pE>7HC]"(Mgj(W`kS(?6#1BE[ZfnJUe<Q^Rb!g_E!!/PXJZ7`,T'e
+4a,QH%\#MJ3lJ7P+Gu6WqP)VpoCi2/#bf+QLU45nU&Cnu):2Ek&$]kaUd_]4K5NDE`j:,f"Q!!o
+2CE)S0S)eO9ta"eXuFg?/SKWl<6LRUbN+Bj>5O^s?kfgL7[6:"Y<ft7;[l.t]3BVq$/le[nhMUn
+'#68\:^PsX;ON29,@+oZ1H/7i?\A@<h%fL7"1.AXXf"7LS*8-PEcGR,!YoGCc,0FW:GP*#mXC#H
+WQ%8Mf3-EG>0\Se]Rq'j+FaSK'UHQG^iU7JEl/fKiOSJ%R2hh>HSBQr:HH$2B23Xj%VB$P[a6LI
+Jo4e667q03qXjqmh?I%b(97o%<gVt:4f\Qgj""m$HSEn$CPd_!\ql+\##io;k/toul)?c91J<CJ
+1bTnepBUFl&$m34Xf<thj':5-PCK#ERAJW-#\m)=['GbpGH*1<JkcP.RmB!To2'Lf01P.Y@'^(/~>
+endstream
+endobj
+9 0 obj
+<</Type/FontDescriptor/FontName/TPBPAZ+Times-Bold/FontBBox[0 -206 923 692]/Flags 4
+/Ascent 692
+/CapHeight 692
+/Descent -206
+/ItalicAngle 0
+/StemV 138
+/MissingWidth 1000
+/XHeight 473
+/CharSet(/C/E/F/L/M/N/P/S/a/bullet/colon/e/four/g/hyphen/i/l/m/n/o/one/p/r/s/space/t/two/u/v/x/zero)/FontFile3 55 0 R>>
+endobj
+55 0 obj
+<</Filter[/ASCII85Decode
+/FlateDecode]
+/Subtype/Type1C/Length 3893>>stream
+GarVOI99G2'u)Jbqc5+^a_mAQPH:fMkBH5qXb*]h="POE.t.Ij+G#3-_urU4KS2SnIH<84$(*sj
+9T&p;";J+;X*mT_ellY1g2=?)f?QPF3k(\R?hQUoOnl*)Zi-5;n&[TYn%@iXq]-^m1lpYdGTeMn
+I$oH:.iME2i,L1ba^Z.3A"Vmn,5krhb\P$j;m@bn4GlN%3&J^ikg?NknAu?jq&#>Y:@WTlrSc%H
+NRjn(jQ%(I@Xc!8oslAAQN$X'WjQWo8u/>>?R2+OH:<it'#jetP,U:lI$qQRSKseb<iHd9OrT`Y
+S#_ldAnT;m"+PYB;^KVN]W+dWZs$1d,UWLNan%#aY"DUQ9+1EU*Lcn"[3S>M<g"R3SH"(G;\UNY
+CZ;akFg('<$B$[!$&M6Zj;c-6<W9:hX.HLs/U<bY[Sb/rZda.JMV:Wj;^p5"WAgbTl4n%m[>\9a
+Xe9!s<`-%t>H-.P,*bQM;,:$IP`RAf(lCgP;A--j<"Pn(`d#[P4nGE1Q-[(gfCMcA4Vj7uoWR3(
+i4FRd5n>Q?/LVB759bDaqtta2T:B7Bs(mK>A6h`+aPi5;+%jH'8aKm'YOZR_(doM/6S=kMOI^^6
+BOt+&c9u3%`gIRM$ldWIh*]BO/a[c_JW%NjNQo^Bh/6#h)l*C-m7oAr87QpJM5#k8[<Up%g@A9,
+N1c3Fqo4>tgX7t$E`!ZXD=1tFH[/qRL/ef0LH7>c+i9UZa<L2]5<fM`J@Tlr4,RRjIDUf$W0g6'
+'XEHE2l(=e2S9JrYj'fYPW3JKDEKlLLn?U9S,"ju@4@D1R&AhO<*PT1%Gl[MqUH8E8b:!t>6J)q
+@31)^NL46$U609$Z@;uI6CCk^cF$i8fS3&b$Cd5BHX$2Q7.uf,aE"SY80OEi6.Y`'3X79n:NUfm
+cC@C0VatD9Cq.:+^W;o,Nqag:r4#tUJSr^RU9V)B[^Uj(5u/;f<*S_+<tY@p5*si!2Mr(LI<$E=
+5eQX5KV+c5Y[&QX8S<!P;b(VmX4uIaNR<Dl)d,EIf-Kf]Wni<(*7P_U$Q&[_#gsH93cFeAG]A<(
+9D4E&CREeE!oXk7IBCXpJp3nk,E5XHemDH#*W%9K"PLU0Ja,+F-:aUZ:FXtIdHef\&MY9$JVR$6
+[h=@?i2Zs3;Bj3-+k.),V6oa3?sD*58GFLDKZ=g6&qR]I0K'eqi$'_tnUuArOUHgETFQM/Xr!&L
+>KUp9K+X63>PA:d4$@[`SYZck+kTOcpdY1AVTP&;Omngjfl$,4*9cp`3hu2Bm?VHn9,!)cn:.]k
+'#8\d+gt:=qI==ql_R\4R9K+a"D7MB6NcnS*#(&RV%]5P+?)4tcQO0>COZ.VmhP$ZEcAU4/_Zs+
+aMWRc0__hfr4M(IK'46t^4tAN/2!acV=oNWCrbWp-2#EHK"=:-<c1KVC!5c5^[2heR.&M_4HuCd
++CfKhREpdZ)R@pEB^'8FCr5ktEN$G5\7O+R_s"-3VZ(g'HR*3*r2Vb6?JL>654;n*EGJF\W6<Os
+C>Xf`i3)0&r%Q:j3'alE>T]:uXA4lLMl_l>.7cNdDUDZYZE@IRHL'&/,$g*m<am\u&K5HJO;QjM
+L?<*pI"d!s_n5K$XnTu*O`jOVQ,]fCKl23D%G1Fg"LB@Z:S4h*[G_">S>;Fm,-(nmBrUE81&QkR
+lflk5%U4J=p%/XT;a6c8ml5g]!B7XCNBKDT'Y*$Hh#/:/Xi,O%XX^;,`KRD3f>G<pkFi+8&:rT*
+)ne*dfQ"iL"F3P?Sp"0o<&`HENf6DN80O4V0C0:dC0'=6FZ=\_,6GD/Z]QWP]b!Vc&-3&)$\Z"A
+r6%cZH$+9&iIa,,>hRUML84D02b]Ag'"hZ)7]An%HH>:64)/]?FGObXeQch<jm2-Fe>#_N]g@pE
+S37(e%LKo,T3nDHs&@EK`oW+k?0<ks>'>$-a70H'm2.sF8ErW5X"mfL)!)PS+1a9kr(.\`He"YU
+Xl.PE4\SFqAR/jTM#lYR^HoBYm:tmfO788(HFi@Fj)?Sn+*Q:V.5!2*f&YNOV8gq-HXg&CF^<kn
+JJ$[l>E:];s3l^oWeQ//I/"$$]hg<4.W+==^GHYJ%rogLp!>]Vk!n-dgO"Y[cdpT(3Z=KB',J0E
+bslNc(:.9]#d_ug1J=us7c<BV#;>X\*WlM>(+<Z%Wn]_9I&AD'USImN=VZpoO1'ICLV2\0*W9Es
+Z%j7%X3CEtNRNDl3p_Xs\P1lkZT_L-T39M>PF69\nP6E%@jOXA5BuGFk40:8*O/0mrj]Z?7Qm*@
+SgJ0X.[%fOJk:SiE5UO0(8.=T`nSWeYlP2tH0M^G7OPp,=="FLZX3kX(N>g*=7#o7)aDK#@ZJAP
+7ji97cI-bqd&`\U4%dbKPC^PCa#09TJ[/-0]6![fY`HIJ^_bbZXu(4mo5sWL8nSamKZGHWjHIh1
+_mTSJh90<'i!C`GO34gOB4LV>U41RJ$@gS`"SDinmn:^l#*l+7>q);(5OhV[M'>fh/qM(3N1]nA
+MO:cg#,W/&Nt%(Y+*Nr0<;"6L:!G:i9$`>jDa1nhcRI5MS?0I6)]&eK5WcX%5ie'Ag<jDSH:Ql5
+[h,4/^EMo2_S;1HJae\[rlBPq"E-c9>ji<K$u,EM>^jb?L]dF_QX8QcCVi"ACCV!V`SK54s3/6=
+:^IojJHCtjTWHq%3CBbmdM!/rTm(pXR^DaBqn?/C:W#MTPi#di]MGe$lncj2H'/s"UH8*_)R:PY
+a@fa'.b^,)NOW3]//pCHf4N-D.[D,3>qSCZIomA#8tGURmF)CJLR5cCq!5'#Z\q7V"mZSV^:/LG
+6fKnWa0<%HcP=9m5L\XV4o#d5ZFm%(Tt&c7(u^h4GC#.3kpZjH?:]:$Fu?`'gg[G[Q`Q/aF39e%
+2s-q'24a[A)s>#(3"1+Q(V@[E%4c\T!_S[t&<.CL$#NBp/=eSNb)19k2q&K_3k*sd'G$q_m.\a'
+gt^*^^N+G'cTaIbkhj]`ERO&`3H&3Pb8UU+fHGpo)HdLOq>#-oJVo=ocDI_OKoWO#]ET6t]o1I[
+Omj/6&g1_?phJY%R@XL?2<*.L)0+DTHcK\Am=<ksr"2g?r2-.'lY,S!%bst<?$X//TQ5^,LR<#[
+!9)Dke$#ATPNWr=%i'E\\VR6D_%4j#)s&G9ICUA5f2`Rcka=^XhUMTeBjdBRkQUq8*@<=-Z]3b?
+;f#90c_48Y.<4>j'K1%(_(rtij`OZ.5FiJP"i>9#HFP<S>:^;SA"@\bb!:$LJ`[*$WeM!r>;HoK
+l0.DKm#4'W?Eih5=s^SBaTJrn\DTDc".K\$%g7*#Efh1J[d0,!KP"C>Z9Y@JgV@R*XT:MNgVA!R
+$=6LCjaWBX8\bWl>q=YFYTqd#L^-:$`/lI#TSg(sl8%6jKTG;Ik;a+"o:^>>'=/ElfdDd*9.=,#
+f,u:9L.$),cJ4'8+<AmZ%SI'PqJ]K\i8fbtS(=Sl0c+6)g\;i.LquKs''H*4j/tc_/UAPO1CIJN
+8.)Fo+*"8O4lHPdTUT[:[C%m4S%Xeu(jT<me&8R$NRo)+@h'_H)rdPmeeGT7,\4+,JKtfC-A$aQ
+PH]khl6(l0$e4\^qdOG*Q3]G_0>B[+IhhuAiqp7C&o./I6Vad4456FTCd^HQn'lmV*B]5X`pTAJ
+,)6@=i-iV0]KNl9F#,i4=G[C;eT;Z+S^$*<\V\ikEN^a+=?i'qqfhL)h7B.:(&,L,^d7b2B32X\
+_$,b-]nfr#%YifPN_YTZ59]@$XOss<6Du3HE.eu:OCquV/_%YD*rnOp.".9""<`?g_-p0`h*W'u
+E[u,\O&M[99Y)c:A+*"bfX\hLZX^:>Bk"RfPV//2lo?LZ2`<Y:]c6%@-\I?%F?up"i1COC&ALFd
+'I<+n7k*`\9]fJ@~>
+endstream
+endobj
+17 0 obj
+<</Type/FontDescriptor/FontName/IVNGCB+Courier-Bold/FontBBox[-19 -198 604 673]/Flags 4
+/Ascent 673
+/CapHeight 565
+/Descent -198
+/ItalicAngle 0
+/StemV 90
+/MissingWidth 775
+/XHeight 437
+/CharSet(/L/X/a/asterisk/b/bar/braceleft/braceright/bracketleft/bracketright/c/colon/comma/d/e/equal/exclam/f/five/four/g/greater/h/hyphen/i/j/k/l/less/m/n/nine/numbersign/o/one/p/parenleft/parenright/period/plus/question/quotedbl/quoteleft/quoteright/r/s/semicolon/seven/six/slash/space/t/three/two/u/underscore/v/w/x/y/z/zero)/FontFile3 56 0 R>>
+endobj
+56 0 obj
+<</Filter[/ASCII85Decode
+/FlateDecode]
+/Subtype/Type1C/Length 7503>>stream
+Gasar$$9+r\iq:^a\f&n*GH@RWdoVO!]#T7Jfq!?<'Z2(U%=dr9&!%aa[spV]*Z`$1,N^o+`3o)
+"W7X]O:-kNLPt3a.cQYmGgY8FlWk$FmQ1-ogZKiYGi-2Q]iEXXlV.35s8W&Tp\h]*/7Ar6&.%],
+/[$SIb:9'l8m[n,?'l@t.Yph=':gbW@Wt4qs05Z/&qqG_Tlo(2G!^;rGh@?b/0'EO"bKXIA$oQ=
+?(.+D>Fms(9?QRA*dQhod45Tj041<@?9N<Vq>%+t]U\!B=m-Z5<hWbqPZ:u&,'c%l]!*kA,<;[+
+>*3$T]JhVsPC%*2hSQ@GjL'8eGm]71R65ihSE,Bb5JH'@]V>%UZK)Jc@X7Ofa^!')]7OJD1WA,0
+MUJg$$>&>UWq;XY1K9cFff?Tgq#uI@O/C0k^\b9!O/j(1(2=XKZ$8k2dK^gurm6iZSpL7lB4a@i
+BC=&80^MeU3OTOSKY<+W`jT8ZZ.H6tfIC]![MkWjmD,=6G%,6k[Fbl>3c$tQ,5)ZC1:@41"hP"d
+#.k\`%pOmM_k+ccA#\)`/.J))mD:2Y,^)C1)&$CLfGI;<9u.IHWRs%D3[VfO9SVAW-"D./A$Mr9
+7-n&U'6Lif+;Z":;^f:OGU?j7_RH7;>_maGlc$UO20[<Ylf?lYGFoa7C$`Hg]C2//cd@*+hAa"D
+gGn`5g#FR&SK.D"\/XJMn]SuM-]FIT0k()Ma[G0bWKV!n88:^ZH/\b@qcDU'HL`.)ZUmfQN"Sf>
+;c4r&2eDZHI8fU(RQC-<56CRK56hd6NX0Mj?tMe42apf0O5i($!m2^rW`5Vo'XamsYRkWY8R)I5
+.rEiS$u2F:>.;LGH&Oq&.j1Jb%fr<Ie_kY`!s&9:r-Cj$1tkP%@=lhc-dQl>:BKOHcLNe0qj]WM
+WQm/1;>895Ji<crru-Mr,'ka@=]5%-(qc\+QE`Zh/^q06C]O_)e@bu,Vk=nC5liMJ_OL$3#p4le
+%bA*GJc-2m0_mSb_+A\U5(P58b$m3Y(lVXk#"k5b9=Ni1V"ls]I#JTCTSI6rNhK9kE^21m:#''W
+`>3SRg1t\!eRsU-fsOE<@WmYXVkU1^j3mes17-*mD$S"_GRO$3!P>ji*iKS2gP-i51rL%&ek-Z*
+P&U;]6L8pl+:]fhF/3IWl3R#M"@n7*V'.!%LoquU)=3a$/BLY;#nKB@q@W]8-c#8RE1!1CX.)ag
+q]KJCl5*Bj=M4((:HuI=nN.Wb#eORX$AY9:Z8=>qP9G0mB_'*BnEK\hZPge?DkgK0)86RoiOE#T
+ZI:b0X#!Xb'-mIW86cW5(>=@tVa<u&\27NL0tAlE5W%>$WPQtf5b$c0<P,VE"%+keBZKUVZt3%H
+X.bYa)F4r0ks,\F3@J)\+C;t5atob2aJ5E_cro1UFpSM4[BK"'[UeF_O1LejFgXcX9tfti+BC^/
+*EbE_!Nng&Ig"L;db)[O$<15'Ah?`V@q#0ADPP7((@Gb7?c,Ne$.)/$JVk\t6SWT!*CF92D9gml
+UNsf*2?b5U.I\L.io/5`HFUY8WZNoa^V3S.2Z!O&g"P!pUclknX>jJGblt'h>P1YsEP"!XDo/S_
+L!aFUJb1G*F=Zj5J<TL_(n1c;'7Jk=]&j&'AZRd]Z[s't1pkcgb;MT`bZe4hRTam[dV<Zq6Um[X
+k_P+5PoF%*pP%^,_g[T["RSp!1h^TUeGr3t!\l+2)&j!%Fec2Jpjgi]FWIGF6_-aE)Lpf,eWV<"
+pU82$".@@_AqSi;YA6rr-l69I^d.D5YoZ8TB,jUrL]EH$:s+Gm8GF1]#!@'qh9VaQ"@9ieX79!q
+ZlPj1II8!`3e5]?U&le\QY@.khPdo&d4EBUUGUS"At=M4Yb?3=]`o9&63gSF%".;pgL.nO07p;.
+d_eA3#D@qob-hr*A>N;S?0,esD'0e=SU-pM;<J-,/t"SL9=\5%i&PB>`04%cXOcK`7a#IT&EK0d
+N!reRKC&4)p8t1&SUf@gBH*&L<]8q26-7"Zqs-E=UdfM:%Q6333?moE5??5Dc@^#lku5O=Wmi!I
+s32i0l<<*lPbh;t/GT:i&2iCJ-qR/q68P5Z6Tdqr2qU\]+ukJ]oa#uX8),F4N.)a!@BYK97fU:T
+U&`dX.+=07l]+Y;p+l9&aljs=$Y@`*ioUe8ne!f%Ms$-c$32W31L[O"Sq*l`O4i'XlhK*$CJf:S
+;]#;!c6G-`55.$C$.K`c8Oq/HT]L4V6`"2kC0N'WaZd!Bc5/(P;qUnKn<#We#-J/eccu25g6nNC
+$MEXM7-Jcd`hK];&YTm/k3=#P2>1h5pNR*9A%m9pZ-qN<c(HbZGWulc<c6u&Mi"nYl?K4Xj&QWE
+L4?]/!]tSGC7RC[>%OLOTRnQuQ1&qnm.Pu%PkS!A%j9`rdcSZ9iXA>>]au_!lUlBi-s('h&36i+
+Z>oB^7=Y2be-6*;QM`>7f)`.S+P:`0S\E91LX#H')4r/Tr!b,H39b%Y]t"GkEMW!NHK\I3I^^C&
+:cW9ZFW5NMD*/KiWnJ^!NMrq7V"h5J^l<PS*lshNHRs-kK1Tl74)T_X6g>=)B-2%"*,O+$'HYpT
+Dh#4#bc%KB8dY@,eq[pokC4b!0`gd_Ec[m'QtPG%YPAJj^,GQ(i!:WEi7$(^Oqmqe=Z&>*BfFsq
+pG!,431f'fGI:bjbN-"<Tp8"NnVLn!cb?*d2"add^@anoao:uAi'$RYfiu(Kn*]'G=p7ehW[b]4
+J2;A3"/&lU.;pm2k6(@O.juuJPih:T!Fj0jF'j%dH99hl*F7Kmdr?^pMG[/33[f[Sd9Q5D+qDWT
+hWJBX<,1LUOk3Jh*Ds$Q(f5m-4@5'[)(X^$$b+'Ds2A9QdEfcR9nTY-T\\lk\LG:Jk8]J<f$T_I
+!i<h%2H(TZZKTGe+9W(+:hM#^4sZSTnjQ^G>4'($U+@qkoo=b,j5Q?FLm3^=kW'qEj01)GZ?l^)
+>RME=Ys2u8Ln`J#,>o:i$eYYbGhCl)9#tMC#%:/CkM65Q#kTA(8't:aTQX9WhAd.t6W#R`9%.%D
+U^WMZ#XW7n'U5Pa1Zl!l?YS>>,Z?U_p5\]6n-O?kHR*^?\\/)"AnP7N8I\s@0M"j;bdE_5$9H(p
+M;Ak_4F4E]GGl`;lg3p.SH1*'T-:<+)B.gol3=*@KG`J-2gJ8#)P)i5iO5H2^TF>a+-C!\7nDis
+oqF*X,sNd^j`\O*K1d.?"@4:%3uG`]D0(8'_?FS.=U/^W4W.Q)(GTU,F.1kg^WNY[EhKG@k/AGO
+h$CfJSd7G"&OsGgpi6?lR'^+L;$EL/&)qDsblV]*^:,IAQi^<?/X<sBm+P[8!aYp][r"=>kJWt`
+'q^%Mi/msLI7,,M&0oUlK[T'*"dgH.-oc!s[H)$)hl[fDo0@l8TFAXq:R?e=]"k3LQ\Dj'TGR7s
+He[::]6ZRA+BFW>>l-E'L`V'sa>_%Vao`6!-MnpDc"8?.PAea!F$KT5.F^"f@m#4e9QVag8h#0o
+X\QI+U<L7X/-4Kd/)DUhf>tsQ(]-B"++m5^r[kU#q[MhO/L\=2S?gH"JB'+>a3@O5I>;L[3fJ9,
+">1Z20UmBa?7TN.!$^4Hf%Ho,.%IReAqM<14[hKJH(cd9(Xb-M*Ts)*!oqZ&Ok\h0n.])t_C5^6
+"*L]5Zn>(SR9C0oO5irjP&L4mhX)/M]Er)Giiu8Tp*\q]QUN6oqR%Hr]c);ARRCc^U^"<&LWJ/=
+c(+RXCe1-Z(?dn)gFD'G;m9F$&?\86M^pK(8&'?7_OT5kH0*A%8+$s!q8M`Oi<:lH/a,9tKb0Y;
+G02T2c^.O1Xa0$9<R8@)nWQc+H0[\*,GW5UKA:F.0use?#Z:skUaVEZDX(IVj>LZ^Z6pV:RdbeJ
+11H4;q]THKQae2+_$q8tn-^%9QiXE51n+TYJ9G9/-m7.ibp_\Yn&6-dJ]p4ioC?mb4pjsNHZ<.+
+iECVJh$5aEmA\7PP`C:RX'l%_NtC0(ISD^=pZ\ImEJc[=A1rl6%CAq-2XWr,.@ZmDY!fonhbe&7
+Dem$kTg*1jfs1'>a-2Nsdtbr*=J`c$62>eWEShqRr$L+/n_9Q?f2k^t^I6YG64ZRb\9Q6p[*hZn
+9fsIEMWYW?Da<hdr*^&HNF[fR"_TQ=nN6<F*bAFs.esmqaJ,lBVo5EOW5d&M',ck@=W>K&[6Xge
+)!&p(,-o>bo:d./XT<)]"g.(M;M`B&0j:WFVP%c?i9Xrm3lGrm\p28Qba=/5FIop2I$=W7!'6%[
+U8Em^?a\?hm5#]Ei)cukc(P=Eg"W6rp2Ct,"%`#F8KuM@L88+2a&MN4_3"dC+Ke+hTQk0?hPqJ[
+6gZhD.50V:FR-2]/s;MVErYSP`FeD1K+Nr+!QreHA:S/^`%+J<.(qcEMmLbeb^WoQ+Mn0N)YuMX
+0cKk"-[M'5<4kSGi*\?ng9R9Cj>-H,?c=VeLRe9q=kT=i4k/6<kXLC7`u_fEmV`R,+=is,K=Tu;
+2d][P=f<r$P0/.B"'LHVQ%hC)=&51c8b,;NDlH$'aX#:1F9*KD%(`75:*'uP\q^Kb(F$-FR8_5Z
+:iZ,M`fVlBq"Eu9Af'V;i4OQdm!LXAf3%6?%2F*8=tetl3pY/k\%)(G;T.<9Y`rr-8CI4*)(s"r
+![l_4?FFba*"g[D@\P7[?ffpNBT3$hK+-a"%=+o<5i3`1B9#Z>k8"lsjmFeej!Wo7:(*fRY9Io`
+Z8;=b[pE#QrJkDT[KbY5g+-?"b%mq<NKekk[teX^K`ZQlH!<_Ic0OfjF1iWC-R=M*U0j$r,(S.q
+;Pk?e&<I%mhSoc#]?\\RTnu0EM?p?p_Fc)=<]Ed)mhAiHSB^LqCYB1TK@K2ag`>-BScXh+a2MF`
+a,2\-HZKFl/q=>f<-*!8RBrGkJaWm<MkA(_:O_f\7jhVj=ILe4[<ql+[CcDpbf=,g8H=_ugYYNm
+aUXZL6b;13*(!93?Q%!n[qX;p.D&+Z'ILE@>$.ifA@smpm]I"'*&M[rlr2m[/oA2TgX<aLZ`:FC
+?<Ug5?-#%AH"(aD*%^PplY6]Uj7-'5GY@rnaej"$U3&7X/s1pR@J;siY=\RbX6>jc%UoOhW6`pR
+j1W75ngXPHB9YgonQnI33eu&[e^2AELIfd(FdX-$Y@;`<@A%@/Z'"f?+Yk]/Ua_8"Oljk\UW`$n
+k(T;:A%haRK$73D9"U2DGnSC@r3kuHGY\CGKjV*/V/3<Yc]AnVQDC5eUSLW;&Sh"B)l-/O]oDQj
+KmW_f!:ep6m-XTujkPQq4df;bFr<AqQl4_1bYY@jD0FC@)(Gi*PpMc$OI\Q,O*aa^()48I6^H/b
+67T1>WW3C#\>?5"nteu$9&UFmd,ArPgO&:<-6t]Zl9IX&REae\AV*^75MC5DK`YgsZ(ee7b9H>\
+\r9m**Yj<E%BB,bnm[diAFN]]^t4'hF!D?md`AbNc[UJ8_iu[:nrb>B[mbJQc=[S(:/uN#JK.L[
+02noEbHn2@?iqg#PQWk&\XikUU-bj3E?u,BIe0GOVdFVAYOal$$bVsUqRJe!ip_:b_L:UFJ0V)n
+_?8J0Ci=V3&2PB\p6q_PU=4m&V+]BfY`h'XLs*hrGGhA%UrKe=ck*jH;K*X"HjrT5'6.'"CPq=I
+(s'f7o4-#cJFK>&a(0Kor+'Dm^+'3;dR3"=p(6fK7!D'u[WLs9lqADD^GVb<p,.sS&_b3VE"C*7
+:=MbMm2Wsr?2K"hAr*)In;cfKgP+h"P]sYX2MY(SXJOg4-I2?]Uoo/)/UQ'lE`]bAVY(en3\Dir
+-!RP@Km3Lg@d$e+m,/gWDh8?"*;@A\p+CX)OlF^Jd/(?ZiUi`Gd:GZN?19W&$HHJfp'Y9D52\.#
+b`'LU4#qU3/\HPKMY*fRP&5]ZF;9$%]F]H;S9jtL\+?bS&&:GOhiZd0i)srO1!@>$\Ke_48".rP
+-BK7Gch-l4im"712SYK?q<CUuL]:;jAJkBHCPaYLSbi^:)ss)BpsudZl8ga58kN9O?"'A/cR4G<
+U3f:j>>#cj6!:n;8NSdq6ND4\`h:#+7h;+8L^KmdAA,2'%iiNEr8(_ko(.&ElS\?]Bbu-G?JJN5
+#p`e!fPEc;A?bo-el:Zi1"JH4Mpi_@6F>@^Jqc#seH@/B^r>XJGJh"fO7#M>m:C2'C'ZfZ=1S!Z
+iNrl*9#7]E1jU)6PN?W?_PK&M`A7Vp5./j9Da9")YE3Ch.f&T2099E7PO-NjiQo<Ki3MXkdZ`@6
+g=X"=X@Ir3S!fmI]b@1Q/G@>??VV\\3]eI\TTE.>gmPVf&?i"(\G4pS,Cb*E05"uD(G;6O\)AJ2
+PR_`t>X^DeJ\B%R;A(Sc&iDpq-:LjUVE.-T]/44RNpbVQojME6%O;sc7<a_K(/nM<*o/Ea3NGN8
+['W]L@G/JffH@5I['g9"bnB,Z7K?R^r^98oT>>L@!?,u?E/Iq'B0neU<`0o8G4buAN_7!(RHS/K
+L8EU-g0PO!&jMiAg`D6gd9>GkJ]j4ngqXBS,DQQ;S`Y#)Tt:YU%uUpjqeeJOC+gK@>a-aN0.+pe
+NO)#gETaPS<dhJ!P5ePkKCE/g^$F$RGusoi:0q0Ni;iW/s!dlHhuL<c\0O.W^S:a==89j6H$C/*
+C+X6HT`\&)osm5Y=TTMC:5cH]50;m7G]]If\($d`/S<IqU5R]@O3(>d!YQSgoJq<logs=nblJ_J
+PJLJ^jirQkk\<NT?dX.0>k.(R.&-7ZDOOZ)."UtbTtqg4U1g>A[;J$K6ue,mf5be5%H]atgdY&$
+@rL'k4U-Cp'K[0N&Z6U:DD/<&`;hI)/5c<:-jQmTT*$a5A9\3282NJn'fD3s<(hbhB!RokX[s">
+UYZNOaMTcnkRtBal.-K79/YpM7Ng([[GJ!cZR/h6<YH+l.`Ti8j1!4e'Ll.lUSJOdl13Ue&#?Pl
+^^Q<POA5M+'m-9t.0Q`Tes6fLV83_)Xb0a7&)\fheG[9r-u]FYS;6@-BTYqtjc>:R"N-@&3:f[/
+LaE-8Ph2[=`2sDF!U^6/j[&f^GCpCB0CJNUF<(G$]DVmpdW8(6nYrh=@SgL2)^q%"LdW%V"<nS*
+pUOc]_3\ij>4stG\7)RYf6f#@]lii%d0:<$+sC3C2H3SW/CE4rN(S8](%f]TF27.Zq(JrhV7)gY
+%BmrlN2s-VqWZ8"E#eX7pb`ipf>995P;Sr;d;j24+UA!9mT?5]ef'*7;USUndEFR2R\aqOI!/5_
+`+98V8OmQ3LX4u.KOih%rhf90j7e21UnaZt`+ZEEQ-s4N&X)j;FrNIUD:O7o@^1/\B4Z_77KH)K
+Z<U8leK1H0$?Y*I6S@pRG>qi9Eql2!bagZWgj5lLF/SB;he5!A]-$nh:]*20+*$QXZ;T[0]t=:[
+ru<R;Tp.oR4[L>K1,SJkjIU"HQb_#,iA/".7b,Rg)>E:q$:W-%_+kf-SAU9oD*5]2TkuiKhCZ(]
+%>It&j5.mfF/#\l>8`=$&&ARG:^A/WH[+lfY/J9;`-X3)IfL-;r?2~>
+endstream
+endobj
+64 0 obj
+<</Type/Metadata
+/Subtype/XML/Length 1338>>stream
+<?xpacket begin='﻿' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<?adobe-xap-filters esc="CRLF"?>
+<x:xmpmeta xmlns:x='adobe:ns:meta/' x:xmptk='XMP toolkit 2.9.1-13, framework 1.6'>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:iX='http://ns.adobe.com/iX/1.0/'>
+<rdf:Description rdf:about='81b6cda2-b998-11ef-0000-83684d372b01' xmlns:pdf='http://ns.adobe.com/pdf/1.3/' pdf:Producer='GPL Ghostscript 8.70'/>
+<rdf:Description rdf:about='81b6cda2-b998-11ef-0000-83684d372b01' xmlns:xmp='http://ns.adobe.com/xap/1.0/'><xmp:ModifyDate>2014-12-11T13:23:32-08:00</xmp:ModifyDate>
+<xmp:CreateDate>2014-12-11T13:23:32-08:00</xmp:CreateDate>
+<xmp:CreatorTool>groff version 1.18.1.1</xmp:CreatorTool></rdf:Description>
+<rdf:Description rdf:about='81b6cda2-b998-11ef-0000-83684d372b01' xmlns:xapMM='http://ns.adobe.com/xap/1.0/mm/' xapMM:DocumentID='81b6cda2-b998-11ef-0000-83684d372b01'/>
+<rdf:Description rdf:about='81b6cda2-b998-11ef-0000-83684d372b01' xmlns:dc='http://purl.org/dc/elements/1.1/' dc:format='application/pdf'><dc:title><rdf:Alt><rdf:li xml:lang='x-default'>cmps112-2014q4-exam3.ps</rdf:li></rdf:Alt></dc:title></rdf:Description>
+</rdf:RDF>
+</x:xmpmeta>
+                                                                        
+                                                                        
+<?xpacket end='w'?>
+endstream
+endobj
+2 0 obj
+<</Producer(GPL Ghostscript 8.70)
+/CreationDate(D:20141211132332-08'00')
+/ModDate(D:20141211132332-08'00')
+/Creator(groff version 1.18.1.1)
+/Title(cmps112-2014q4-exam3.ps)>>endobj
+xref
+0 65
+0000000000 65535 f 
+0000049955 00000 n 
+0000095950 00000 n 
+0000049868 00000 n 
+0000049105 00000 n 
+0000000009 00000 n 
+0000014792 00000 n 
+0000050020 00000 n 
+0000053858 00000 n 
+0000082070 00000 n 
+0000052565 00000 n 
+0000069142 00000 n 
+0000051522 00000 n 
+0000061581 00000 n 
+0000050994 00000 n 
+0000055977 00000 n 
+0000054354 00000 n 
+0000086382 00000 n 
+0000053599 00000 n 
+0000080947 00000 n 
+0000050757 00000 n 
+0000054920 00000 n 
+0000053345 00000 n 
+0000079262 00000 n 
+0000052048 00000 n 
+0000067704 00000 n 
+0000050061 00000 n 
+0000050091 00000 n 
+0000049256 00000 n 
+0000014813 00000 n 
+0000021836 00000 n 
+0000050209 00000 n 
+0000050239 00000 n 
+0000049409 00000 n 
+0000021857 00000 n 
+0000027682 00000 n 
+0000050357 00000 n 
+0000050387 00000 n 
+0000049562 00000 n 
+0000027703 00000 n 
+0000039937 00000 n 
+0000050483 00000 n 
+0000050513 00000 n 
+0000049715 00000 n 
+0000039959 00000 n 
+0000049084 00000 n 
+0000050620 00000 n 
+0000050650 00000 n 
+0000055138 00000 n 
+0000056325 00000 n 
+0000062114 00000 n 
+0000067952 00000 n 
+0000069645 00000 n 
+0000079509 00000 n 
+0000081208 00000 n 
+0000082387 00000 n 
+0000086930 00000 n 
+0000050909 00000 n 
+0000051437 00000 n 
+0000051956 00000 n 
+0000052445 00000 n 
+0000053233 00000 n 
+0000054265 00000 n 
+0000054815 00000 n 
+0000094535 00000 n 
+trailer
+<< /Size 65 /Root 1 0 R /Info 2 0 R
+/ID [<FD812FABF4F3192C6D8E6BBA4188D610><FD812FABF4F3192C6D8E6BBA4188D610>]
+>>
+startxref
+96138
+%%EOF

@@ -1,0 +1,192 @@
+Script started on Tue Mar  6 21:01:00 2012
+bash-3.2$ cat -n foxchicken.pl
+     1	% $Id: foxchicken.pl,v 1.3 2011-05-19 19:53:59-07 - - $ */
+     2	
+     3	%
+     4	% A farmer has with him a fox, a chicken, and a sack of grain.
+     5	% He comes to a river and sees a small boat.  He needs to bring
+     6	% all three of his things across the river, but the boat is so
+     7	% small that only one thing will fit in it with him.  He can not
+     8	% leave the fox and the chicken together or the fox will eat the
+     9	% chicken.  He can not leave the chicken and the grain together
+    10	% or the chicken will eat the grain.  The fox, however, does not
+    11	% eat grain.  How should the farmer proceed?
+    12	%
+    13	
+    14	not( X ) :- X, !, fail.
+    15	not( _ ).
+    16	
+    17	%
+    18	% FACTS AND CULLINARY HABITS:
+    19	%
+    20	
+    21	eats( fox, chicken ).
+    22	eats( chicken, grain ).
+    23	property( [ fox, chicken, grain ] ).
+    24	goal( other ).
+    25	start( first ).
+    26	
+    27	chow_time( List ) :-
+    28	   member_of( Diner, List ),
+    29	   member_of( Dinner, List ),
+    30	   eats( Diner, Dinner ).
+    31	
+    32	%
+    33	% SET RELATIONS:
+    34	%
+    35	
+    36	member_of( H, [ H | _ ] ).
+    37	member_of( H, [ _ | T ] ) :- member_of( H, T ).
+    38	
+    39	matches( [], [] ).
+    40	matches( [ H | T1 ], [ H | T2 ] ) :- matches( T1, T2 ).
+    41	
+    42	removex( H, [ H | T ], T ).
+    43	removex( X, [ H | T ], [ H | U ] ) :- removex( X, T, U ).
+    44	
+    45	insert( H, T, [ H | T ] ).
+    46	
+    47	%
+    48	% TRAVEL PLANS AND FREQUENT PADDLER MILES.
+    49	%
+    50	
+    51	travel :-
+    52	   start( From ),
+    53	   goal( To ),
+    54	   property( Property ),
+    55	   print_start( From, To, Property, [] ),
+    56	   move( From, To, Property, [], nothing ),
+    57	   print_done.
+    58	
+    59	move( From, _, _, [], _ ) :-
+    60	   goal( From ).
+    61	
+    62	move( From, To, This, That, _ ) :-
+    63	   start( To ),
+    64	   goal( From ),
+    65	   not( chow_time( This )),
+    66	   print_alone( From, To, This, That ),
+    67	   move( To, From, That, This, nothing ).
+    68	
+    69	move( From, To, This, That, Just_took ) :-
+    70	   removex( What, This, This_later ),
+    71	   not( Just_took = What ),
+    72	   not( chow_time( This_later )),
+    73	   insert( What, That, That_later ),
+    74	   print_takes( What, From, To, This_later, That_later ),
+    75	   move( To, From, That_later, This_later, What ).
+    76	
+    77	%
+    78	% TRAVEL INSTRUCTIONS.
+    79	%
+    80	
+    81	print_start( From, To, This, That ) :-
+    82	   nl,
+    83	   write( 'The farmer is by a river and ' ),
+    84	   write( 'wants to take his cargo across.' ),
+    85	   nl,
+    86	   print_status( From, This ),
+    87	   print_status( To, That ).
+    88	
+    89	print_done :-
+    90	   nl,
+    91	   write( 'Finally, the farmer is done!' ),
+    92	   nl.
+    93	
+    94	print_takes( What, From, To, This, That ) :-
+    95	   nl,
+    96	   write( 'The farmer takes the ' ),
+    97	   write( What ),
+    98	   write( ' from the ' ),
+    99	   write( From ),
+   100	   write( ' side to the ' ),
+   101	   write( To ),
+   102	   write( ' side.' ),
+   103	   nl,
+   104	   print_status( From, This ),
+   105	   print_status( To, That ).
+   106	
+   107	print_alone( From, To, This, That ) :-
+   108	   nl,
+   109	   write( 'The farmer travels alone from the ' ),
+   110	   write( From ),
+   111	   write( ' side to the ' ),
+   112	   write( To ),
+   113	   write( ' side.' ),
+   114	   nl,
+   115	   print_status( From, This ),
+   116	   print_status( To, That ).
+   117	
+   118	print_status( Where, What ) :-
+   119	   tab( 10 ),
+   120	   write( 'On the ' ),
+   121	   write( Where ),
+   122	   write( ' side is ' ),
+   123	   print_list( nothing, '', What ).
+   124	
+   125	print_list( Nothing, _, [] ) :-
+   126	   write( Nothing ),
+   127	   write( '.' ),
+   128	   nl.
+   129	
+   130	print_list( _, Comma, [ H | T ] ) :-
+   131	   write( Comma ),
+   132	   write( 'the ' ),
+   133	   write( H ),
+   134	   print_list( '', ', ', T ).
+   135	
+   136	% TEST: travel.
+   137	
+bash-3.2$ gprolog
+GNU Prolog 1.3.1
+By Daniel Diaz
+Copyright (C) 1999-2009 Daniel Diaz
+| ?- [foxchicken][foxchicken].
+compiling /afs/cats.ucsc.edu/courses/cmps112-wm/Languages/prolog/Examples/foxchicken.pl for byte code...
+/afs/cats.ucsc.edu/courses/cmps112-wm/Languages/prolog/Examples/foxchicken.pl compiled, 137 lines read - 9261 bytes written, 14 ms
+
+(1 ms) yes
+| ?- travel.
+
+The farmer is by a river and wants to take his cargo across.
+          On the first side is the fox, the chicken, the grain.
+          On the other side is nothing.
+
+The farmer takes the chicken from the first side to the other side.
+          On the first side is the fox, the grain.
+          On the other side is the chicken.
+
+The farmer travels alone from the other side to the first side.
+          On the other side is the chicken.
+          On the first side is the fox, the grain.
+
+The farmer takes the fox from the first side to the other side.
+          On the first side is the grain.
+          On the other side is the fox, the chicken.
+
+The farmer takes the chicken from the other side to the first side.
+          On the other side is the fox.
+          On the first side is the chicken, the grain.
+
+The farmer takes the grain from the first side to the other side.
+          On the first side is the chicken.
+          On the other side is the grain, the fox.
+
+The farmer travels alone from the other side to the first side.
+          On the other side is the grain, the fox.
+          On the first side is the chicken.
+
+The farmer takes the chicken from the first side to the other side.
+          On the first side is nothing.
+          On the other side is the chicken, the grain, the fox.
+
+Finally, the farmer is done!
+
+true ? 
+
+(1 ms) yes
+| ?- 
+
+bash-3.2$ exit
+
+Script done on Tue Mar  6 21:01:59 2012

@@ -1,0 +1,80 @@
+Script started on Tue Mar  6 20:58:16 2012
+bash-3.2$ cat -n factorial.pl
+     1	% $Id: factorial.pl,v 1.2 2011-05-19 19:53:59-07 - - $ */
+     2	
+     3	%
+     4	% Factorial, the old intro to recursion standby.
+     5	%
+     6	
+     7	factorial( 0, 1 ) :-
+     8		!.
+     9	
+    10	factorial( N, Nfac ) :-
+    11		M is N - 1,
+    12		factorial( M, Mfac ),
+    13		Nfac is N * Mfac.
+    14	
+    15	% TEST: factorial(5,N).
+    16	% TEST: factorial(20,N).
+bash-3.2$ gprolog
+GNU Prolog 1.3.1
+By Daniel Diaz
+Copyright (C) 1999-2009 Daniel Diaz
+| ?- [factorial][factorial].
+compiling /afs/cats.ucsc.edu/courses/cmps112-wm/Languages/prolog/Examples/factorial.pl for byte code...
+/afs/cats.ucsc.edu/courses/cmps112-wm/Languages/prolog/Examples/factorial.pl compiled, 16 lines read - 916 bytes written, 10 ms
+
+yes
+| ?- trace.
+The debugger will first creep -- showing everything (trace)
+
+yes
+{trace}
+| ?- factorial(5,N)(5,N).
+      1    1  Call: factorial(5,_16) ? 
+      2    2  Call: _88 is 5-1 ? 
+      2    2  Exit: 4 is 5-1 ? 
+      3    2  Call: factorial(4,_113) ? 
+      4    3  Call: _140 is 4-1 ? 
+      4    3  Exit: 3 is 4-1 ? 
+      5    3  Call: factorial(3,_165) ? 
+      6    4  Call: _192 is 3-1 ? 
+      6    4  Exit: 2 is 3-1 ? 
+      7    4  Call: factorial(2,_217) ? 
+      8    5  Call: _244 is 2-1 ? 
+      8    5  Exit: 1 is 2-1 ? 
+      9    5  Call: factorial(1,_269) ? 
+     10    6  Call: _296 is 1-1 ? 
+     10    6  Exit: 0 is 1-1 ? 
+     11    6  Call: factorial(0,_321) ? 
+     11    6  Exit: factorial(0,1) ? 
+     12    6  Call: _349 is 1*1 ? 
+     12    6  Exit: 1 is 1*1 ? 
+      9    5  Exit: factorial(1,1) ? 
+     13    5  Call: _378 is 2*1 ? 
+     13    5  Exit: 2 is 2*1 ? 
+      7    4  Exit: factorial(2,2) ? 
+     14    4  Call: _407 is 3*2 ? 
+     14    4  Exit: 6 is 3*2 ? 
+      5    3  Exit: factorial(3,6) ? 
+     15    3  Call: _436 is 4*6 ? 
+     15    3  Exit: 24 is 4*6 ? 
+      3    2  Exit: factorial(4,24) ? 
+     16    2  Call: _16 is 5*24 ? 
+     16    2  Exit: 120 is 5*24 ? 
+      1    1  Exit: factorial(5,120) ? 
+
+N = 120
+
+(1 ms) yes
+{trace}
+| ?- 
+
+
+
+
+
+
+bash-3.2$ exit
+
+Script done on Tue Mar  6 21:00:48 2012

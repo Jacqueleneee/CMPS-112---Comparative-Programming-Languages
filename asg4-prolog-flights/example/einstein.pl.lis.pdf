@@ -1,0 +1,621 @@
+%PDF-1.2
+5 0 obj
+<</Length 6 0 R>>
+stream
+q 0.1 0 0 0.1 0 0 cm
+1 i
+0 G
+380 240 5360 7080 re
+S
+0.949219 g
+380 7320 5360 180 re
+f
+0.699219 g
+380 7320 720 360 re
+f
+0 g
+q
+10 0 0 10 0 0 cm BT
+/R9 12 Tf
+1 0 0 1 52.6641 752 Tm
+(03/06/12)Tj
+-0.659766 -12.8004 Td
+(20:58:07)Tj
+ET
+Q
+0.699219 g
+5020 7320 720 360 re
+f
+1 G
+1 g
+q
+10 0 0 10 0 0 cm BT
+/R7 28.8 Tf
+1 0 0 1 529.993 739.2 Tm
+(1)Tj
+ET
+Q
+0 G
+0 g
+q
+10 0 0 10 0 0 cm BT
+/R8 14 Tf
+1 0 0 1 268.663 736.5 Tm
+(einstein.pl.lis)Tj
+-88.3387 18 Td
+($cmps112-wm/Languages/prolog/Examples/)Tj
+/R10 10 Tf
+-112.325 -35.5 Td
+[(1:)-600(Script started on Tue Mar  6 20:57:39 2012)]TJ
+11 TL
+T*[(2:)-600(bash-3.2$ cat -n ein\\007stein.pl)]TJ
+T*[(3:)-600(     1  % $Id: einstein.pl,v 1.3 2011-05-19 19:53:59-07 - - $ */)]TJ
+T*[(4:)-600(     2  )]TJ
+T*[(5:)-600(     3  %)]TJ
+T*[(6:)-600(     4  % -----------------------------------------------------------------)]TJ
+T*[(7:)-600(     5  % )]TJ
+T*[(8:)-600(     6  %                         Einstein's Riddle)]TJ
+T*[(9:)-600(     7  % )]TJ
+-6 -11 Td
+[(10:)-600(     8  % * General Problem:)]TJ
+T*[(11:)-600(     9  %   - There are 5 houses in a row)]TJ
+T*[(12:)-600(    10  %   - Each house is a different color.)]TJ
+T*[(13:)-600(    11  %   - In each house lives a person with a different nationality.)]TJ
+T*[(14:)-600(    12  %   - The 5 owners)]TJ
+T*[(15:)-600(    13  %        + drink a certain type of beverage,)]TJ
+T*[(16:)-600(    14  %        + smoke a certain brand of cigar, and)]TJ
+T*[(17:)-600(    15  %        + keep a certain pet.)]TJ
+T*[(18:)-600(    16  %   - No owners have the same pet, smoke the same brand of cigar or)]TJ
+T*[(19:)-600(    17  %     drink the same beverage.)]TJ
+T*[(20:)-600(    18  % )]TJ
+T*[(21:)-600(    19  % * Specific Facts:)]TJ
+T*[(22:)-600(    20  %   - The Brit lives in the red house.)]TJ
+T*[(23:)-600(    21  %   - The Swede keeps dogs as pets.)]TJ
+T*[(24:)-600(    22  %   - The Dane drinks tea.)]TJ
+T*[(25:)-600(    23  %   - The green house is on the left of the white house.)]TJ
+T*[(26:)-600(    24  %   - The green house's owner drinks coffee.)]TJ
+T*[(27:)-600(    25  %   - The person who smokes Pall Mall rears birds.)]TJ
+T*[(28:)-600(    26  %   - The owner of the yellow house smokes Dunhill.)]TJ
+T*[(29:)-600(    27  %   - The man living in the center house drinks milk.)]TJ
+T*[(30:)-600(    28  %   - The Norwegian lives in the first house.)]TJ
+T*[(31:)-600(    29  %   - The man who smokes Blends lives next to the one who keeps cats.)]TJ
+T*[(32:)-600(    30  %   - The man with the horse lives next to the man who smokes Dunhill.)]TJ
+T*[(33:)-600(    31  %   - The owner who smokes Bluemasters drinks beer.)]TJ
+T*[(34:)-600(    32  %   - The German smokes Prince.)]TJ
+T*[(35:)-600(    33  %   - The Norwegian lives next to the blue house.)]TJ
+T*[(36:)-600(    34  %   - The man who smokes Blends has a neighbor who drinks water.)]TJ
+T*[(37:)-600(    35  % )]TJ
+T*[(38:)-600(    36  % * Question:)]TJ
+T*[(39:)-600(    37  %   - Who owns the fish?)]TJ
+T*[(40:)-600(    38  % )]TJ
+T*[(41:)-600(    39  % -----------------------------------------------------------------)]TJ
+T*[(42:)-600(    40  %)]TJ
+T*[(43:)-600(    41  )]TJ
+ET
+Q
+Q
+endstream
+endobj
+6 0 obj
+3125
+endobj
+14 0 obj
+<</Length 15 0 R>>
+stream
+q 0.1 0 0 0.1 0 0 cm
+0 G
+380 240 5360 7080 re
+S
+0.949219 g
+380 7320 5360 180 re
+f
+0.699219 g
+380 7320 720 360 re
+f
+0 g
+q
+10 0 0 10 0 0 cm BT
+/R9 12 Tf
+1 0 0 1 52.6641 752 Tm
+(03/06/12)Tj
+-0.659766 -12.8004 Td
+(20:58:07)Tj
+ET
+Q
+0.699219 g
+5020 7320 720 360 re
+f
+1 G
+1 g
+q
+10 0 0 10 0 0 cm BT
+/R7 28.8 Tf
+1 0 0 1 529.993 739.2 Tm
+(2)Tj
+ET
+Q
+0 G
+0 g
+q
+10 0 0 10 0 0 cm BT
+/R8 14 Tf
+1 0 0 1 268.663 736.5 Tm
+(einstein.pl.lis)Tj
+-88.3387 18 Td
+($cmps112-wm/Languages/prolog/Examples/)Tj
+/R10 10 Tf
+-118.325 -46.5 Td
+[(44:)-600(    42  %)]TJ
+11 TL
+T*[(45:)-600(    43  % Is the first house in a pair next to the second?)]TJ
+T*[(46:)-600(    44  %/)]TJ
+T*[(47:)-600(    45  left_of\( Left, Right, [Left, Right | _]\).)]TJ
+T*[(48:)-600(    46  left_of\( Left, Right, [_ | Others]\) :- left_of\( Left, Right, Others\).)]TJ
+T*[(49:)-600(    47  )]TJ
+T*[(50:)-600(    48  %)]TJ
+T*[(51:)-600(    49  % Are the two houses in a pair next to each other?)]TJ
+T*[(52:)-600(    50  %/)]TJ
+T*[(53:)-600(    51  next_to\( Left, Right, Houses\) :- left_of\( Left, Right, Houses\).)]TJ
+T*[(54:)-600(    52  next_to\( Left, Right, Houses\) :- left_of\( Right, Left, Houses\).)]TJ
+T*[(55:)-600(    53  )]TJ
+T*[(56:)-600(    54  %)]TJ
+T*[(57:)-600(    55  % Are each of the facts true about the houses?)]TJ
+T*[(58:)-600(    56  %/)]TJ
+T*[(59:)-600(    57  map_member\( [], _\).)]TJ
+T*[(60:)-600(    58  map_member\( [Fact | Facts], Houses\) :-)]TJ
+T*[(61:)-600(    59     member\( Fact, Houses\),)]TJ
+T*[(62:)-600(    60     map_member\( Facts, Houses\).)]TJ
+T*[(63:)-600(    61  )]TJ
+T*[(64:)-600(    62  %)]TJ
+T*[(65:)-600(    63  % Apply each pair of relations \(left_of or next_to\) to the houses.)]TJ
+T*[(66:)-600(    64  %/)]TJ
+T*[(67:)-600(    65  map_pairs\( _, [], _\).)]TJ
+T*[(68:)-600(    66  map_pairs\( Relation, [First, Second | Rest], Houses\) :-)]TJ
+T*[(69:)-600(    67     call_with_args\( Relation, First, Second, Houses\),)]TJ
+T*[(70:)-600(    68     map_pairs\( Relation, Rest, Houses\).)]TJ
+T*[(71:)-600(    69  )]TJ
+ET
+Q
+Q
+endstream
+endobj
+15 0 obj
+2020
+endobj
+18 0 obj
+<</Length 19 0 R>>
+stream
+q 0.1 0 0 0.1 0 0 cm
+0 G
+380 240 5360 7080 re
+S
+0.949219 g
+380 7320 5360 180 re
+f
+0.699219 g
+380 7320 720 360 re
+f
+0 g
+q
+10 0 0 10 0 0 cm BT
+/R9 12 Tf
+1 0 0 1 52.6641 752 Tm
+(03/06/12)Tj
+-0.659766 -12.8004 Td
+(20:58:07)Tj
+ET
+Q
+0.699219 g
+5020 7320 720 360 re
+f
+1 G
+1 g
+q
+10 0 0 10 0 0 cm BT
+/R7 28.8 Tf
+1 0 0 1 529.993 739.2 Tm
+(3)Tj
+ET
+Q
+0 G
+0 g
+q
+10 0 0 10 0 0 cm BT
+/R8 14 Tf
+1 0 0 1 268.663 736.5 Tm
+(einstein.pl.lis)Tj
+-88.3387 18 Td
+($cmps112-wm/Languages/prolog/Examples/)Tj
+/R10 10 Tf
+-118.325 -46.5 Td
+[(72:)-600(    70  %)]TJ
+11 TL
+T*[(73:)-600(    71  % Statement of Einstein's riddle in Prolog.)]TJ
+T*[(74:)-600(    72  %/)]TJ
+T*[(75:)-600(    73  einstein\( Houses, Fish\) :-)]TJ
+T*[(76:)-600(    74     /*        house\( nation   , color , drink , smoke      , pet  \) */)]TJ
+T*[(77:)-600(    75     /*               ---------, ------, ------, -----------, -----  */)]TJ
+T*[(78:)-600(    76     Houses = [house\( norwegian, _     , _     , _          , _    \),)]TJ
+T*[(79:)-600(    77               _,)]TJ
+T*[(80:)-600(    78               house\( _        , _     , milk  , _          , _    \),)]TJ
+T*[(81:)-600(    79               _,)]TJ
+T*[(82:)-600(    80               _)]TJ
+T*[(83:)-600(    81     ],)]TJ
+T*[(84:)-600(    82     Facts =  [house\( brit     , red   , _     , _          , _    \),)]TJ
+T*[(85:)-600(    83               house\( swede    , _     , _     , _          , dogs \),)]TJ
+T*[(86:)-600(    84               house\( dane     , _     , tea   , _          , _    \),)]TJ
+T*[(87:)-600(    85               house\( _        , green , coffee, _          , _    \),)]TJ
+T*[(88:)-600(    86               house\( _        , _     , _     , pallmall   , birds\),)]TJ
+T*[(89:)-600(    87               house\( _        , yellow, _     , dunhill    , _    \),)]TJ
+T*[(90:)-600(    88               house\( _        , _     , beer  , bluemasters, _    \),)]TJ
+T*[(91:)-600(    89               house\( german   , _     , _     , prince     , _    \),)]TJ
+T*[(92:)-600(    90               house\( Fish     , _     , _     , _          , fish \))]TJ
+T*[(93:)-600(    91     ],)]TJ
+T*[(94:)-600(    92     Left =   [house\( _        , green , _     , _          , _    \),)]TJ
+T*[(95:)-600(    93               house\( _        , white , _     , _          , _    \))]TJ
+T*[(96:)-600(    94     ],)]TJ
+T*[(97:)-600(    95     Next =   [house\( _        , _     , _     , blends     , _    \),)]TJ
+T*[(98:)-600(    96               house\( _        , _     , _     , _          , cats \),)]TJ
+T*[(99:)-600(    97               house\( _        , _     , _     , _          , horse\),)]TJ
+-6 -11 Td
+[(100:)-600(    98               house\( _        , _     , _     , dunhill    , _    \),)]TJ
+T*[(101:)-600(    99               house\( norwegian, _     , _     , _          , _    \),)]TJ
+T*[(102:)-600(   100               house\( _        , blue  , _     , _          , _    \),)]TJ
+T*[(103:)-600(   101               house\( _        , _     , _     , blends     , _    \),)]TJ
+T*[(104:)-600(   102               house\( _        , _     , water , _          , _    \))]TJ
+T*[(105:)-600(   103     ],)]TJ
+T*[(106:)-600(   104     map_member\( Facts, Houses\),)]TJ
+T*[(107:)-600(   105     map_pairs\( left_of, Left, Houses\),)]TJ
+T*[(108:)-600(   106     map_pairs\( next_to, Next, Houses\).)]TJ
+T*[(109:)-600(   107  )]TJ
+ET
+Q
+Q
+endstream
+endobj
+19 0 obj
+3362
+endobj
+22 0 obj
+<</Length 23 0 R>>
+stream
+q 0.1 0 0 0.1 0 0 cm
+0 G
+380 240 5360 7080 re
+S
+0.949219 g
+380 7320 5360 180 re
+f
+0.699219 g
+380 7320 720 360 re
+f
+0 g
+q
+10 0 0 10 0 0 cm BT
+/R9 12 Tf
+1 0 0 1 52.6641 752 Tm
+(03/06/12)Tj
+-0.659766 -12.8004 Td
+(20:58:07)Tj
+ET
+Q
+0.699219 g
+5020 7320 720 360 re
+f
+1 G
+1 g
+q
+10 0 0 10 0 0 cm BT
+/R7 28.8 Tf
+1 0 0 1 529.993 739.2 Tm
+(4)Tj
+ET
+Q
+0 G
+0 g
+q
+10 0 0 10 0 0 cm BT
+/R8 14 Tf
+1 0 0 1 268.663 736.5 Tm
+(einstein.pl.lis)Tj
+-88.3387 18 Td
+($cmps112-wm/Languages/prolog/Examples/)Tj
+/R10 10 Tf
+-124.325 -46.5 Td
+[(110:)-600(   108  %)]TJ
+11 TL
+T*[(111:)-600(   109  % Code to print out the answer to the riddle.)]TJ
+T*[(112:)-600(   110  %/)]TJ
+T*[(113:)-600(   111  )]TJ
+T*[(114:)-600(   112  riddle :-)]TJ
+T*[(115:)-600(   113     einstein\( Houses, Fish\),)]TJ
+T*[(116:)-600(   114     write_houses\( Houses\), nl,)]TJ
+T*[(117:)-600(   115     write_fish\( Fish\), nl,)]TJ
+T*[(118:)-600(   116     write\( '--------------------------------------------------'\),)]TJ
+T*[(119:)-600(   117     nl, nl.)]TJ
+T*[(120:)-600(   118  )]TJ
+T*[(121:)-600(   119  write_fish\( Fish\) :-)]TJ
+T*[(122:)-600(   120     write\( 'The '\), write\( Fish\), write\( ' owns the fish.'\), nl.)]TJ
+T*[(123:)-600(   121  )]TJ
+T*[(124:)-600(   122  write_houses\( []\).)]TJ
+T*[(125:)-600(   123  write_houses\( [House | Houses]\) :-)]TJ
+T*[(126:)-600(   124     write_house\( House\),)]TJ
+T*[(127:)-600(   125     write_houses\( Houses\).)]TJ
+T*[(128:)-600(   126  )]TJ
+T*[(129:)-600(   127  write_house\( house\( Nation, Color, Drink, Smoke, Pet\)\) :-)]TJ
+T*[(130:)-600(   128     write_label\( 'House', Nation, comma\),)]TJ
+T*[(131:)-600(   129     write_label\( 'Color', Color, comma\),)]TJ
+T*[(132:)-600(   130     write_label\( 'Drink', Drink, comma\),)]TJ
+T*[(133:)-600(   131     write_label\( 'Smoke', Smoke, comma\),)]TJ
+T*[(134:)-600(   132     write_label\( 'Pet', Pet, period\).)]TJ
+T*[(135:)-600(   133  )]TJ
+T*[(136:)-600(   134  write_label\( Label, Object, Punct\) :-)]TJ
+T*[(137:)-600(   135     write\( Label\), write\( ': '\), write\( Object\), call\( Punct\).)]TJ
+T*[(138:)-600(   136  )]TJ
+T*[(139:)-600(   137  comma :- write\( ', '\).)]TJ
+T*[(140:)-600(   138  period :- write\( '.'\), nl.)]TJ
+T*[(141:)-600(   139  )]TJ
+T*[(142:)-600(   140  %)]TJ
+T*[(143:)-600(   141  % Automatically print out the answer to the riddle.)]TJ
+T*[(144:)-600(   142  %/)]TJ
+T*[(145:)-600(   143  )]TJ
+T*[(146:)-600(   144  % TEST: riddle.)]TJ
+T*[(147:)-600(   145  )]TJ
+T*[(148:)-600(bash-3.2$ gprolog)]TJ
+T*[(149:)-600(GNU Prolog 1.3.1)]TJ
+T*[(150:)-600(By Daniel Diaz)]TJ
+T*[(151:)-600(Copyright \(C\) 1999-2009 Daniel Diaz)]TJ
+T*[(152:)-600(| ?- [einstein])]TJ
+60 0 Td
+([einstein].)Tj
+-60 -11 Td
+[(153:)-600(compiling /afs/cats.ucsc.edu/courses/cmps112-wm/Languages/prolog/Examples/einste)]TJ
+-13 -11 Td
+(in.pl for byte code...)Tj
+13 -11 Td
+[(154:)-600(/afs/cats.ucsc.edu/courses/cmps112-wm/Languages/prolog/Examples/einstein.pl comp)]TJ
+-13 -11 Td
+(iled, 145 lines read - 9165 bytes written, 10 ms)Tj
+13 -11 Td
+(155:)Tj
+T*[(156:)-600(yes)]TJ
+T*[(157:)-600(| ?- riddle.)]TJ
+T*[(158:)-600(House: norwegian, Color: yellow, Drink: water, Smoke: dunhill, Pet: cats.)]TJ
+T*[(159:)-600(House: dane, Color: blue, Drink: tea, Smoke: blends, Pet: horse.)]TJ
+T*[(160:)-600(House: brit, Color: red, Drink: milk, Smoke: pallmall, Pet: birds.)]TJ
+T*[(161:)-600(House: german, Color: green, Drink: coffee, Smoke: prince, Pet: fish.)]TJ
+T*[(162:)-600(House: swede, Color: white, Drink: beer, Smoke: bluemasters, Pet: dogs.)]TJ
+(163:)'
+T*[(164:)-600(The german owns the fish.)]TJ
+(165:)'
+T*[(166:)-600(--------------------------------------------------)]TJ
+(167:)'
+(168:)'
+T*[(169:)-600(true ? )]TJ
+(170:)'
+ET
+Q
+Q
+endstream
+endobj
+23 0 obj
+3684
+endobj
+26 0 obj
+<</Length 27 0 R>>
+stream
+q 0.1 0 0 0.1 0 0 cm
+0 G
+380 240 5360 7080 re
+S
+0.949219 g
+380 7320 5360 180 re
+f
+0.699219 g
+380 7320 720 360 re
+f
+0 g
+q
+10 0 0 10 0 0 cm BT
+/R9 12 Tf
+1 0 0 1 52.6641 752 Tm
+(03/06/12)Tj
+-0.659766 -12.8004 Td
+(20:58:07)Tj
+ET
+Q
+0.699219 g
+5020 7320 720 360 re
+f
+1 G
+1 g
+q
+10 0 0 10 0 0 cm BT
+/R7 28.8 Tf
+1 0 0 1 529.993 739.2 Tm
+(5)Tj
+ET
+Q
+0 G
+0 g
+q
+10 0 0 10 0 0 cm BT
+/R8 14 Tf
+1 0 0 1 268.663 736.5 Tm
+(einstein.pl.lis)Tj
+-88.3387 18 Td
+($cmps112-wm/Languages/prolog/Examples/)Tj
+/R10 10 Tf
+-124.325 -35.5 Td
+[(171:)-600(\(1 ms\) yes)]TJ
+11 TL
+T*[(172:)-600(| ?- )]TJ
+(173:)'
+T*[(174:)-600(bash-3.2$ exit)]TJ
+(175:)'
+T*[(176:)-600(Script done on Tue Mar  6 20:58:07 2012)]TJ
+ET
+Q
+Q
+endstream
+endobj
+27 0 obj
+684
+endobj
+4 0 obj
+<</Type/Page/MediaBox [0 0 612 792]
+/Parent 3 0 R
+/Resources<</ProcSet[/PDF /Text]
+/Font 12 0 R
+>>
+/Contents 5 0 R
+>>
+endobj
+13 0 obj
+<</Type/Page/MediaBox [0 0 612 792]
+/Parent 3 0 R
+/Resources<</ProcSet[/PDF /Text]
+/Font 16 0 R
+>>
+/Contents 14 0 R
+>>
+endobj
+17 0 obj
+<</Type/Page/MediaBox [0 0 612 792]
+/Parent 3 0 R
+/Resources<</ProcSet[/PDF /Text]
+/Font 20 0 R
+>>
+/Contents 18 0 R
+>>
+endobj
+21 0 obj
+<</Type/Page/MediaBox [0 0 612 792]
+/Parent 3 0 R
+/Resources<</ProcSet[/PDF /Text]
+/Font 24 0 R
+>>
+/Contents 22 0 R
+>>
+endobj
+25 0 obj
+<</Type/Page/MediaBox [0 0 612 792]
+/Parent 3 0 R
+/Resources<</ProcSet[/PDF /Text]
+/Font 28 0 R
+>>
+/Contents 26 0 R
+>>
+endobj
+3 0 obj
+<< /Type /Pages /Kids [
+4 0 R
+13 0 R
+17 0 R
+21 0 R
+25 0 R
+] /Count 5
+>>
+endobj
+1 0 obj
+<</Type /Catalog /Pages 3 0 R
+>>
+endobj
+12 0 obj
+<</R8
+8 0 R/R10
+10 0 R/R7
+7 0 R/R9
+9 0 R/R11
+11 0 R>>
+endobj
+16 0 obj
+<</R8
+8 0 R/R10
+10 0 R/R7
+7 0 R/R9
+9 0 R>>
+endobj
+20 0 obj
+<</R8
+8 0 R/R10
+10 0 R/R7
+7 0 R/R9
+9 0 R>>
+endobj
+24 0 obj
+<</R8
+8 0 R/R10
+10 0 R/R7
+7 0 R/R9
+9 0 R>>
+endobj
+28 0 obj
+<</R8
+8 0 R/R10
+10 0 R/R7
+7 0 R/R9
+9 0 R>>
+endobj
+8 0 obj
+<</BaseFont/Times-Roman/Type/Font
+/Subtype/Type1>>
+endobj
+10 0 obj
+<</BaseFont/Courier/Type/Font
+/Subtype/Type1>>
+endobj
+7 0 obj
+<</BaseFont/Helvetica-Bold/Type/Font
+/Subtype/Type1>>
+endobj
+9 0 obj
+<</BaseFont/Times-Bold/Type/Font
+/Subtype/Type1>>
+endobj
+11 0 obj
+<</BaseFont/Courier-Bold/Type/Font
+/Subtype/Type1>>
+endobj
+2 0 obj
+<</Producer(ESP Ghostscript 815.02)
+/CreationDate(D:20120306211105)
+/ModDate(D:20120306211105)>>endobj
+xref
+0 29
+0000000000 65535 f 
+0000014005 00000 n 
+0000014690 00000 n 
+0000013918 00000 n 
+0000013245 00000 n 
+0000000009 00000 n 
+0000003184 00000 n 
+0000014488 00000 n 
+0000014359 00000 n 
+0000014557 00000 n 
+0000014425 00000 n 
+0000014622 00000 n 
+0000014053 00000 n 
+0000013378 00000 n 
+0000003204 00000 n 
+0000005276 00000 n 
+0000014123 00000 n 
+0000013513 00000 n 
+0000005297 00000 n 
+0000008711 00000 n 
+0000014182 00000 n 
+0000013648 00000 n 
+0000008732 00000 n 
+0000012468 00000 n 
+0000014241 00000 n 
+0000013783 00000 n 
+0000012489 00000 n 
+0000013225 00000 n 
+0000014300 00000 n 
+trailer
+<< /Size 29 /Root 1 0 R /Info 2 0 R
+/ID [<ACA6D045584E3B91067A60FAD15E51A8><ACA6D045584E3B91067A60FAD15E51A8>]
+>>
+startxref
+14801
+%%EOF

@@ -1,0 +1,165 @@
+%PDF-1.2
+5 0 obj
+<</Length 6 0 R>>
+stream
+q 0.1 0 0 0.1 0 0 cm
+1 i
+0 G
+380 240 5360 7080 re
+S
+0.949219 g
+380 7320 5360 180 re
+f
+0.699219 g
+380 7320 720 360 re
+f
+0 g
+q
+10 0 0 10 0 0 cm BT
+/R9 12 Tf
+1 0 0 1 52.6641 752 Tm
+(03/06/12)Tj
+-0.659766 -12.8004 Td
+(21:09:59)Tj
+ET
+Q
+0.699219 g
+5020 7320 720 360 re
+f
+1 G
+1 g
+q
+10 0 0 10 0 0 cm BT
+/R7 28.8 Tf
+1 0 0 1 529.993 739.2 Tm
+(1)Tj
+ET
+Q
+0 G
+0 g
+q
+10 0 0 10 0 0 cm BT
+/R8 14 Tf
+1 0 0 1 260.032 736.5 Tm
+(helloworld.pl.lis)Tj
+-79.7074 18 Td
+($cmps112-wm/Languages/prolog/Examples/)Tj
+/R10 10 Tf
+-112.325 -35.5 Td
+[(1:)-600(Script started on Tue Mar  6 21:09:45 2012)]TJ
+11 TL
+T*[(2:)-600(bash-3.2$ cat -n he\\007lloworld.pl)]TJ
+T*[(3:)-600(     1  % $Id: helloworld.pl,v 1.3 2011-05-19 19:53:59-07 - - $ */)]TJ
+T*[(4:)-600(     2  )]TJ
+T*[(5:)-600(     3  hello :-)]TJ
+T*[(6:)-600(     4     write\( 'Hello, World!' \), nl.)]TJ
+T*[(7:)-600(     5  )]TJ
+T*[(8:)-600(bash-3.2$ gprolog)]TJ
+T*[(9:)-600(GNU Prolog 1.3.1)]TJ
+-6 -11 Td
+[(10:)-600(By Daniel Diaz)]TJ
+T*[(11:)-600(Copyright \(C\) 1999-2009 Daniel Diaz)]TJ
+T*[(12:)-600(| ?- [helloworld])]TJ
+54 0 Td
+([helloworld].)Tj
+-54 -11 Td
+[(13:)-600(compiling /afs/cats.ucsc.edu/courses/cmps112-wm/Languages/prolog/Examples/hellow)]TJ
+-19 -11 Td
+(orld.pl for byte code...)Tj
+19 -11 Td
+[(14:)-600(/afs/cats.ucsc.edu/courses/cmps112-wm/Languages/prolog/Examples/helloworld.pl co)]TJ
+-19 -11 Td
+(mpiled, 5 lines read - 472 bytes written, 10 ms)Tj
+19 -11 Td
+(15:)Tj
+T*[(16:)-600(yes)]TJ
+T*[(17:)-600(| ?- hello.)]TJ
+T*[(18:)-600(Hello, World!)]TJ
+(19:)'
+T*[(20:)-600(yes)]TJ
+T*[(21:)-600(| ?- )]TJ
+(22:)'
+T*[(23:)-600(bash-3.2$ exit)]TJ
+(24:)'
+T*[(25:)-600(Script done on Tue Mar  6 21:09:59 2012)]TJ
+ET
+Q
+Q
+endstream
+endobj
+6 0 obj
+1656
+endobj
+4 0 obj
+<</Type/Page/MediaBox [0 0 612 792]
+/Parent 3 0 R
+/Resources<</ProcSet[/PDF /Text]
+/Font 12 0 R
+>>
+/Contents 5 0 R
+>>
+endobj
+3 0 obj
+<< /Type /Pages /Kids [
+4 0 R
+] /Count 1
+>>
+endobj
+1 0 obj
+<</Type /Catalog /Pages 3 0 R
+>>
+endobj
+12 0 obj
+<</R8
+8 0 R/R10
+10 0 R/R7
+7 0 R/R9
+9 0 R/R11
+11 0 R>>
+endobj
+8 0 obj
+<</BaseFont/Times-Roman/Type/Font
+/Subtype/Type1>>
+endobj
+10 0 obj
+<</BaseFont/Courier/Type/Font
+/Subtype/Type1>>
+endobj
+7 0 obj
+<</BaseFont/Helvetica-Bold/Type/Font
+/Subtype/Type1>>
+endobj
+9 0 obj
+<</BaseFont/Times-Bold/Type/Font
+/Subtype/Type1>>
+endobj
+11 0 obj
+<</BaseFont/Courier-Bold/Type/Font
+/Subtype/Type1>>
+endobj
+2 0 obj
+<</Producer(ESP Ghostscript 815.02)
+/CreationDate(D:20120306211105)
+/ModDate(D:20120306211105)>>endobj
+xref
+0 13
+0000000000 65535 f 
+0000001927 00000 n 
+0000002376 00000 n 
+0000001868 00000 n 
+0000001735 00000 n 
+0000000009 00000 n 
+0000001715 00000 n 
+0000002174 00000 n 
+0000002045 00000 n 
+0000002243 00000 n 
+0000002111 00000 n 
+0000002308 00000 n 
+0000001975 00000 n 
+trailer
+<< /Size 13 /Root 1 0 R /Info 2 0 R
+/ID [<7A4D1F3ADD6DE4763CB73CB399CA5C25><7A4D1F3ADD6DE4763CB73CB399CA5C25>]
+>>
+startxref
+2487
+%%EOF

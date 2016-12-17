@@ -1,0 +1,56 @@
+bash-1$ gprolog
+GNU Prolog 1.4.4 (64 bits)
+Compiled Nov  6 2014, 18:04:28 with gcc
+By Daniel Diaz
+Copyright (C) 1999-2013 Daniel Diaz
+| ?- [euclid][euclid].
+compiling /afs/cats.ucsc.edu/courses/cmps112-wm/Languages/prolog/Examples/euclid.pl for byte code...
+/afs/cats.ucsc.edu/courses/cmps112-wm/Languages/prolog/Examples/euclid.pl compiled, 16 lines read - 1402 bytes written, 27 ms
+
+(1 ms) yes
+| ?- trace.
+The debugger will first creep -- showing everything (trace)
+
+yes
+{trace}
+| ?- gcd( 111, 259, G )( 111, 259, G ).
+      1    1  Call: gcd(111,259,_23) ? 
+      2    2  Call: 111>259 ? 
+      2    2  Fail: 111>259 ? 
+      2    2  Call: 111<259 ? 
+      2    2  Exit: 111<259 ? 
+      3    2  Call: _121 is 259-111 ? 
+      3    2  Exit: 148 is 259-111 ? 
+      4    2  Call: gcd(111,148,_23) ? 
+      5    3  Call: 111>148 ? 
+      5    3  Fail: 111>148 ? 
+      5    3  Call: 111<148 ? 
+      5    3  Exit: 111<148 ? 
+      6    3  Call: _199 is 148-111 ? 
+      6    3  Exit: 37 is 148-111 ? 
+      7    3  Call: gcd(111,37,_23) ? 
+      8    4  Call: 111>37 ? 
+      8    4  Exit: 111>37 ? 
+      9    4  Call: _277 is 111-37 ? 
+      9    4  Exit: 74 is 111-37 ? 
+     10    4  Call: gcd(74,37,_23) ? 
+     11    5  Call: 74>37 ? 
+     11    5  Exit: 74>37 ? 
+     12    5  Call: _355 is 74-37 ? 
+     12    5  Exit: 37 is 74-37 ? 
+     13    5  Call: gcd(37,37,_23) ? 
+     14    6  Call: 37>37 ? 
+     14    6  Fail: 37>37 ? 
+     14    6  Call: 37<37 ? 
+     14    6  Fail: 37<37 ? 
+     13    5  Exit: gcd(37,37,37) ? 
+     10    4  Exit: gcd(74,37,37) ? 
+      7    3  Exit: gcd(111,37,37) ? 
+      4    2  Exit: gcd(111,148,37) ? 
+      1    1  Exit: gcd(111,259,37) ? 
+
+G = 37 ? 
+
+(1 ms) yes
+{trace}
+| ?- 

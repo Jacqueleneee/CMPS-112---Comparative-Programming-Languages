@@ -1,0 +1,58 @@
+Script started on Thu 10 Nov 2016 05:23:55 PM PST
+bash-1$ cat -n functions.pl
+     1	% $Id: functions.pl,v 1.3 2016-11-08 15:04:13-08 - - $
+     2	
+     3	mathfns( X, List ) :-
+     4	   S is sin( X ),
+     5	   C is cos( X ),
+     6	   Q is sqrt( X ),
+     7	   List = [S, C, Q].
+     8	
+     9	constants( List ) :-
+    10	   Pi is pi,
+    11	   E is e,
+    12	   Epsilon is epsilon,
+    13	   List = [Pi, E, Epsilon].
+    14	
+    15	sincos( X, Y ) :-
+    16	   Y is sin( X ) ** 2 + cos( X ) ** 2.
+    17	
+    18	haversine_radians( Lat1, Lon1, Lat2, Lon2, Distance ) :-
+    19	   Dlon is Lon2 - Lon1,
+    20	   Dlat is Lat2 - Lat1,
+    21	   A is sin( Dlat / 2 ) ** 2
+    22	      + cos( Lat1 ) * cos( Lat2 ) * sin( Dlon / 2 ) ** 2,
+    23	   Dist is 2 * atan2( sqrt( A ), sqrt( 1 - A )),
+    24	   Distance is Dist * 3961.
+    25	
+bash-2$ gprolog
+GNU Prolog 1.4.4 (64 bits)
+Compiled Nov  6 2014, 18:04:28 with gcc
+By Daniel Diaz
+Copyright (C) 1999-2013 Daniel Diaz
+| ?- [functions][functions].
+compiling /afs/cats.ucsc.edu/courses/cmps112-wm/Languages/prolog/Examples/functions.pl for byte code...
+/afs/cats.ucsc.edu/courses/cmps112-wm/Languages/prolog/Examples/functions.pl compiled, 25 lines read - 3889 bytes written, 7 ms
+
+(2 ms) yes
+| ?- mathfns(1.57,List).
+
+List = [0.99999968293183461,0.00079632671073326335,1.2529964086141667]
+
+yes
+| ?- constants(L).
+
+L = [3.1415926535897931,2.7182818284590451,2.2204460492503131e-16]
+
+yes
+| ?- haversine_radians(1.5,2.3,7.8,9.7,Dist).
+
+Dist = 267.77679396961707
+
+yes
+| ?- 
+
+bash-3$ exit
+exit
+
+Script done on Thu 10 Nov 2016 05:25:09 PM PST

@@ -1,0 +1,176 @@
+Script started on Tue Mar  6 20:57:39 2012
+bash-3.2$ cat -n einstein.pl
+     1	% $Id: einstein.pl,v 1.3 2011-05-19 19:53:59-07 - - $ */
+     2	
+     3	%
+     4	% -----------------------------------------------------------------
+     5	% 
+     6	%                         Einstein's Riddle
+     7	% 
+     8	% * General Problem:
+     9	%   - There are 5 houses in a row
+    10	%   - Each house is a different color.
+    11	%   - In each house lives a person with a different nationality.
+    12	%   - The 5 owners
+    13	%        + drink a certain type of beverage,
+    14	%        + smoke a certain brand of cigar, and
+    15	%        + keep a certain pet.
+    16	%   - No owners have the same pet, smoke the same brand of cigar or
+    17	%     drink the same beverage.
+    18	% 
+    19	% * Specific Facts:
+    20	%   - The Brit lives in the red house.
+    21	%   - The Swede keeps dogs as pets.
+    22	%   - The Dane drinks tea.
+    23	%   - The green house is on the left of the white house.
+    24	%   - The green house's owner drinks coffee.
+    25	%   - The person who smokes Pall Mall rears birds.
+    26	%   - The owner of the yellow house smokes Dunhill.
+    27	%   - The man living in the center house drinks milk.
+    28	%   - The Norwegian lives in the first house.
+    29	%   - The man who smokes Blends lives next to the one who keeps cats.
+    30	%   - The man with the horse lives next to the man who smokes Dunhill.
+    31	%   - The owner who smokes Bluemasters drinks beer.
+    32	%   - The German smokes Prince.
+    33	%   - The Norwegian lives next to the blue house.
+    34	%   - The man who smokes Blends has a neighbor who drinks water.
+    35	% 
+    36	% * Question:
+    37	%   - Who owns the fish?
+    38	% 
+    39	% -----------------------------------------------------------------
+    40	%
+    41	
+    42	%
+    43	% Is the first house in a pair next to the second?
+    44	%/
+    45	left_of( Left, Right, [Left, Right | _]).
+    46	left_of( Left, Right, [_ | Others]) :- left_of( Left, Right, Others).
+    47	
+    48	%
+    49	% Are the two houses in a pair next to each other?
+    50	%/
+    51	next_to( Left, Right, Houses) :- left_of( Left, Right, Houses).
+    52	next_to( Left, Right, Houses) :- left_of( Right, Left, Houses).
+    53	
+    54	%
+    55	% Are each of the facts true about the houses?
+    56	%/
+    57	map_member( [], _).
+    58	map_member( [Fact | Facts], Houses) :-
+    59	   member( Fact, Houses),
+    60	   map_member( Facts, Houses).
+    61	
+    62	%
+    63	% Apply each pair of relations (left_of or next_to) to the houses.
+    64	%/
+    65	map_pairs( _, [], _).
+    66	map_pairs( Relation, [First, Second | Rest], Houses) :-
+    67	   call_with_args( Relation, First, Second, Houses),
+    68	   map_pairs( Relation, Rest, Houses).
+    69	
+    70	%
+    71	% Statement of Einstein's riddle in Prolog.
+    72	%/
+    73	einstein( Houses, Fish) :-
+    74	   /*        house( nation   , color , drink , smoke      , pet  ) */
+    75	   /*               ---------, ------, ------, -----------, -----  */
+    76	   Houses = [house( norwegian, _     , _     , _          , _    ),
+    77	             _,
+    78	             house( _        , _     , milk  , _          , _    ),
+    79	             _,
+    80	             _
+    81	   ],
+    82	   Facts =  [house( brit     , red   , _     , _          , _    ),
+    83	             house( swede    , _     , _     , _          , dogs ),
+    84	             house( dane     , _     , tea   , _          , _    ),
+    85	             house( _        , green , coffee, _          , _    ),
+    86	             house( _        , _     , _     , pallmall   , birds),
+    87	             house( _        , yellow, _     , dunhill    , _    ),
+    88	             house( _        , _     , beer  , bluemasters, _    ),
+    89	             house( german   , _     , _     , prince     , _    ),
+    90	             house( Fish     , _     , _     , _          , fish )
+    91	   ],
+    92	   Left =   [house( _        , green , _     , _          , _    ),
+    93	             house( _        , white , _     , _          , _    )
+    94	   ],
+    95	   Next =   [house( _        , _     , _     , blends     , _    ),
+    96	             house( _        , _     , _     , _          , cats ),
+    97	             house( _        , _     , _     , _          , horse),
+    98	             house( _        , _     , _     , dunhill    , _    ),
+    99	             house( norwegian, _     , _     , _          , _    ),
+   100	             house( _        , blue  , _     , _          , _    ),
+   101	             house( _        , _     , _     , blends     , _    ),
+   102	             house( _        , _     , water , _          , _    )
+   103	   ],
+   104	   map_member( Facts, Houses),
+   105	   map_pairs( left_of, Left, Houses),
+   106	   map_pairs( next_to, Next, Houses).
+   107	
+   108	%
+   109	% Code to print out the answer to the riddle.
+   110	%/
+   111	
+   112	riddle :-
+   113	   einstein( Houses, Fish),
+   114	   write_houses( Houses), nl,
+   115	   write_fish( Fish), nl,
+   116	   write( '--------------------------------------------------'),
+   117	   nl, nl.
+   118	
+   119	write_fish( Fish) :-
+   120	   write( 'The '), write( Fish), write( ' owns the fish.'), nl.
+   121	
+   122	write_houses( []).
+   123	write_houses( [House | Houses]) :-
+   124	   write_house( House),
+   125	   write_houses( Houses).
+   126	
+   127	write_house( house( Nation, Color, Drink, Smoke, Pet)) :-
+   128	   write_label( 'House', Nation, comma),
+   129	   write_label( 'Color', Color, comma),
+   130	   write_label( 'Drink', Drink, comma),
+   131	   write_label( 'Smoke', Smoke, comma),
+   132	   write_label( 'Pet', Pet, period).
+   133	
+   134	write_label( Label, Object, Punct) :-
+   135	   write( Label), write( ': '), write( Object), call( Punct).
+   136	
+   137	comma :- write( ', ').
+   138	period :- write( '.'), nl.
+   139	
+   140	%
+   141	% Automatically print out the answer to the riddle.
+   142	%/
+   143	
+   144	% TEST: riddle.
+   145	
+bash-3.2$ gprolog
+GNU Prolog 1.3.1
+By Daniel Diaz
+Copyright (C) 1999-2009 Daniel Diaz
+| ?- [einstein][einstein].
+compiling /afs/cats.ucsc.edu/courses/cmps112-wm/Languages/prolog/Examples/einstein.pl for byte code...
+/afs/cats.ucsc.edu/courses/cmps112-wm/Languages/prolog/Examples/einstein.pl compiled, 145 lines read - 9165 bytes written, 10 ms
+
+yes
+| ?- riddle.
+House: norwegian, Color: yellow, Drink: water, Smoke: dunhill, Pet: cats.
+House: dane, Color: blue, Drink: tea, Smoke: blends, Pet: horse.
+House: brit, Color: red, Drink: milk, Smoke: pallmall, Pet: birds.
+House: german, Color: green, Drink: coffee, Smoke: prince, Pet: fish.
+House: swede, Color: white, Drink: beer, Smoke: bluemasters, Pet: dogs.
+
+The german owns the fish.
+
+--------------------------------------------------
+
+
+true ? 
+
+(1 ms) yes
+| ?- 
+
+bash-3.2$ exit
+
+Script done on Tue Mar  6 20:58:07 2012

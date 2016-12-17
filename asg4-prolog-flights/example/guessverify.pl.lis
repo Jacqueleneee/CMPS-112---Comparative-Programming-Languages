@@ -1,0 +1,101 @@
+Script started on Thu Mar 15 13:32:29 2012
+bash-3.2$ cat -n guessverify.pl
+     1	% $Id: guessverify.pl,v 1.4 2012-03-15 13:31:34-07 - - $
+     2	
+     3	%
+     4	% Illustrate guess and verify style.
+     5	% We have a set of numbers and we want to find all pairs
+     6	% where the first number is greater than the second.
+     7	%
+     8	
+     9	a_number( 1.41421356237309504880).
+    10	a_number( 2.5).
+    11	a_number( 2.7182818284590452354).
+    12	a_number( 3.14159265358979323846).
+    13	a_number( 6.02e23).
+    14	a_number( 8).
+    15	
+    16	guess( X, Y) :- a_number( X), a_number( Y).
+    17	
+    18	verify( X, Y) :- X > Y.
+    19	
+    20	getpair( X, Y) :- guess( X, Y), verify( X, Y).
+    21	
+    22	% TEST: getpair( X, Y).
+    23	% TEST: ;
+    24	% TEST: ;
+    25	% TEST: ;
+    26	% TEST: ;
+    27	% TEST: ;
+    28	% TEST: ;
+    29	% TEST: ;
+    30	% TEST: ;
+    31	% TEST: ;
+    32	% TEST: ;
+    33	% TEST: ;
+bash-3.2$ gprolog
+GNU Prolog 1.3.1
+By Daniel Diaz
+Copyright (C) 1999-2009 Daniel Diaz
+| ?- [guessverify][guessverify].
+compiling /afs/cats.ucsc.edu/courses/cmps112-wm/Languages/prolog/Examples/guessverify.pl for byte code...
+/afs/cats.ucsc.edu/courses/cmps112-wm/Languages/prolog/Examples/guessverify.pl compiled, 33 lines read - 1454 bytes written, 10 ms
+
+yes
+| ?- getpair( A, B)( A, B).
+
+A = 2.5
+B = 1.4142135623730951 ? ;
+
+A = 2.7182818284590451
+B = 1.4142135623730951 ? ;
+
+A = 2.7182818284590451
+B = 2.5 ? ;
+
+A = 3.1415926535897931
+B = 1.4142135623730951 ? ;
+
+A = 3.1415926535897931
+B = 2.5 ? ;
+
+A = 3.1415926535897931
+B = 2.7182818284590451 ? ;
+
+A = 6.02e+23
+B = 1.4142135623730951 ? ;
+
+A = 6.02e+23
+B = 2.5 ? ;
+
+A = 6.02e+23
+B = 2.7182818284590451 ? ;
+
+A = 6.02e+23
+B = 3.1415926535897931 ? ;
+
+A = 6.02e+23
+B = 8 ? ;
+
+A = 8
+B = 1.4142135623730951 ? ;
+
+A = 8
+B = 2.5 ? ;
+
+A = 8
+B = 2.7182818284590451 ? ;
+
+A = 8
+B = 3.1415926535897931 ? ;
+
+no
+| ?- ;;
+.
+uncaught exception: error(syntax_error('user_input:3 (char:17) previous operator needs brackets'),read_term/3)
+| ?- 
+
+bash-3.2$ exit
+exit
+
+Script done on Thu Mar 15 13:33:27 2012

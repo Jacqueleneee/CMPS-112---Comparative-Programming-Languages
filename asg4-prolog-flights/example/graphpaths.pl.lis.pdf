@@ -1,0 +1,319 @@
+%PDF-1.2
+5 0 obj
+<</Length 6 0 R>>
+stream
+q 0.1 0 0 0.1 0 0 cm
+1 i
+0 G
+380 240 5360 7080 re
+S
+0.949219 g
+380 7320 5360 180 re
+f
+0.699219 g
+380 7320 720 360 re
+f
+0 g
+q
+10 0 0 10 0 0 cm BT
+/R9 12 Tf
+1 0 0 1 52.6641 752 Tm
+(03/06/12)Tj
+-0.659766 -12.8004 Td
+(21:03:05)Tj
+ET
+Q
+0.699219 g
+5020 7320 720 360 re
+f
+1 G
+1 g
+q
+10 0 0 10 0 0 cm BT
+/R7 28.8 Tf
+1 0 0 1 529.993 739.2 Tm
+(1)Tj
+ET
+Q
+0 G
+0 g
+q
+10 0 0 10 0 0 cm BT
+/R8 14 Tf
+1 0 0 1 259.647 736.5 Tm
+(graphpaths.pl.lis)Tj
+-79.3223 18 Td
+($cmps112-wm/Languages/prolog/Examples/)Tj
+/R10 10 Tf
+-112.325 -35.5 Td
+[(1:)-600(Script started on Tue Mar  6 21:02:25 2012)]TJ
+11 TL
+T*[(2:)-600(bash-3.2$ cat -n gr\\007aphpaths.pl)]TJ
+T*[(3:)-600(     1  % $Id: graphpaths.pl,v 1.3 2011-05-19 19:53:59-07 - - $ */)]TJ
+T*[(4:)-600(     2  )]TJ
+T*[(5:)-600(     3  %)]TJ
+T*[(6:)-600(     4  % Define the links in the graph.)]TJ
+T*[(7:)-600(     5  %)]TJ
+T*[(8:)-600(     6  )]TJ
+T*[(9:)-600(     7  link\( a, b \).)]TJ
+-6 -11 Td
+[(10:)-600(     8  link\( a, d \).)]TJ
+T*[(11:)-600(     9  link\( b, c \).)]TJ
+T*[(12:)-600(    10  link\( d, e \).)]TJ
+T*[(13:)-600(    11  link\( e, c \).)]TJ
+T*[(14:)-600(    12  link\( e, f \).)]TJ
+T*[(15:)-600(    13  link\( f, a \).)]TJ
+T*[(16:)-600(    14  link\( f, g \).)]TJ
+T*[(17:)-600(    15  link\( f, j \).)]TJ
+T*[(18:)-600(    16  link\( g, h \).)]TJ
+T*[(19:)-600(    17  link\( h, i \).)]TJ
+T*[(20:)-600(    18  link\( i, j \).)]TJ
+T*[(21:)-600(    19  )]TJ
+T*[(22:)-600(    20  %)]TJ
+T*[(23:)-600(    21  % Prolog version of not.)]TJ
+T*[(24:)-600(    22  %)]TJ
+T*[(25:)-600(    23  )]TJ
+T*[(26:)-600(    24  not\( X \) :- X, !, fail.)]TJ
+T*[(27:)-600(    25  not\( _ \).)]TJ
+T*[(28:)-600(    26  )]TJ
+T*[(29:)-600(    27  %)]TJ
+T*[(30:)-600(    28  % Is there a path from one node to another?)]TJ
+T*[(31:)-600(    29  %)]TJ
+T*[(32:)-600(    30  )]TJ
+T*[(33:)-600(    31  %)]TJ
+T*[(34:)-600(    32  % This is the old version, which does not work on the new set)]TJ
+T*[(35:)-600(    33  % of facts.  It causes the message [WARNING: Out of local stack],)]TJ
+T*[(36:)-600(    34  % presumably due to the loop in the graph.)]TJ
+T*[(37:)-600(    35  %)]TJ
+T*[(38:)-600(    36  ispath\( L, L \).)]TJ
+T*[(39:)-600(    37  ispath\( L, M \) :- link\( L,X \),ispath\( X,M \).)]TJ
+T*[(40:)-600(    38  %)]TJ
+T*[(41:)-600(    39  )]TJ
+T*[(42:)-600(    40  ispath\( L, M \) :- ispath2\( L, M, [] \).)]TJ
+T*[(43:)-600(    41  )]TJ
+T*[(44:)-600(    42  ispath2\( L, L, _ \).)]TJ
+T*[(45:)-600(    43  ispath2\( L, M, Path \) :-)]TJ
+T*[(46:)-600(    44     link\( L, X \),)]TJ
+T*[(47:)-600(    45     not\( member\( X, Path \)\),)]TJ
+T*[(48:)-600(    46     ispath2\( X, M, [L|Path] \).)]TJ
+T*[(49:)-600(    47  )]TJ
+T*[(50:)-600(    48  %)]TJ
+T*[(51:)-600(    49  % Find a path from one node to another.)]TJ
+T*[(52:)-600(    50  %)]TJ
+T*[(53:)-600(    51  )]TJ
+T*[(54:)-600(    52  writeallpaths\( Node, Node \) :-)]TJ
+T*[(55:)-600(    53     write\( Node \), write\( ' is ' \), write\( Node \), nl.)]TJ
+T*[(56:)-600(    54  writeallpaths\( Node, Next \) :-)]TJ
+T*[(57:)-600(    55     listpath\( Node, Next, [Node], List \),)]TJ
+T*[(58:)-600(    56     write\( Node \), write\( ' to ' \), write\( Next \), write\( ' is ' \),)]TJ
+T*[(59:)-600(    57     writepath\( List \),)]TJ
+T*[(60:)-600(    58     fail.)]TJ
+T*[(61:)-600(    59  )]TJ
+T*[(62:)-600(    60  writepath\( [] \) :-)]TJ
+T*[(63:)-600(    61     nl.)]TJ
+T*[(64:)-600(    62  writepath\( [Head|Tail] \) :-)]TJ
+ET
+Q
+Q
+endstream
+endobj
+6 0 obj
+3404
+endobj
+14 0 obj
+<</Length 15 0 R>>
+stream
+q 0.1 0 0 0.1 0 0 cm
+0 G
+380 240 5360 7080 re
+S
+0.949219 g
+380 7320 5360 180 re
+f
+0.699219 g
+380 7320 720 360 re
+f
+0 g
+q
+10 0 0 10 0 0 cm BT
+/R9 12 Tf
+1 0 0 1 52.6641 752 Tm
+(03/06/12)Tj
+-0.659766 -12.8004 Td
+(21:03:05)Tj
+ET
+Q
+0.699219 g
+5020 7320 720 360 re
+f
+1 G
+1 g
+q
+10 0 0 10 0 0 cm BT
+/R7 28.8 Tf
+1 0 0 1 529.993 739.2 Tm
+(2)Tj
+ET
+Q
+0 G
+0 g
+q
+10 0 0 10 0 0 cm BT
+/R8 14 Tf
+1 0 0 1 259.647 736.5 Tm
+(graphpaths.pl.lis)Tj
+-79.3223 18 Td
+($cmps112-wm/Languages/prolog/Examples/)Tj
+/R10 10 Tf
+-118.325 -35.5 Td
+[(65:)-600(    63     write\( ' ' \), write\( Head \), writepath\( Tail \).)]TJ
+11 TL
+T*[(66:)-600(    64  )]TJ
+T*[(67:)-600(    65  listpath\( Node, End, Outlist \) :-)]TJ
+T*[(68:)-600(    66     listpath\( Node, End, [Node], Outlist \).)]TJ
+T*[(69:)-600(    67  )]TJ
+T*[(70:)-600(    68  listpath\( Node, Node, _, [Node] \).)]TJ
+T*[(71:)-600(    69  listpath\( Node, End, Tried, [Node|List] \) :-)]TJ
+T*[(72:)-600(    70     link\( Node, Next \),)]TJ
+T*[(73:)-600(    71     not\( member\( Next, Tried \)\),)]TJ
+T*[(74:)-600(    72     listpath\( Next, End, [Next|Tried], List \).)]TJ
+T*[(75:)-600(    73  )]TJ
+T*[(76:)-600(    74  )]TJ
+T*[(77:)-600(    75  % TEST: writeallpaths\(a,e\).)]TJ
+T*[(78:)-600(    76  % TEST: writeallpaths\(a,j\).)]TJ
+T*[(79:)-600(bash-3.2$ gprolog)]TJ
+T*[(80:)-600(GNU Prolog 1.3.1)]TJ
+T*[(81:)-600(By Daniel Diaz)]TJ
+T*[(82:)-600(Copyright \(C\) 1999-2009 Daniel Diaz)]TJ
+T*[(83:)-600(| ?- [graphpaths])]TJ
+54 0 Td
+([graphpaths].)Tj
+-54 -11 Td
+[(84:)-600(compiling /afs/cats.ucsc.edu/courses/cmps112-wm/Languages/prolog/Examples/graphp)]TJ
+-19 -11 Td
+(aths.pl for byte code...)Tj
+19 -11 Td
+[(85:)-600(/afs/cats.ucsc.edu/courses/cmps112-wm/Languages/prolog/Examples/graphpaths.pl co)]TJ
+-19 -11 Td
+(mpiled, 76 lines read - 4948 bytes written, 11 ms)Tj
+19 -11 Td
+(86:)Tj
+T*[(87:)-600(yes)]TJ
+T*[(88:)-600(| ?- writeallpaths\(a,e\).)]TJ
+T*[(89:)-600(a to e is  a d e)]TJ
+(90:)'
+T*[(91:)-600(no)]TJ
+T*[(92:)-600(| ?- writeallpaths\(a,j\).)]TJ
+T*[(93:)-600(a to j is  a d e f g h i j)]TJ
+T*[(94:)-600(a to j is  a d e f j)]TJ
+(95:)'
+T*[(96:)-600(no)]TJ
+T*[(97:)-600(| ?- )]TJ
+(98:)'
+(99:)'
+-6 -11 Td
+[(100:)-600(bash-3.2$ exit)]TJ
+(101:)'
+T*[(102:)-600(Script done on Tue Mar  6 21:03:05 2012)]TJ
+ET
+Q
+Q
+endstream
+endobj
+15 0 obj
+2245
+endobj
+4 0 obj
+<</Type/Page/MediaBox [0 0 612 792]
+/Parent 3 0 R
+/Resources<</ProcSet[/PDF /Text]
+/Font 12 0 R
+>>
+/Contents 5 0 R
+>>
+endobj
+13 0 obj
+<</Type/Page/MediaBox [0 0 612 792]
+/Parent 3 0 R
+/Resources<</ProcSet[/PDF /Text]
+/Font 16 0 R
+>>
+/Contents 14 0 R
+>>
+endobj
+3 0 obj
+<< /Type /Pages /Kids [
+4 0 R
+13 0 R
+] /Count 2
+>>
+endobj
+1 0 obj
+<</Type /Catalog /Pages 3 0 R
+>>
+endobj
+12 0 obj
+<</R8
+8 0 R/R10
+10 0 R/R7
+7 0 R/R9
+9 0 R/R11
+11 0 R>>
+endobj
+16 0 obj
+<</R8
+8 0 R/R10
+10 0 R/R7
+7 0 R/R9
+9 0 R>>
+endobj
+8 0 obj
+<</BaseFont/Times-Roman/Type/Font
+/Subtype/Type1>>
+endobj
+10 0 obj
+<</BaseFont/Courier/Type/Font
+/Subtype/Type1>>
+endobj
+7 0 obj
+<</BaseFont/Helvetica-Bold/Type/Font
+/Subtype/Type1>>
+endobj
+9 0 obj
+<</BaseFont/Times-Bold/Type/Font
+/Subtype/Type1>>
+endobj
+11 0 obj
+<</BaseFont/Courier-Bold/Type/Font
+/Subtype/Type1>>
+endobj
+2 0 obj
+<</Producer(ESP Ghostscript 815.02)
+/CreationDate(D:20120306211105)
+/ModDate(D:20120306211105)>>endobj
+xref
+0 17
+0000000000 65535 f 
+0000006135 00000 n 
+0000006643 00000 n 
+0000006069 00000 n 
+0000005801 00000 n 
+0000000009 00000 n 
+0000003463 00000 n 
+0000006441 00000 n 
+0000006312 00000 n 
+0000006510 00000 n 
+0000006378 00000 n 
+0000006575 00000 n 
+0000006183 00000 n 
+0000005934 00000 n 
+0000003483 00000 n 
+0000005780 00000 n 
+0000006253 00000 n 
+trailer
+<< /Size 17 /Root 1 0 R /Info 2 0 R
+/ID [<1447079D4350CB940DAB80411A1C5232><1447079D4350CB940DAB80411A1C5232>]
+>>
+startxref
+6754
+%%EOF

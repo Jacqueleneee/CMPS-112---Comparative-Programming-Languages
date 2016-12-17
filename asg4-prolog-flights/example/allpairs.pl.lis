@@ -1,0 +1,58 @@
+Script started on Tue Mar  6 21:10:12 2012
+bash-3.2$ cat -n allpairs.pl
+     1	% $Id: allpairs.pl,v 1.2 2011-05-19 19:53:59-07 - - $ */
+     2	
+     3	%
+     4	% Query pair will return all pairs.
+     5	%
+     6	
+     7	positive(red).
+     8	positive(green).
+     9	positive(blue).
+    10	negative(cyan).
+    11	negative(magenta).
+    12	negative(yellow).
+    13	
+    14	pair(Pos,Neg) :- positive(Pos), negative(Neg).
+    15	
+    16	allpairs :- pair(Pos,Neg), print( pair(Pos,Neg) ), nl, fail.
+    17	
+    18	:- initialization(allpairs).
+    19	
+bash-3.2$ gprolog
+GNU Prolog 1.3.1
+By Daniel Diaz
+Copyright (C) 1999-2009 Daniel Diaz
+| ?- [allpairs][allpairs].
+compiling /afs/cats.ucsc.edu/courses/cmps112-wm/Languages/prolog/Examples/allpairs.pl for byte code...
+/afs/cats.ucsc.edu/courses/cmps112-wm/Languages/prolog/Examples/allpairs.pl compiled, 19 lines read - 1359 bytes written, 10 ms
+pair(red,cyan)
+pair(red,magenta)
+pair(red,yellow)
+pair(green,cyan)
+pair(green,magenta)
+pair(green,yellow)
+pair(blue,cyan)
+pair(blue,magenta)
+pair(blue,yellow)
+warning: /afs/cats.ucsc.edu/courses/cmps112-wm/Languages/prolog/Examples/allpairs.pl:18: user directive failed
+
+yes
+| ?- allpairs.
+pair(red,cyan)
+pair(red,magenta)
+pair(red,yellow)
+pair(green,cyan)
+pair(green,magenta)
+pair(green,yellow)
+pair(blue,cyan)
+pair(blue,magenta)
+pair(blue,yellow)
+
+no
+| ?- 
+
+
+bash-3.2$ exit
+
+Script done on Tue Mar  6 21:10:32 2012

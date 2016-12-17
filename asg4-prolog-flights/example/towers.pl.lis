@@ -1,0 +1,87 @@
+Script started on Tue Mar  6 21:07:52 2012
+bash-3.2$ cat -n towers.pl
+     1	% $Id: towers.pl,v 1.3 2011-05-19 19:53:59-07 - - $ */
+     2	
+     3	%
+     4	% Towers problem.
+     5	%
+     6	
+     7	towers( N ) :-
+     8	   move( N, source, spare, target ).
+     9	
+    10	move( 0, _, _, _ ) :-
+    11	   !.
+    12	
+    13	move( N, Source, Spare, Target ) :-
+    14	   M is N - 1,
+    15	   move( M, Source, Target, Spare ),
+    16	   report( Source, Target ),
+    17	   move( M, Spare, Source, Target ).
+    18	
+    19	report( Source, Target ) :-
+    20	   write( 'Move a disk from the ' ),
+    21	   write( Source ),
+    22	   write( ' peg to the ' ),
+    23	   write( Target ),
+    24	   write( ' peg.'),
+    25	   nl.
+    26	
+    27	% TEST: towers(4).
+bash-3.2$ gprolog
+GNU Prolog 1.3.1
+By Daniel Diaz
+Copyright (C) 1999-2009 Daniel Diaz
+| ?- [towers][towers].
+compiling /afs/cats.ucsc.edu/courses/cmps112-wm/Languages/prolog/Examples/towers.pl for byte code...
+/afs/cats.ucsc.edu/courses/cmps112-wm/Languages/prolog/Examples/towers.pl compiled, 27 lines read - 1746 bytes written, 11 ms
+
+yes
+| ?- towers(3)(3).
+Move a disk from the source peg to the target peg.
+Move a disk from the source peg to the spare peg.
+Move a disk from the target peg to the spare peg.
+Move a disk from the source peg to the target peg.
+Move a disk from the spare peg to the source peg.
+Move a disk from the spare peg to the target peg.
+Move a disk from the source peg to the target peg.
+
+yes
+| ?- towers(5)(5).
+Move a disk from the source peg to the target peg.
+Move a disk from the source peg to the spare peg.
+Move a disk from the target peg to the spare peg.
+Move a disk from the source peg to the target peg.
+Move a disk from the spare peg to the source peg.
+Move a disk from the spare peg to the target peg.
+Move a disk from the source peg to the target peg.
+Move a disk from the source peg to the spare peg.
+Move a disk from the target peg to the spare peg.
+Move a disk from the target peg to the source peg.
+Move a disk from the spare peg to the source peg.
+Move a disk from the target peg to the spare peg.
+Move a disk from the source peg to the target peg.
+Move a disk from the source peg to the spare peg.
+Move a disk from the target peg to the spare peg.
+Move a disk from the source peg to the target peg.
+Move a disk from the spare peg to the source peg.
+Move a disk from the spare peg to the target peg.
+Move a disk from the source peg to the target peg.
+Move a disk from the spare peg to the source peg.
+Move a disk from the target peg to the spare peg.
+Move a disk from the target peg to the source peg.
+Move a disk from the spare peg to the source peg.
+Move a disk from the spare peg to the target peg.
+Move a disk from the source peg to the target peg.
+Move a disk from the source peg to the spare peg.
+Move a disk from the target peg to the spare peg.
+Move a disk from the source peg to the target peg.
+Move a disk from the spare peg to the source peg.
+Move a disk from the spare peg to the target peg.
+Move a disk from the source peg to the target peg.
+
+(1 ms) yes
+| ?- 
+
+bash-3.2$ exit
+
+Script done on Tue Mar  6 21:08:54 2012

@@ -1,0 +1,102 @@
+Script started on Tue Mar  6 21:02:25 2012
+bash-3.2$ cat -n graphpaths.pl
+     1	% $Id: graphpaths.pl,v 1.3 2011-05-19 19:53:59-07 - - $ */
+     2	
+     3	%
+     4	% Define the links in the graph.
+     5	%
+     6	
+     7	link( a, b ).
+     8	link( a, d ).
+     9	link( b, c ).
+    10	link( d, e ).
+    11	link( e, c ).
+    12	link( e, f ).
+    13	link( f, a ).
+    14	link( f, g ).
+    15	link( f, j ).
+    16	link( g, h ).
+    17	link( h, i ).
+    18	link( i, j ).
+    19	
+    20	%
+    21	% Prolog version of not.
+    22	%
+    23	
+    24	not( X ) :- X, !, fail.
+    25	not( _ ).
+    26	
+    27	%
+    28	% Is there a path from one node to another?
+    29	%
+    30	
+    31	%
+    32	% This is the old version, which does not work on the new set
+    33	% of facts.  It causes the message [WARNING: Out of local stack],
+    34	% presumably due to the loop in the graph.
+    35	%
+    36	ispath( L, L ).
+    37	ispath( L, M ) :- link( L,X ),ispath( X,M ).
+    38	%
+    39	
+    40	ispath( L, M ) :- ispath2( L, M, [] ).
+    41	
+    42	ispath2( L, L, _ ).
+    43	ispath2( L, M, Path ) :-
+    44	   link( L, X ),
+    45	   not( member( X, Path )),
+    46	   ispath2( X, M, [L|Path] ).
+    47	
+    48	%
+    49	% Find a path from one node to another.
+    50	%
+    51	
+    52	writeallpaths( Node, Node ) :-
+    53	   write( Node ), write( ' is ' ), write( Node ), nl.
+    54	writeallpaths( Node, Next ) :-
+    55	   listpath( Node, Next, [Node], List ),
+    56	   write( Node ), write( ' to ' ), write( Next ), write( ' is ' ),
+    57	   writepath( List ),
+    58	   fail.
+    59	
+    60	writepath( [] ) :-
+    61	   nl.
+    62	writepath( [Head|Tail] ) :-
+    63	   write( ' ' ), write( Head ), writepath( Tail ).
+    64	
+    65	listpath( Node, End, Outlist ) :-
+    66	   listpath( Node, End, [Node], Outlist ).
+    67	
+    68	listpath( Node, Node, _, [Node] ).
+    69	listpath( Node, End, Tried, [Node|List] ) :-
+    70	   link( Node, Next ),
+    71	   not( member( Next, Tried )),
+    72	   listpath( Next, End, [Next|Tried], List ).
+    73	
+    74	
+    75	% TEST: writeallpaths(a,e).
+    76	% TEST: writeallpaths(a,j).
+bash-3.2$ gprolog
+GNU Prolog 1.3.1
+By Daniel Diaz
+Copyright (C) 1999-2009 Daniel Diaz
+| ?- [graphpaths][graphpaths].
+compiling /afs/cats.ucsc.edu/courses/cmps112-wm/Languages/prolog/Examples/graphpaths.pl for byte code...
+/afs/cats.ucsc.edu/courses/cmps112-wm/Languages/prolog/Examples/graphpaths.pl compiled, 76 lines read - 4948 bytes written, 11 ms
+
+yes
+| ?- writeallpaths(a,e).
+a to e is  a d e
+
+no
+| ?- writeallpaths(a,j).
+a to j is  a d e f g h i j
+a to j is  a d e f j
+
+no
+| ?- 
+
+
+bash-3.2$ exit
+
+Script done on Tue Mar  6 21:03:05 2012

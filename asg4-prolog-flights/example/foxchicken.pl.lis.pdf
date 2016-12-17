@@ -1,0 +1,561 @@
+%PDF-1.2
+5 0 obj
+<</Length 6 0 R>>
+stream
+q 0.1 0 0 0.1 0 0 cm
+1 i
+0 G
+380 240 5360 7080 re
+S
+0.949219 g
+380 7320 5360 180 re
+f
+0.699219 g
+380 7320 720 360 re
+f
+0 g
+q
+10 0 0 10 0 0 cm BT
+/R9 12 Tf
+1 0 0 1 52.6641 752 Tm
+(03/06/12)Tj
+-0.659766 -12.8004 Td
+(21:01:59)Tj
+ET
+Q
+0.699219 g
+5020 7320 720 360 re
+f
+1 G
+1 g
+q
+10 0 0 10 0 0 cm BT
+/R7 28.8 Tf
+1 0 0 1 529.993 739.2 Tm
+(1)Tj
+ET
+Q
+0 G
+0 g
+q
+10 0 0 10 0 0 cm BT
+/R8 14 Tf
+1 0 0 1 259.339 736.5 Tm
+(foxchicken.pl.lis)Tj
+-79.0145 18 Td
+($cmps112-wm/Languages/prolog/Examples/)Tj
+/R10 10 Tf
+-112.325 -35.5 Td
+[(1:)-600(Script started on Tue Mar  6 21:01:00 2012)]TJ
+11 TL
+T*[(2:)-600(bash-3.2$ cat -n fox\\007chicken.pl)]TJ
+T*[(3:)-600(     1  % $Id: foxchicken.pl,v 1.3 2011-05-19 19:53:59-07 - - $ */)]TJ
+T*[(4:)-600(     2  )]TJ
+T*[(5:)-600(     3  %)]TJ
+T*[(6:)-600(     4  % A farmer has with him a fox, a chicken, and a sack of grain.)]TJ
+T*[(7:)-600(     5  % He comes to a river and sees a small boat.  He needs to bring)]TJ
+T*[(8:)-600(     6  % all three of his things across the river, but the boat is so)]TJ
+T*[(9:)-600(     7  % small that only one thing will fit in it with him.  He can not)]TJ
+-6 -11 Td
+[(10:)-600(     8  % leave the fox and the chicken together or the fox will eat the)]TJ
+T*[(11:)-600(     9  % chicken.  He can not leave the chicken and the grain together)]TJ
+T*[(12:)-600(    10  % or the chicken will eat the grain.  The fox, however, does not)]TJ
+T*[(13:)-600(    11  % eat grain.  How should the farmer proceed?)]TJ
+T*[(14:)-600(    12  %)]TJ
+T*[(15:)-600(    13  )]TJ
+T*[(16:)-600(    14  not\( X \) :- X, !, fail.)]TJ
+T*[(17:)-600(    15  not\( _ \).)]TJ
+T*[(18:)-600(    16  )]TJ
+T*[(19:)-600(    17  %)]TJ
+T*[(20:)-600(    18  % FACTS AND CULLINARY HABITS:)]TJ
+T*[(21:)-600(    19  %)]TJ
+T*[(22:)-600(    20  )]TJ
+T*[(23:)-600(    21  eats\( fox, chicken \).)]TJ
+T*[(24:)-600(    22  eats\( chicken, grain \).)]TJ
+T*[(25:)-600(    23  property\( [ fox, chicken, grain ] \).)]TJ
+T*[(26:)-600(    24  goal\( other \).)]TJ
+T*[(27:)-600(    25  start\( first \).)]TJ
+T*[(28:)-600(    26  )]TJ
+T*[(29:)-600(    27  chow_time\( List \) :-)]TJ
+T*[(30:)-600(    28     member_of\( Diner, List \),)]TJ
+T*[(31:)-600(    29     member_of\( Dinner, List \),)]TJ
+T*[(32:)-600(    30     eats\( Diner, Dinner \).)]TJ
+T*[(33:)-600(    31  )]TJ
+T*[(34:)-600(    32  %)]TJ
+T*[(35:)-600(    33  % SET RELATIONS:)]TJ
+T*[(36:)-600(    34  %)]TJ
+T*[(37:)-600(    35  )]TJ
+T*[(38:)-600(    36  member_of\( H, [ H | _ ] \).)]TJ
+T*[(39:)-600(    37  member_of\( H, [ _ | T ] \) :- member_of\( H, T \).)]TJ
+T*[(40:)-600(    38  )]TJ
+T*[(41:)-600(    39  matches\( [], [] \).)]TJ
+T*[(42:)-600(    40  matches\( [ H | T1 ], [ H | T2 ] \) :- matches\( T1, T2 \).)]TJ
+T*[(43:)-600(    41  )]TJ
+T*[(44:)-600(    42  removex\( H, [ H | T ], T \).)]TJ
+T*[(45:)-600(    43  removex\( X, [ H | T ], [ H | U ] \) :- removex\( X, T, U \).)]TJ
+T*[(46:)-600(    44  )]TJ
+T*[(47:)-600(    45  insert\( H, T, [ H | T ] \).)]TJ
+T*[(48:)-600(    46  )]TJ
+ET
+Q
+Q
+endstream
+endobj
+6 0 obj
+2972
+endobj
+14 0 obj
+<</Length 15 0 R>>
+stream
+q 0.1 0 0 0.1 0 0 cm
+0 G
+380 240 5360 7080 re
+S
+0.949219 g
+380 7320 5360 180 re
+f
+0.699219 g
+380 7320 720 360 re
+f
+0 g
+q
+10 0 0 10 0 0 cm BT
+/R9 12 Tf
+1 0 0 1 52.6641 752 Tm
+(03/06/12)Tj
+-0.659766 -12.8004 Td
+(21:01:59)Tj
+ET
+Q
+0.699219 g
+5020 7320 720 360 re
+f
+1 G
+1 g
+q
+10 0 0 10 0 0 cm BT
+/R7 28.8 Tf
+1 0 0 1 529.993 739.2 Tm
+(2)Tj
+ET
+Q
+0 G
+0 g
+q
+10 0 0 10 0 0 cm BT
+/R8 14 Tf
+1 0 0 1 259.339 736.5 Tm
+(foxchicken.pl.lis)Tj
+-79.0145 18 Td
+($cmps112-wm/Languages/prolog/Examples/)Tj
+/R10 10 Tf
+-118.325 -46.5 Td
+[(49:)-600(    47  %)]TJ
+11 TL
+T*[(50:)-600(    48  % TRAVEL PLANS AND FREQUENT PADDLER MILES.)]TJ
+T*[(51:)-600(    49  %)]TJ
+T*[(52:)-600(    50  )]TJ
+T*[(53:)-600(    51  travel :-)]TJ
+T*[(54:)-600(    52     start\( From \),)]TJ
+T*[(55:)-600(    53     goal\( To \),)]TJ
+T*[(56:)-600(    54     property\( Property \),)]TJ
+T*[(57:)-600(    55     print_start\( From, To, Property, [] \),)]TJ
+T*[(58:)-600(    56     move\( From, To, Property, [], nothing \),)]TJ
+T*[(59:)-600(    57     print_done.)]TJ
+T*[(60:)-600(    58  )]TJ
+T*[(61:)-600(    59  move\( From, _, _, [], _ \) :-)]TJ
+T*[(62:)-600(    60     goal\( From \).)]TJ
+T*[(63:)-600(    61  )]TJ
+T*[(64:)-600(    62  move\( From, To, This, That, _ \) :-)]TJ
+T*[(65:)-600(    63     start\( To \),)]TJ
+T*[(66:)-600(    64     goal\( From \),)]TJ
+T*[(67:)-600(    65     not\( chow_time\( This \)\),)]TJ
+T*[(68:)-600(    66     print_alone\( From, To, This, That \),)]TJ
+T*[(69:)-600(    67     move\( To, From, That, This, nothing \).)]TJ
+T*[(70:)-600(    68  )]TJ
+T*[(71:)-600(    69  move\( From, To, This, That, Just_took \) :-)]TJ
+T*[(72:)-600(    70     removex\( What, This, This_later \),)]TJ
+T*[(73:)-600(    71     not\( Just_took = What \),)]TJ
+T*[(74:)-600(    72     not\( chow_time\( This_later \)\),)]TJ
+T*[(75:)-600(    73     insert\( What, That, That_later \),)]TJ
+T*[(76:)-600(    74     print_takes\( What, From, To, This_later, That_later \),)]TJ
+T*[(77:)-600(    75     move\( To, From, That_later, This_later, What \).)]TJ
+T*[(78:)-600(    76  )]TJ
+ET
+Q
+Q
+endstream
+endobj
+15 0 obj
+2052
+endobj
+18 0 obj
+<</Length 19 0 R>>
+stream
+q 0.1 0 0 0.1 0 0 cm
+0 G
+380 240 5360 7080 re
+S
+0.949219 g
+380 7320 5360 180 re
+f
+0.699219 g
+380 7320 720 360 re
+f
+0 g
+q
+10 0 0 10 0 0 cm BT
+/R9 12 Tf
+1 0 0 1 52.6641 752 Tm
+(03/06/12)Tj
+-0.659766 -12.8004 Td
+(21:01:59)Tj
+ET
+Q
+0.699219 g
+5020 7320 720 360 re
+f
+1 G
+1 g
+q
+10 0 0 10 0 0 cm BT
+/R7 28.8 Tf
+1 0 0 1 529.993 739.2 Tm
+(3)Tj
+ET
+Q
+0 G
+0 g
+q
+10 0 0 10 0 0 cm BT
+/R8 14 Tf
+1 0 0 1 259.339 736.5 Tm
+(foxchicken.pl.lis)Tj
+-79.0145 18 Td
+($cmps112-wm/Languages/prolog/Examples/)Tj
+/R10 10 Tf
+-118.325 -46.5 Td
+[(79:)-600(    77  %)]TJ
+11 TL
+T*[(80:)-600(    78  % TRAVEL INSTRUCTIONS.)]TJ
+T*[(81:)-600(    79  %)]TJ
+T*[(82:)-600(    80  )]TJ
+T*[(83:)-600(    81  print_start\( From, To, This, That \) :-)]TJ
+T*[(84:)-600(    82     nl,)]TJ
+T*[(85:)-600(    83     write\( 'The farmer is by a river and ' \),)]TJ
+T*[(86:)-600(    84     write\( 'wants to take his cargo across.' \),)]TJ
+T*[(87:)-600(    85     nl,)]TJ
+T*[(88:)-600(    86     print_status\( From, This \),)]TJ
+T*[(89:)-600(    87     print_status\( To, That \).)]TJ
+T*[(90:)-600(    88  )]TJ
+T*[(91:)-600(    89  print_done :-)]TJ
+T*[(92:)-600(    90     nl,)]TJ
+T*[(93:)-600(    91     write\( 'Finally, the farmer is done!' \),)]TJ
+T*[(94:)-600(    92     nl.)]TJ
+T*[(95:)-600(    93  )]TJ
+T*[(96:)-600(    94  print_takes\( What, From, To, This, That \) :-)]TJ
+T*[(97:)-600(    95     nl,)]TJ
+T*[(98:)-600(    96     write\( 'The farmer takes the ' \),)]TJ
+T*[(99:)-600(    97     write\( What \),)]TJ
+-6 -11 Td
+[(100:)-600(    98     write\( ' from the ' \),)]TJ
+T*[(101:)-600(    99     write\( From \),)]TJ
+T*[(102:)-600(   100     write\( ' side to the ' \),)]TJ
+T*[(103:)-600(   101     write\( To \),)]TJ
+T*[(104:)-600(   102     write\( ' side.' \),)]TJ
+T*[(105:)-600(   103     nl,)]TJ
+T*[(106:)-600(   104     print_status\( From, This \),)]TJ
+T*[(107:)-600(   105     print_status\( To, That \).)]TJ
+T*[(108:)-600(   106  )]TJ
+T*[(109:)-600(   107  print_alone\( From, To, This, That \) :-)]TJ
+T*[(110:)-600(   108     nl,)]TJ
+T*[(111:)-600(   109     write\( 'The farmer travels alone from the ' \),)]TJ
+T*[(112:)-600(   110     write\( From \),)]TJ
+T*[(113:)-600(   111     write\( ' side to the ' \),)]TJ
+T*[(114:)-600(   112     write\( To \),)]TJ
+T*[(115:)-600(   113     write\( ' side.' \),)]TJ
+T*[(116:)-600(   114     nl,)]TJ
+T*[(117:)-600(   115     print_status\( From, This \),)]TJ
+T*[(118:)-600(   116     print_status\( To, That \).)]TJ
+T*[(119:)-600(   117  )]TJ
+T*[(120:)-600(   118  print_status\( Where, What \) :-)]TJ
+T*[(121:)-600(   119     tab\( 10 \),)]TJ
+T*[(122:)-600(   120     write\( 'On the ' \),)]TJ
+T*[(123:)-600(   121     write\( Where \),)]TJ
+T*[(124:)-600(   122     write\( ' side is ' \),)]TJ
+T*[(125:)-600(   123     print_list\( nothing, '', What \).)]TJ
+T*[(126:)-600(   124  )]TJ
+T*[(127:)-600(   125  print_list\( Nothing, _, [] \) :-)]TJ
+T*[(128:)-600(   126     write\( Nothing \),)]TJ
+T*[(129:)-600(   127     write\( '.' \),)]TJ
+T*[(130:)-600(   128     nl.)]TJ
+T*[(131:)-600(   129  )]TJ
+T*[(132:)-600(   130  print_list\( _, Comma, [ H | T ] \) :-)]TJ
+T*[(133:)-600(   131     write\( Comma \),)]TJ
+T*[(134:)-600(   132     write\( 'the ' \),)]TJ
+T*[(135:)-600(   133     write\( H \),)]TJ
+T*[(136:)-600(   134     print_list\( '', ', ', T \).)]TJ
+T*[(137:)-600(   135  )]TJ
+T*[(138:)-600(   136  % TEST: travel.)]TJ
+T*[(139:)-600(   137  )]TJ
+T*[(140:)-600(bash-3.2$ gprolog)]TJ
+T*[(141:)-600(GNU Prolog 1.3.1)]TJ
+ET
+Q
+Q
+endstream
+endobj
+19 0 obj
+3452
+endobj
+22 0 obj
+<</Length 23 0 R>>
+stream
+q 0.1 0 0 0.1 0 0 cm
+0 G
+380 240 5360 7080 re
+S
+0.949219 g
+380 7320 5360 180 re
+f
+0.699219 g
+380 7320 720 360 re
+f
+0 g
+q
+10 0 0 10 0 0 cm BT
+/R9 12 Tf
+1 0 0 1 52.6641 752 Tm
+(03/06/12)Tj
+-0.659766 -12.8004 Td
+(21:01:59)Tj
+ET
+Q
+0.699219 g
+5020 7320 720 360 re
+f
+1 G
+1 g
+q
+10 0 0 10 0 0 cm BT
+/R7 28.8 Tf
+1 0 0 1 529.993 739.2 Tm
+(4)Tj
+ET
+Q
+0 G
+0 g
+q
+10 0 0 10 0 0 cm BT
+/R8 14 Tf
+1 0 0 1 259.339 736.5 Tm
+(foxchicken.pl.lis)Tj
+-79.0145 18 Td
+($cmps112-wm/Languages/prolog/Examples/)Tj
+/R10 10 Tf
+-124.325 -35.5 Td
+[(142:)-600(By Daniel Diaz)]TJ
+11 TL
+T*[(143:)-600(Copyright \(C\) 1999-2009 Daniel Diaz)]TJ
+T*[(144:)-600(| ?- [foxchicken])]TJ
+60 0 Td
+([foxchicken].)Tj
+-60 -11 Td
+[(145:)-600(compiling /afs/cats.ucsc.edu/courses/cmps112-wm/Languages/prolog/Examples/foxchi)]TJ
+-13 -11 Td
+(cken.pl for byte code...)Tj
+13 -11 Td
+[(146:)-600(/afs/cats.ucsc.edu/courses/cmps112-wm/Languages/prolog/Examples/foxchicken.pl co)]TJ
+-13 -11 Td
+(mpiled, 137 lines read - 9261 bytes written, 14 ms)Tj
+13 -11 Td
+(147:)Tj
+T*[(148:)-600(\(1 ms\) yes)]TJ
+T*[(149:)-600(| ?- travel.)]TJ
+(150:)'
+T*[(151:)-600(The farmer is by a river and wants to take his cargo across.)]TJ
+T*[(152:)-600(          On the first side is the fox, the chicken, the grain.)]TJ
+T*[(153:)-600(          On the other side is nothing.)]TJ
+(154:)'
+T*[(155:)-600(The farmer takes the chicken from the first side to the other side.)]TJ
+T*[(156:)-600(          On the first side is the fox, the grain.)]TJ
+T*[(157:)-600(          On the other side is the chicken.)]TJ
+(158:)'
+T*[(159:)-600(The farmer travels alone from the other side to the first side.)]TJ
+T*[(160:)-600(          On the other side is the chicken.)]TJ
+T*[(161:)-600(          On the first side is the fox, the grain.)]TJ
+(162:)'
+T*[(163:)-600(The farmer takes the fox from the first side to the other side.)]TJ
+T*[(164:)-600(          On the first side is the grain.)]TJ
+T*[(165:)-600(          On the other side is the fox, the chicken.)]TJ
+(166:)'
+T*[(167:)-600(The farmer takes the chicken from the other side to the first side.)]TJ
+T*[(168:)-600(          On the other side is the fox.)]TJ
+T*[(169:)-600(          On the first side is the chicken, the grain.)]TJ
+(170:)'
+T*[(171:)-600(The farmer takes the grain from the first side to the other side.)]TJ
+T*[(172:)-600(          On the first side is the chicken.)]TJ
+T*[(173:)-600(          On the other side is the grain, the fox.)]TJ
+(174:)'
+T*[(175:)-600(The farmer travels alone from the other side to the first side.)]TJ
+T*[(176:)-600(          On the other side is the grain, the fox.)]TJ
+T*[(177:)-600(          On the first side is the chicken.)]TJ
+(178:)'
+T*[(179:)-600(The farmer takes the chicken from the first side to the other side.)]TJ
+T*[(180:)-600(          On the first side is nothing.)]TJ
+T*[(181:)-600(          On the other side is the chicken, the grain, the fox.)]TJ
+(182:)'
+T*[(183:)-600(Finally, the farmer is done!)]TJ
+(184:)'
+T*[(185:)-600(true ? )]TJ
+(186:)'
+T*[(187:)-600(\(1 ms\) yes)]TJ
+T*[(188:)-600(| ?- )]TJ
+(189:)'
+T*[(190:)-600(bash-3.2$ exit)]TJ
+(191:)'
+T*[(192:)-600(Script done on Tue Mar  6 21:01:59 2012)]TJ
+ET
+Q
+Q
+endstream
+endobj
+23 0 obj
+3133
+endobj
+4 0 obj
+<</Type/Page/MediaBox [0 0 612 792]
+/Parent 3 0 R
+/Resources<</ProcSet[/PDF /Text]
+/Font 12 0 R
+>>
+/Contents 5 0 R
+>>
+endobj
+13 0 obj
+<</Type/Page/MediaBox [0 0 612 792]
+/Parent 3 0 R
+/Resources<</ProcSet[/PDF /Text]
+/Font 16 0 R
+>>
+/Contents 14 0 R
+>>
+endobj
+17 0 obj
+<</Type/Page/MediaBox [0 0 612 792]
+/Parent 3 0 R
+/Resources<</ProcSet[/PDF /Text]
+/Font 20 0 R
+>>
+/Contents 18 0 R
+>>
+endobj
+21 0 obj
+<</Type/Page/MediaBox [0 0 612 792]
+/Parent 3 0 R
+/Resources<</ProcSet[/PDF /Text]
+/Font 24 0 R
+>>
+/Contents 22 0 R
+>>
+endobj
+3 0 obj
+<< /Type /Pages /Kids [
+4 0 R
+13 0 R
+17 0 R
+21 0 R
+] /Count 4
+>>
+endobj
+1 0 obj
+<</Type /Catalog /Pages 3 0 R
+>>
+endobj
+12 0 obj
+<</R8
+8 0 R/R10
+10 0 R/R7
+7 0 R/R9
+9 0 R/R11
+11 0 R>>
+endobj
+16 0 obj
+<</R8
+8 0 R/R10
+10 0 R/R7
+7 0 R/R9
+9 0 R>>
+endobj
+20 0 obj
+<</R8
+8 0 R/R10
+10 0 R/R7
+7 0 R/R9
+9 0 R>>
+endobj
+24 0 obj
+<</R8
+8 0 R/R10
+10 0 R/R7
+7 0 R/R9
+9 0 R>>
+endobj
+8 0 obj
+<</BaseFont/Times-Roman/Type/Font
+/Subtype/Type1>>
+endobj
+10 0 obj
+<</BaseFont/Courier/Type/Font
+/Subtype/Type1>>
+endobj
+7 0 obj
+<</BaseFont/Helvetica-Bold/Type/Font
+/Subtype/Type1>>
+endobj
+9 0 obj
+<</BaseFont/Times-Bold/Type/Font
+/Subtype/Type1>>
+endobj
+11 0 obj
+<</BaseFont/Courier-Bold/Type/Font
+/Subtype/Type1>>
+endobj
+2 0 obj
+<</Producer(ESP Ghostscript 815.02)
+/CreationDate(D:20120306211105)
+/ModDate(D:20120306211105)>>endobj
+xref
+0 25
+0000000000 65535 f 
+0000012525 00000 n 
+0000013151 00000 n 
+0000012445 00000 n 
+0000011907 00000 n 
+0000000009 00000 n 
+0000003031 00000 n 
+0000012949 00000 n 
+0000012820 00000 n 
+0000013018 00000 n 
+0000012886 00000 n 
+0000013083 00000 n 
+0000012573 00000 n 
+0000012040 00000 n 
+0000003051 00000 n 
+0000005155 00000 n 
+0000012643 00000 n 
+0000012175 00000 n 
+0000005176 00000 n 
+0000008680 00000 n 
+0000012702 00000 n 
+0000012310 00000 n 
+0000008701 00000 n 
+0000011886 00000 n 
+0000012761 00000 n 
+trailer
+<< /Size 25 /Root 1 0 R /Info 2 0 R
+/ID [<91755EEE2FF6A05B232C8050BF99B355><91755EEE2FF6A05B232C8050BF99B355>]
+>>
+startxref
+13262
+%%EOF
